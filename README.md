@@ -1,6 +1,8 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [10/01/2019] Carlos presents "Neural Ordinary Differential Equations" https://arxiv.org/abs/1806.07366
+
 - [20/12/2018] Gary presents "The Marginal Value of Adaptive Gradient Methods in Machine Learning" https://arxiv.org/pdf/1705.08292.pdf
 
 - [13/12/2018] Carlos presents "ResNet with one-neuron hidden layers is a Universal Approximator" https://arxiv.org/pdf/1806.10909.pdf
