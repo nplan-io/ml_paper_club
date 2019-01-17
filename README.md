@@ -1,6 +1,8 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [17/01/2019] Chris presents "Visualizing Data using t-SNE" http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
 - [10/01/2019] Carlos presents "Neural Ordinary Differential Equations" https://arxiv.org/abs/1806.07366
 
 - [20/12/2018] Gary presents "The Marginal Value of Adaptive Gradient Methods in Machine Learning" https://arxiv.org/pdf/1705.08292.pdf
