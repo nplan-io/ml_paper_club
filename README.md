@@ -1,24 +1,24 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
-- [17/01/2019] Chris presents "Visualizing Data using t-SNE" http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+- [17/01/2019] Chris presents: Maaten, L. V. D., & Hinton, G. (2008). [Visualizing data using t-SNE.](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) Journal of machine learning research.
 
-- [10/01/2019] Carlos presents "Neural Ordinary Differential Equations" https://arxiv.org/abs/1806.07366
+- [10/01/2019] Carlos presents: Chen, T. Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). [Neural Ordinary Differential Equations.](https://arxiv.org/abs/1806.07366) arXiv:1806.07366.
 
-- [20/12/2018] Gary presents "The Marginal Value of Adaptive Gradient Methods in Machine Learning" https://arxiv.org/pdf/1705.08292.pdf
+- [20/12/2018] Gary presents: Wilson, A. C., Roelofs, R., Stern, M., Srebro, N., & Recht, B. (2017). [The marginal value of adaptive gradient methods in machine learning.](https://arxiv.org/pdf/1705.08292.pdf) In Advances in Neural Information Processing Systems.
 
-- [13/12/2018] Carlos presents "ResNet with one-neuron hidden layers is a Universal Approximator" https://arxiv.org/pdf/1806.10909.pdf
+- [13/12/2018] Carlos presents: Lin, H., & Jegelka, S. (2018). [ResNet with one-neuron hidden layers is a Universal Approximator.](https://arxiv.org/pdf/1806.10909.pdf) In Advances in Neural Information Processing Systems.
 
-- [06/12/2018] Auke presents "Deep Image Prior" https://arxiv.org/pdf/1711.10925.pdf
+- [06/12/2018] Auke presents: Ulyanov, D., Vedaldi, A., & Lempitsky, V. (2018). [Deep image prior.](https://arxiv.org/pdf/1711.10925.pdf) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 9446-9454).
 
-- [29/11/2018] "Understanding Deep Learning Requires Rethinking Generalization" https://arxiv.org/pdf/1611.03530.pdf
+- [29/11/2018] Vahan presents: Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2016). [Understanding deep learning requires rethinking generalization.](https://arxiv.org/pdf/1611.03530.pdf) arXiv:1611.03530.
 
-- [22/11/2018] Gary presents "Don't Decay the Learning Rate, Increase the Batch Size" https://arxiv.org/abs/1711.00489
+- [22/11/2018] Gary presents: Smith, S. L., Kindermans, P. J., Ying, C., & Le, Q. V. (2017). [Don't decay the learning rate, increase the batch size.](https://arxiv.org/abs/1711.00489) arXiv:1711.00489. 
 
-- [15/11/2018] Joao presents "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling" https://arxiv.org/pdf/1803.01271.pdf
+- [15/11/2018] Joao presents: Bai, S., Kolter, J. Z., & Koltun, V. (2018). [An empirical evaluation of generic convolutional and recurrent networks for sequence modeling.](https://arxiv.org/pdf/1803.01271.pdf) arXiv:1803.01271.
 
-- [01/11/2018] "A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems"
+- [01/11/2018] Vahan presents: Beck, A., & Teboulle, M. (2009). A fast iterative shrinkage-thresholding algorithm for linear inverse problems. SIAM journal on imaging sciences.
 
-- [18/10/2018] "Universal Language Model Fine-tuning for Text Classification" https://arxiv.org/pdf/1801.06146.pdf
+- [18/10/2018] Carlos presents: Howard, J., & Ruder, S. (2018). [Universal language model fine-tuning for text classification.](https://arxiv.org/pdf/1801.06146.pdf) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics.
 
-- [11/10/2018] "Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts" http://www.aclweb.org/anthology/C14-1008
+- [11/10/2018] dos Santos, C., & Gatti, M. (2014). [Deep convolutional neural networks for sentiment analysis of short texts.](http://www.aclweb.org/anthology/C14-1008) In Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers.
