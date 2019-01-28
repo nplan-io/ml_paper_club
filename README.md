@@ -1,6 +1,8 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [24/01/2019] Alessio presents: McInnes, L. and Healy, J., 2018. [Umap: Uniform manifold approximation and projection for dimension reduction.](https://arxiv.org/pdf/1802.03426.pdf) arXiv preprint arXiv:1802.03426.
+
 - [17/01/2019] Chris presents: Maaten, L. V. D., & Hinton, G. (2008). [Visualizing data using t-SNE.](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) Journal of machine learning research.
 
 - [10/01/2019] Carlos presents: Chen, T. Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). [Neural Ordinary Differential Equations.](https://arxiv.org/abs/1806.07366) arXiv:1806.07366.
