@@ -1,6 +1,8 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [31/01/2019] Gary presents: Hoffer, E., Hubara, I., & Soudry, D. (2017). [Train longer, generalize better: closing the generalization gap in large batch training of neural networks.](https://papers.nips.cc/paper/6770-train-longer-generalize-better-closing-the-generalization-gap-in-large-batch-training-of-neural-networks.pdf) In Advances in Neural Information Processing Systems (pp. 1731-1741).
+
 - [24/01/2019] Alessio presents: McInnes, L. and Healy, J., 2018. [Umap: Uniform manifold approximation and projection for dimension reduction.](https://arxiv.org/pdf/1802.03426.pdf) arXiv preprint arXiv:1802.03426.
 
 - [17/01/2019] Chris presents: Maaten, L. V. D., & Hinton, G. (2008). [Visualizing data using t-SNE.](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) Journal of machine learning research.
