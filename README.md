@@ -1,6 +1,10 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+-[14/02/2019] Carlos presents: Ziko, I., Granger, E., & Ayed, I. B. (2018). [Scalable Laplacian K-modes.](https://arxiv.org/abs/1810.13044) In Advances in Neural Information Processing Systems (pp. 10062-10072).
+
+- [07/02/2019] Carlos presents: Wang, W., & Carreira-Perpinán, M. A. (2014). [The Laplacian K-modes algorithm for clustering.](https://arxiv.org/abs/1406.3895) arXiv.
+
 - [31/01/2019] Gary presents: Hoffer, E., Hubara, I., & Soudry, D. (2017). [Train longer, generalize better: closing the generalization gap in large batch training of neural networks.](https://papers.nips.cc/paper/6770-train-longer-generalize-better-closing-the-generalization-gap-in-large-batch-training-of-neural-networks.pdf) In Advances in Neural Information Processing Systems (pp. 1731-1741).
 
 - [24/01/2019] Alessio presents: McInnes, L., & Healy, J. (2018). [Umap: Uniform manifold approximation and projection for dimension reduction.](https://arxiv.org/pdf/1802.03426.pdf) arXiv preprint arXiv:1802.03426.
