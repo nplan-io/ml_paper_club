@@ -1,7 +1,7 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
--[14/02/2019] Carlos presents: Ziko, I., Granger, E., & Ayed, I. B. (2018). [Scalable Laplacian K-modes.](https://arxiv.org/abs/1810.13044) In Advances in Neural Information Processing Systems (pp. 10062-10072).
+- [14/02/2019] Carlos presents: Ziko, I., Granger, E., & Ayed, I. B. (2018). [Scalable Laplacian K-modes.](https://arxiv.org/abs/1810.13044) In Advances in Neural Information Processing Systems (pp. 10062-10072).
 
 - [07/02/2019] Carlos presents: Wang, W., & Carreira-Perpinán, M. A. (2014). [The Laplacian K-modes algorithm for clustering.](https://arxiv.org/abs/1406.3895) arXiv.
 
