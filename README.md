@@ -1,6 +1,8 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [07/03/2019] Vahan presents: Candes, E. J., Romberg, J. K., & Tao, T. (2006). [Stable signal recovery from incomplete and inaccurate measurements.](http://statweb.stanford.edu/~candes/papers/StableRecovery.pdf) Communications on Pure and Applied Mathematics: A Journal Issued by the Courant Institute of Mathematical Sciences, 59(8), 1207-1223.
+
 - [28/02/2019] Arvid presents: Dietterich, T. G., & Bakiri, G. (1994). [Solving multiclass learning problems via error-correcting output codes.](https://arxiv.org/pdf/cs/9501101.pdf) Journal of artificial intelligence research, 2, 263-286.
 
 - [21/02/2019] Gary presents: Mnih, A., & Kavukcuoglu, K. (2013). [Learning word embeddings efficiently with noise-contrastive estimation.](http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf) In Advances in neural information processing systems (pp. 2265-2273).
