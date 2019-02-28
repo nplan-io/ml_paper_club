@@ -1,6 +1,10 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+- [28/02/2019] Arvid presents: Dietterich, T. G., & Bakiri, G. (1994). [Solving multiclass learning problems via error-correcting output codes.](https://arxiv.org/pdf/cs/9501101.pdf) Journal of artificial intelligence research, 2, 263-286.
+
+- [21/02/2019] Gary presents: Mnih, A., & Kavukcuoglu, K. (2013). [Learning word embeddings efficiently with noise-contrastive estimation.](http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf) In Advances in neural information processing systems (pp. 2265-2273).
+
 - [14/02/2019] Carlos presents: Ziko, I., Granger, E., & Ayed, I. B. (2018). [Scalable Laplacian K-modes.](https://arxiv.org/abs/1810.13044) In Advances in Neural Information Processing Systems (pp. 10062-10072).
 
 - [07/02/2019] Carlos presents: Wang, W., & Carreira-Perpinán, M. A. (2014). [The Laplacian K-modes algorithm for clustering.](https://arxiv.org/abs/1406.3895) arXiv.
