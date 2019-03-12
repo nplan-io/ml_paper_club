@@ -1,9 +1,11 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
-A tutorial on Deep Learning methods for natural language processing (althougoh good as an introduction to Deep Learning in general) can be found in:
+For those new to machine learning, these are some recommended reading material:
 
-Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning.](http://www.deeplearningbook.org/) MIT press.
+
+- Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
 The papers that have been presented in Paper Club meetings are:
 
