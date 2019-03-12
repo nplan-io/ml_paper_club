@@ -1,6 +1,12 @@
 # Machine Learning Paper Club
 A repository of papers that have been presented at nPlan's machine learning paper club 
 
+A tutorial on Deep Learning methods for natural language processing (althougoh good as an introduction to Deep Learning in general) can be found in:
+
+Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
+
+The papers that have been presented in Paper Club meetings are:
+
 - [07/03/2019] Vahan presents: Candes, E. J., Romberg, J. K., & Tao, T. (2006). [Stable signal recovery from incomplete and inaccurate measurements.](http://statweb.stanford.edu/~candes/papers/StableRecovery.pdf) Communications on Pure and Applied Mathematics: A Journal Issued by the Courant Institute of Mathematical Sciences, 59(8), 1207-1223.
 
 - [28/02/2019] Arvid presents: Dietterich, T. G., & Bakiri, G. (1994). [Solving multiclass learning problems via error-correcting output codes.](https://arxiv.org/pdf/cs/9501101.pdf) Journal of artificial intelligence research, 2, 263-286.
