@@ -9,6 +9,10 @@ For those new to machine learning, these are some recommended reading material:
 
 The papers that have been presented in Paper Club meetings are:
 
+-[21/03/2019] Joao presents: Oord, A. V. D., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). [Wavenet: A generative model for raw audio.](https://arxiv.org/abs/1609.03499). arXiv preprint.
+
+-[14/03/2019] Vahan presents: Wright, J., Ganesh, A., Rao, S., Peng, Y., & Ma, Y. (2009). [Robust principal component analysis: Exact recovery of corrupted low-rank matrices via convex optimization.](http://papers.nips.cc/paper/3704-robust-principal-component-analysis-exact-recovery-of-corrupted-low-rank-matrices-via-convex-optimization.pdf) In Advances in neural information processing systems (pp. 2080-2088).
+
 - [07/03/2019] Vahan presents: Candes, E. J., Romberg, J. K., & Tao, T. (2006). [Stable signal recovery from incomplete and inaccurate measurements.](http://statweb.stanford.edu/~candes/papers/StableRecovery.pdf) Communications on Pure and Applied Mathematics: A Journal Issued by the Courant Institute of Mathematical Sciences, 59(8), 1207-1223.
 
 - [28/02/2019] Arvid presents: Dietterich, T. G., & Bakiri, G. (1994). [Solving multiclass learning problems via error-correcting output codes.](https://arxiv.org/pdf/cs/9501101.pdf) Journal of artificial intelligence research, 2, 263-286.
