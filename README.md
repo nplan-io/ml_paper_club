@@ -21,9 +21,9 @@ The papers that have been (and will be) presented in Paper Club meetings are.
 
 - [02/05/2019] Gary presents: Gal, Y., & Ghahramani, Z. (2016, June). [Dropout as a bayesian approximation: Representing model uncertainty in deep learning.](http://proceedings.mlr.press/v48/gal16.pdf) In international conference on machine learning (pp. 1050-1059).
 
-- [25/04/2019] Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). [Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564).
+- [25/04/2019] Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
 
-- [18/04/2019] Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
+- [18/04/2019] Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). [Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564).
 
 - [11/04/2019] Carlos presents: Bendale, A., & Boult, T. E. (2016). [Towards open set deep networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1563-1572).
 
