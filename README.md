@@ -1,15 +1,19 @@
 # Machine Learning Paper Club
 A repository of papers accompanying nPlan's machine learning paper club 
 
-Next week's paper:
+## Next week's paper ##
 
 Bendale, A., & Boult, T. E. (2016). [Towards open set deep networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1563-1572).
+
+## Reeading material ##
 
 For those new to machine learning, these are some recommended reading material:
 
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning.](http://www.deeplearningbook.org/) MIT press.
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
+
+## paper history ##
 
 The papers that have been (and will be) presented in Paper Club meetings are.
 
