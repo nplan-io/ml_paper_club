@@ -13,7 +13,7 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
-## paper history ##
+## Paper history ##
 
 The papers that have been (and will be) presented in Paper Club meetings are.
 
