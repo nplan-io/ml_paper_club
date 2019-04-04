@@ -1,5 +1,9 @@
 # Machine Learning Paper Club
-A repository of papers that have been presented at nPlan's machine learning paper club 
+A repository of papers accompanying nPlan's machine learning paper club 
+
+Next week's paper:
+
+Bendale, A., & Boult, T. E. (2016). [Towards open set deep networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1563-1572).
 
 For those new to machine learning, these are some recommended reading material:
 
@@ -7,7 +11,21 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
-The papers that have been presented in Paper Club meetings are:
+The papers that have been (and will be) presented in Paper Club meetings are.
+
+- [09/05/2019] Carlos presents: Dhamija, A. R., Günther, M., & Boult, T. (2018). [Reducing Network Agnostophobia.](http://papers.nips.cc/paper/8129-reducing-network-agnostophobia.pdf) In Advances in Neural Information Processing Systems (pp. 9175-9186).
+
+- [02/05/2019] Gary presents: Gal, Y., & Ghahramani, Z. (2016, June). [Dropout as a bayesian approximation: Representing model uncertainty in deep learning.](http://proceedings.mlr.press/v48/gal16.pdf) In international conference on machine learning (pp. 1050-1059).
+
+- [25/04/2019] Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). [Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564).
+
+- [18/04/2019] Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
+
+- [11/04/2019] Carlos presents: Bendale, A., & Boult, T. E. (2016). [Towards open set deep networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1563-1572).
+
+- [04/04/2019] Arvid presents: Reshef, D. N., Reshef, Y. A., Finucane, H. K., Grossman, S. R., McVean, G., Turnbaugh, P. J., ... & Sabeti, P. C. (2011). [Detecting novel associations in large data sets.](http://www.uvm.edu/~cdanfort/csc-reading-group/reshef-correlation-science-2011.pdf) science, 334(6062), 1518-1524.
+
+- [28/03/2019] Joao presents: Chen, B., Medini, T., & Shrivastava, A. (2019). [SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems.](https://arxiv.org/abs/1903.03129) arXiv preprint arXiv:1903.03129.
 
 - [21/03/2019] Joao presents: Oord, A. V. D., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). [Wavenet: A generative model for raw audio.](https://arxiv.org/abs/1609.03499). arXiv preprint.
 
