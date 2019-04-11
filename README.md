@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club
 
 ## Next week's paper ##
 
-Bendale, A., & Boult, T. E. (2016). [Towards open set deep networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1563-1572).
+Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). [Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564).
 
 ## Reeading material ##
 
