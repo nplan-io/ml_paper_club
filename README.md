@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club
 
 ## Next week's paper ##
 
-Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). [Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564).
+Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
 
 ## Reeading material ##
 
