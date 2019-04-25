@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club
 
 ## Next week's paper ##
 
-Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
+Gary presents: Gal, Y., & Ghahramani, Z. (2016, June). [Dropout as a bayesian approximation: Representing model uncertainty in deep learning.](http://proceedings.mlr.press/v48/gal16.pdf) In international conference on machine learning (pp. 1050-1059).
 
 ## Reading material ##
 
@@ -16,6 +16,8 @@ For those new to machine learning, these are some recommended reading material:
 ## Paper history ##
 
 The papers that have been (and will be) presented in Paper Club meetings are.
+
+- [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
 
 - [16/05/2019] Carlos presents: Dhamija, A. R., Günther, M., & Boult, T. (2018). [Reducing Network Agnostophobia.](http://papers.nips.cc/paper/8129-reducing-network-agnostophobia.pdf) In Advances in Neural Information Processing Systems (pp. 9175-9186).
 
