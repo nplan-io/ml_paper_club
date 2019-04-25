@@ -5,7 +5,7 @@ A repository of papers accompanying nPlan's machine learning paper club
 
 Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). [Simple and scalable predictive uncertainty estimation using deep ensembles.](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) In Advances in Neural Information Processing Systems (pp. 6402-6413).
 
-## Reeading material ##
+## Reading material ##
 
 For those new to machine learning, these are some recommended reading material:
 
