@@ -3,7 +3,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next week's paper ##
 
-Gary presents: Gal, Y., & Ghahramani, Z. (2016, June). [Dropout as a bayesian approximation: Representing model uncertainty in deep learning.](http://proceedings.mlr.press/v48/gal16.pdf) In international conference on machine learning (pp. 1050-1059).
+- [09/05/2019] Geifman, Y., & El-Yaniv, R. (2017). [Selective classification for deep neural networks.](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf) In Advances in neural information processing systems (pp. 4878-4887).
+
 
 ## Reading material ##
 
