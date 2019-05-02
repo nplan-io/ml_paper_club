@@ -1,5 +1,5 @@
-# Machine Learning Paper Club
-A repository of papers accompanying nPlan's machine learning paper club 
+# Machine Learning Paper Club @ Google Campus with nPlan
+A repository of papers accompanying nPlan's machine learning paper club at Google Campus
 
 ## Next week's paper ##
 
@@ -15,7 +15,7 @@ For those new to machine learning, these are some recommended reading material:
 
 ## Paper history ##
 
-The papers that have been (and will be) presented in Paper Club meetings are.
+The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
 
