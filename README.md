@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next week's paper ##
 
-- [09/05/2019] Geifman, Y., & El-Yaniv, R. (2017). [Selective classification for deep neural networks.](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf) In Advances in neural information processing systems (pp. 4878-4887).
+- [09/05/2019] Naman presents: Geifman, Y., & El-Yaniv, R. (2017). [Selective classification for deep neural networks.](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf) In Advances in neural information processing systems (pp. 4878-4887).
 
 
 ## Reading material ##
