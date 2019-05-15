@@ -17,6 +17,8 @@ For those new to machine learning, these are some recommended reading material:
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [30/05/2019] Arvid presents: Schölkopf, B., Smola, A., & Müller, K. R. (1998). [Nonlinear component analysis as a kernel eigenvalue problem.](http://www.face-rec.org/algorithms/Kernel/kernelPCA_scholkopf.pdf) Neural computation, 10(5), 1299-1319.
+
 - [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
 
 - [16/05/2019] Carlos presents: Dhamija, A. R., Günther, M., & Boult, T. (2018). [Reducing Network Agnostophobia.](http://papers.nips.cc/paper/8129-reducing-network-agnostophobia.pdf) In Advances in Neural Information Processing Systems (pp. 9175-9186).
