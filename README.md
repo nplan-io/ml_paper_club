@@ -1,7 +1,7 @@
 # Machine Learning Paper Club @ Google Campus with nPlan
 A repository of papers accompanying nPlan's machine learning paper club at Google Campus
 
-## Next week's paper ##
+## Next meetup's paper ##
 
 - [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
 
