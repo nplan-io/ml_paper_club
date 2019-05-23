@@ -13,9 +13,17 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
+## Papers up for grabs ##
+
+- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1706.03762v5.pdf) arXiv preprint arXiv:1803.03635.
+
+- Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
+
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [06/06/2019] François presents: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). [Attention is all you need. In Advances in neural information processing systems](https://arxiv.org/pdf/1706.03762v5.pdf) (pp. 5998-6008).
 
 - [30/05/2019] Arvid presents: Schölkopf, B., Smola, A., & Müller, K. R. (1998). [Nonlinear component analysis as a kernel eigenvalue problem.](http://www.face-rec.org/algorithms/Kernel/kernelPCA_scholkopf.pdf) Neural computation, 10(5), 1299-1319.
 
