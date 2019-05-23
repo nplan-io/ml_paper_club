@@ -3,7 +3,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next week's paper ##
 
-- [16/05/2019] Carlos presents: Dhamija, A. R., Günther, M., & Boult, T. (2018). [Reducing Network Agnostophobia.](http://papers.nips.cc/paper/8129-reducing-network-agnostophobia.pdf) In Advances in Neural Information Processing Systems (pp. 9175-9186).
+- [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
+
 
 ## Reading material ##
 
