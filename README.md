@@ -32,7 +32,7 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [16/05/2019] Carlos presents: Dhamija, A. R., Günther, M., & Boult, T. (2018). [Reducing Network Agnostophobia.](http://papers.nips.cc/paper/8129-reducing-network-agnostophobia.pdf) In Advances in Neural Information Processing Systems (pp. 9175-9186).
 
-- [09/05/2019] Geifman, Y., & El-Yaniv, R. (2017). [Selective classification for deep neural networks.](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf) In Advances in neural information processing systems (pp. 4878-4887).
+- [09/05/2019] Naman presents: Geifman, Y., & El-Yaniv, R. (2017). [Selective classification for deep neural networks.](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf) In Advances in neural information processing systems (pp. 4878-4887).
 
 - [02/05/2019] Gary presents: Gal, Y., & Ghahramani, Z. (2016, June). [Dropout as a bayesian approximation: Representing model uncertainty in deep learning.](http://proceedings.mlr.press/v48/gal16.pdf) In international conference on machine learning (pp. 1050-1059).
 
