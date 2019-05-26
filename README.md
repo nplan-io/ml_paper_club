@@ -1,10 +1,15 @@
 # Machine Learning Paper Club @ Google Campus with nPlan
-A repository of papers accompanying nPlan's machine learning paper club at Google Campus
+A repository of papers accompanying nPlan's machine learning paper club at Google Campus.
 
 ## Next meetup's paper ##
 
 - [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
 
+## Papers up for grabs ##
+
+- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1706.03762v5.pdf) arXiv preprint arXiv:1803.03635.
+
+- Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
 
 ## Reading material ##
 
@@ -14,11 +19,9 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
-## Papers up for grabs ##
+## YouTube channel ##
 
-- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1706.03762v5.pdf) arXiv preprint arXiv:1803.03635.
-
-- Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
+We regularly record the presentations made during the Meetup (subject to the presenter's and attendees' approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you's like to stay up to date with the presentations, just hit the subscribe button!
 
 ## Paper history ##
 
