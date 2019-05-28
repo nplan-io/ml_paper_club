@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [23/05/2019] Auke presents: Alaa, A. M., & van der Schaar, M. (2018). [Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning.](http://proceedings.mlr.press/v80/alaa18b/alaa18b.pdf) arXiv preprint arXiv:1802.07207.
+- [30/05/2019] Arvid presents: Schölkopf, B., Smola, A., & Müller, K. R. (1998). [Nonlinear component analysis as a kernel eigenvalue problem.](http://www.face-rec.org/algorithms/Kernel/kernelPCA_scholkopf.pdf) Neural computation, 10(5), 1299-1319.
 
 ## Papers up for grabs ##
 
