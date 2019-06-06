@@ -29,7 +29,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
--[13/06/2019] Alessio presents: Dobriban, E., & Liu, S. (2018). [A new theory for sketching in linear regression.](https://arxiv.org/pdf/1810.06089.pdf) arXiv preprint arXiv:1810.06089.
+- [13/06/2019] Alessio presents: Dobriban, E., & Liu, S. (2018). [A new theory for sketching in linear regression.](https://arxiv.org/pdf/1810.06089.pdf) arXiv preprint arXiv:1810.06089.
 
 - [06/06/2019] François presents: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). [Attention is all you need.](https://arxiv.org/pdf/1706.03762v5.pdf) In Advances in neural information processing systems (pp. 5998-6008).
 
