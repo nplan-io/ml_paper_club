@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [30/05/2019] Arvid presents: Schölkopf, B., Smola, A., & Müller, K. R. (1998). [Nonlinear component analysis as a kernel eigenvalue problem.](http://www.face-rec.org/algorithms/Kernel/kernelPCA_scholkopf.pdf) Neural computation, 10(5), 1299-1319.
+- [13/06/2019] Alessio presents: Dobriban, E., & Liu, S. (2018). [A new theory for sketching in linear regression.](https://arxiv.org/pdf/1810.06089.pdf) arXiv preprint arXiv:1810.06089.
 
 ## Papers up for grabs ##
 
