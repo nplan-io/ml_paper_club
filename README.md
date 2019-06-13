@@ -9,7 +9,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
 
-- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1706.03762v5.pdf) arXiv preprint arXiv:1803.03635.
+- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1803.03635.pdf) arXiv preprint arXiv:1803.03635.
 
 - Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
 
