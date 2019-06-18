@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [13/06/2019] Alessio presents: Dobriban, E., & Liu, S. (2018). [A new theory for sketching in linear regression.](https://arxiv.org/pdf/1810.06089.pdf) arXiv preprint arXiv:1810.06089.
+- [20/06/2019] Vahan presents: Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks.](https://arxiv.org/pdf/1609.02907.pdf) arXiv preprint arXiv:1609.02907.
 
 ## Papers up for grabs ##
 
@@ -28,6 +28,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [20/06/2019] Vahan presents: Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks.](https://arxiv.org/pdf/1609.02907.pdf) arXiv preprint arXiv:1609.02907.
 
 - [13/06/2019] Alessio presents: Dobriban, E., & Liu, S. (2018). [A new theory for sketching in linear regression.](https://arxiv.org/pdf/1810.06089.pdf) arXiv preprint arXiv:1810.06089.
 
