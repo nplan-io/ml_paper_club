@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [20/06/2019] Vahan presents: Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks.](https://arxiv.org/pdf/1609.02907.pdf) arXiv preprint arXiv:1609.02907.
+- [27/06/2019] Carlos presents: Yao, L., Mao, C., & Luo, Y. (2018). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) arXiv preprint arXiv:1809.05679.
 
 ## Papers up for grabs ##
 
@@ -28,6 +28,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [04/07/2019] François presents: Kool, W., van Hoof, H., & Welling, M. (2019). [Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement.](https://arxiv.org/pdf/1903.06059.pdf) arXiv preprint arXiv:1903.06059.
+
+-[27/06/2019] Carlos presents: Yao, L., Mao, C., & Luo, Y. (2018). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) arXiv preprint arXiv:1809.05679.
 
 - [20/06/2019] Vahan presents: Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks.](https://arxiv.org/pdf/1609.02907.pdf) arXiv preprint arXiv:1609.02907.
 
