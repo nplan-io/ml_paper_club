@@ -29,6 +29,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748.
+
 - [04/07/2019] François presents: Kool, W., van Hoof, H., & Welling, M. (2019). [Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement.](https://arxiv.org/pdf/1903.06059.pdf) arXiv preprint arXiv:1903.06059.
 
 - [20/06/2019] Vahan presents: Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks.](https://arxiv.org/pdf/1609.02907.pdf) arXiv preprint arXiv:1609.02907.
