@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748.
+- [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). [Representation learning with contrastive predictive coding.](https://arxiv.org/pdf/1807.03748.pdf) arXiv preprint arXiv:1807.03748.
 
 ## Papers up for grabs ##
 
