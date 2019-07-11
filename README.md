@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [04/07/2019] François presents: Kool, W., van Hoof, H., & Welling, M. (2019). [Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement.](https://arxiv.org/pdf/1903.06059.pdf) arXiv preprint arXiv:1903.06059.
+- [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748.
 
 ## Papers up for grabs ##
 
