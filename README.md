@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). [Representation learning with contrastive predictive coding.](https://arxiv.org/pdf/1807.03748.pdf) arXiv preprint arXiv:1807.03748.
+- [18/07/2019] Gary presents: Zhang, G., Wang, C., Xu, B., & Grosse, R. (2018). [Three mechanisms of weight decay regularization.](https://openreview.net/pdf?id=B1lz-3Rct7) arXiv preprint arXiv:1810.12281.
 
 ## Papers up for grabs ##
 
@@ -28,6 +28,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [18/07/2019] Gary presents: Zhang, G., Wang, C., Xu, B., & Grosse, R. (2018). [Three mechanisms of weight decay regularization.](https://openreview.net/pdf?id=B1lz-3Rct7) arXiv preprint arXiv:1810.12281.
 
 - [11/07/2019] Auke presents: Oord, A. V. D., Li, Y., & Vinyals, O. (2018). Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748.
 
