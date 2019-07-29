@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [25/07/2019] Arvid presents: Ensslin, T., Frommert, M., & Kitaura, F. S. (2018). [Information field theory for cosmological perturbation reconstruction and non-linear signal analysies.](https://arxiv.org/pdf/0806.3474.pdf) arXiv preprint arXiv:0806.3474.
+- [01/08/2019] MEETUP CANCELLED 
 
 ## Papers up for grabs ##
 
