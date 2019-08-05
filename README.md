@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [01/08/2019] MEETUP CANCELLED 
+- [08/08/2019] Carlos presents: Wu, F., Zhang, T., Souza Jr, A. H. D., Fifty, C., Yu, T., & Weinberger, K. Q. (2019). [Simplifying graph convolutional networks.](https://arxiv.org/pdf/1902.07153.pdf) arXiv preprint arXiv:1902.07153.
 
 ## Papers up for grabs ##
 
@@ -28,6 +28,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [08/08/2019] Carlos presents: Wu, F., Zhang, T., Souza Jr, A. H. D., Fifty, C., Yu, T., & Weinberger, K. Q. (2019). [Simplifying graph convolutional networks.](https://arxiv.org/pdf/1902.07153.pdf) arXiv preprint arXiv:1902.07153.
+
+- [] Arvid presents: Enßlin, T. A., Frommert, M., & Kitaura, F. S. (2009). [Information field theory for cosmological perturbation reconstruction and nonlinear signal analysis.](https://arxiv.org/pdf/0806.3474.pdf) Physical Review D, 80(10), 105005.
 
 - [18/07/2019] Gary presents: Zhang, G., Wang, C., Xu, B., & Grosse, R. (2018). [Three mechanisms of weight decay regularization.](https://openreview.net/pdf?id=B1lz-3Rct7) arXiv preprint arXiv:1810.12281.
 
