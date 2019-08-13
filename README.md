@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [08/08/2019] Carlos presents: Wu, F., Zhang, T., Souza Jr, A. H. D., Fifty, C., Yu, T., & Weinberger, K. Q. (2019). [Simplifying graph convolutional networks.](https://arxiv.org/pdf/1902.07153.pdf) arXiv preprint arXiv:1902.07153.
+- [15/08/2019] Vahan presents: Yao, L., Mao, C., & Luo, Y. (2019, July). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7370-7377).
 
 ## Papers up for grabs ##
 
@@ -28,6 +28,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [15/08/2019] Vahan presents: Yao, L., Mao, C., & Luo, Y. (2019, July). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7370-7377).
 
 - [08/08/2019] Carlos presents: Wu, F., Zhang, T., Souza Jr, A. H. D., Fifty, C., Yu, T., & Weinberger, K. Q. (2019). [Simplifying graph convolutional networks.](https://arxiv.org/pdf/1902.07153.pdf) arXiv preprint arXiv:1902.07153.
 
