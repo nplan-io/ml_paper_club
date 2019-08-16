@@ -21,6 +21,8 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
+- Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2019). [A comprehensive survey on graph neural networks.](https://arxiv.org/pdf/1901.00596.pdf) arXiv preprint arXiv:1901.00596.
+
 ## YouTube channel ##
 
 We regularly record the presentations made during the Meetup (subject to the presenter's and attendees' approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you's like to stay up to date with the presentations, just hit the subscribe button!
