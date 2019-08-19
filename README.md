@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [15/08/2019] Vahan presents: Yao, L., Mao, C., & Luo, Y. (2019, July). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7370-7377).
+- [22/08/2019] Lee, J., Lee, I., & Kang, J. (2019). [Self-Attention Graph Pooling.](https://arxiv.org/pdf/1904.08082.pdf) arXiv preprint arXiv:1904.08082.
 
 ## Papers up for grabs ##
 
@@ -30,6 +30,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+
+- [22/08/2019] Lee, J., Lee, I., & Kang, J. (2019). [Self-Attention Graph Pooling.](https://arxiv.org/pdf/1904.08082.pdf) arXiv preprint arXiv:1904.08082.
 
 - [15/08/2019] Vahan presents: Yao, L., Mao, C., & Luo, Y. (2019, July). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7370-7377).
 
