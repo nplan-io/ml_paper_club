@@ -3,8 +3,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [22/08/2019] Lee, J., Lee, I., & Kang, J. (2019). [Self-Attention Graph Pooling.](https://arxiv.org/pdf/1904.08082.pdf) arXiv preprint arXiv:1904.08082.
 
+[29/08/2019] Alan presents: [Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network.](https://arxiv.org/pdf/1503.02531.pdf) arXiv preprint arXiv:1503.02531.
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -31,8 +31,15 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). Distillation of deep learning ensembles as a regularisation method. In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
 
-- [22/08/2019] Lee, J., Lee, I., & Kang, J. (2019). [Self-Attention Graph Pooling.](https://arxiv.org/pdf/1904.08082.pdf) arXiv preprint arXiv:1904.08082.
+- [12/09/2019] Papernot, N., McDaniel, P., Wu, X., Jha, S., & Swami, A. (2016, May). [Distillation as a defense to adversarial perturbations against deep neural networks.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546524) In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 582-597). IEEE.
+
+- [05/09/2019] Frosst, N., & Hinton, G. (2017). [Distilling a neural network into a soft decision tree.](https://arxiv.org/pdf/1711.09784.pdf) arXiv preprint arXiv:1711.09784.
+
+- [29/08/2019] Alan presents: [Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network.](https://arxiv.org/pdf/1503.02531.pdf) arXiv preprint arXiv:1503.02531.
+
+- [22/08/2019] Gary presents: Lee, J., Lee, I., & Kang, J. (2019). [Self-Attention Graph Pooling.](https://arxiv.org/pdf/1904.08082.pdf) arXiv preprint arXiv:1904.08082.
 
 - [15/08/2019] Vahan presents: Yao, L., Mao, C., & Luo, Y. (2019, July). [Graph convolutional networks for text classification.](https://arxiv.org/pdf/1809.05679.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7370-7377).
 
