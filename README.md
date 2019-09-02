@@ -4,7 +4,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 ## Next meetup's paper ##
 
 
-[29/08/2019] Alan presents: [Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network.](https://arxiv.org/pdf/1503.02531.pdf) arXiv preprint arXiv:1503.02531.
+[05/09/2019] Carlos presents: Frosst, N., & Hinton, G. (2017). [Distilling a neural network into a soft decision tree.](https://arxiv.org/pdf/1711.09784.pdf) arXiv preprint arXiv:1711.09784.
+
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -35,7 +36,7 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [12/09/2019] Papernot, N., McDaniel, P., Wu, X., Jha, S., & Swami, A. (2016, May). [Distillation as a defense to adversarial perturbations against deep neural networks.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546524) In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 582-597). IEEE.
 
-- [05/09/2019] Frosst, N., & Hinton, G. (2017). [Distilling a neural network into a soft decision tree.](https://arxiv.org/pdf/1711.09784.pdf) arXiv preprint arXiv:1711.09784.
+- [05/09/2019] Carlos presents: Frosst, N., & Hinton, G. (2017). [Distilling a neural network into a soft decision tree.](https://arxiv.org/pdf/1711.09784.pdf) arXiv preprint arXiv:1711.09784.
 
 - [29/08/2019] Alan presents: [Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network.](https://arxiv.org/pdf/1503.02531.pdf) arXiv preprint arXiv:1503.02531.
 
