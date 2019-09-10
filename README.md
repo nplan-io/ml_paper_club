@@ -3,8 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-
-[05/09/2019] Carlos presents: Frosst, N., & Hinton, G. (2017). [Distilling a neural network into a soft decision tree.](https://arxiv.org/pdf/1711.09784.pdf) arXiv preprint arXiv:1711.09784.
+[12/09/2019] Papernot, N., McDaniel, P., Wu, X., Jha, S., & Swami, A. (2016, May). Distillation as a defense to adversarial perturbations against deep neural networks. In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 582-597). IEEE.
 
 ## Papers up for grabs ##
 
