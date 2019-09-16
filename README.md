@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[12/09/2019] Carlos presents: Papernot, N., McDaniel, P., Wu, X., Jha, S., & Swami, A. (2016, May). Distillation as a defense to adversarial perturbations against deep neural networks. In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 582-597). IEEE.
+- [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). Distillation of deep learning ensembles as a regularisation method. In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
 
 ## Papers up for grabs ##
 
