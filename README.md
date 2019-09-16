@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). Distillation of deep learning ensembles as a regularisation method. In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
+- [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). [Distillation of deep learning ensembles as a regularisation method.](http://www.dcs.bbk.ac.uk/~gmagoulas/DistillationDeepLearningEnsembles.pdf) In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
 
 ## Papers up for grabs ##
 
