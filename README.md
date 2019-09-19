@@ -3,7 +3,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-- [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). [Distillation of deep learning ensembles as a regularisation method.](http://www.dcs.bbk.ac.uk/~gmagoulas/DistillationDeepLearningEnsembles.pdf) In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
+[26/09/2019] Arvid presents: Chapelle, O., & Li, L. (2011). [An empirical evaluation of thompson sampling.](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) In Advances in neural information processing systems (pp. 2249-2257).
+
 
 ## Papers up for grabs ##
 
@@ -30,6 +31,14 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [17/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
+
+- [10/10/2019] Saxe, A. M., Bansal, Y., Dapello, J., Advani, M., Kolchinsky, A., Tracey, B. D., & Cox, D. D. (2018). [On the information bottleneck theory of deep learning.](https://openreview.net/pdf?id=ry_WPG-A-)
+
+- [03/10/2019] Ivan presents: Shwartz-Ziv, R., & Tishby, N. (2017). [Opening the black box of deep neural networks via information.](https://arxiv.org/pdf/1703.00810.pdf) arXiv preprint arXiv:1703.00810.
+
+- [26/09/2019] Arvid presents: Chapelle, O., & Li, L. (2011). [An empirical evaluation of thompson sampling.](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) In Advances in neural information processing systems (pp. 2249-2257).
 
 - [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). Distillation of deep learning ensembles as a regularisation method. In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
 
