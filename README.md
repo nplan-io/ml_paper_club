@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[26/09/2019] Arvid presents: Chapelle, O., & Li, L. (2011). [An empirical evaluation of thompson sampling.](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) In Advances in neural information processing systems (pp. 2249-2257).
+[26/09/2019] TBC
 
 
 ## Papers up for grabs ##
@@ -38,7 +38,7 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [03/10/2019] Ivan presents: Shwartz-Ziv, R., & Tishby, N. (2017). [Opening the black box of deep neural networks via information.](https://arxiv.org/pdf/1703.00810.pdf) arXiv preprint arXiv:1703.00810.
 
-- [26/09/2019] Arvid presents: Chapelle, O., & Li, L. (2011). [An empirical evaluation of thompson sampling.](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) In Advances in neural information processing systems (pp. 2249-2257).
+- [26/09/2019] TBC
 
 - [19/09/2019] Alan presents: Mosca, A., & Magoulas, G. D. (2018). Distillation of deep learning ensembles as a regularisation method. In Advances in Hybridization of Intelligent Methods (pp. 97-118). Springer, Cham.
 
