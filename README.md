@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[26/09/2019] Carlos presents (with demo): Cheng, H. T., Koc, L., Harmsen, J., Shaked, T., Chandra, T., Aradhye, H., ... & Anil, R. (2016, September). [Wide & deep learning for recommender systems.](https://arxiv.org/pdf/1606.07792.pdf) In Proceedings of the 1st workshop on deep learning for recommender systems (pp. 7-10). ACM.
+- [03/10/2019] Ivan presents: Shwartz-Ziv, R., & Tishby, N. (2017). [Opening the black box of deep neural networks via information.](https://arxiv.org/pdf/1703.00810.pdf) arXiv preprint arXiv:1703.00810.
 
 
 ## Papers up for grabs ##
