@@ -13,7 +13,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 - Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
 
-## Reading material ##
+## Supplementary material ##
 
 For those new to machine learning, these are some recommended reading material:
 
@@ -23,13 +23,11 @@ For those new to machine learning, these are some recommended reading material:
 
 - Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2019). [A comprehensive survey on graph neural networks.](https://arxiv.org/pdf/1901.00596.pdf) arXiv preprint arXiv:1901.00596.
 
+The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
+
 ## YouTube channel ##
 
 We regularly record the presentations made during the Meetup (subject to the presenter's and attendees' approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you's like to stay up to date with the presentations, just hit the subscribe button!
-
-## Supplementary material ##
-
-Wide and deep model implementation https://github.com/caledezma/wide_deep_model
 
 ## Paper history ##
 
