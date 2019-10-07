@@ -35,7 +35,7 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [17/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
 
-- [10/10/2019] Saxe, A. M., Bansal, Y., Dapello, J., Advani, M., Kolchinsky, A., Tracey, B. D., & Cox, D. D. (2018). [On the information bottleneck theory of deep learning.](https://openreview.net/pdf?id=ry_WPG-A-)
+- [10/10/2019] Ivan presents: Saxe, A. M., Bansal, Y., Dapello, J., Advani, M., Kolchinsky, A., Tracey, B. D., & Cox, D. D. (2018). [On the information bottleneck theory of deep learning.](https://openreview.net/pdf?id=ry_WPG-A-)
 
 - [03/10/2019] Ivan presents: Shwartz-Ziv, R., & Tishby, N. (2017). [Opening the black box of deep neural networks via information.](https://arxiv.org/pdf/1703.00810.pdf) arXiv preprint arXiv:1703.00810.
 
