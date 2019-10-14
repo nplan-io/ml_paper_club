@@ -5,6 +5,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 [17/10/2019] EVENT CANCELLED!
 
+[24/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
+
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -33,7 +35,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- [17/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
+- [24/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
 
 - [10/10/2019] Ivan presents: Saxe, A. M., Bansal, Y., Dapello, J., Advani, M., Kolchinsky, A., Tracey, B. D., & Cox, D. D. (2018). [On the information bottleneck theory of deep learning.](https://openreview.net/pdf?id=ry_WPG-A-)
 
