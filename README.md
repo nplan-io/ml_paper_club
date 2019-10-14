@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[10/10/2019] Ivan presents: Saxe, A. M., Bansal, Y., Dapello, J., Advani, M., Kolchinsky, A., Tracey, B. D., & Cox, D. D. (2018). [On the information bottleneck theory of deep learning.](https://openreview.net/pdf?id=ry_WPG-A-)
+[17/10/2019] EVENT CANCELLED!
 
 ## Papers up for grabs ##
 
