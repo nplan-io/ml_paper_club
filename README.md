@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[31/10/2019] Arvid presents: Chapelle, Olivier, and Lihong Li. ["An empirical evaluation of thompson sampling."](http://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) Advances in neural information processing systems. 2011.
+[07/11/2019] TBC
 
 ## Papers up for grabs ##
 
