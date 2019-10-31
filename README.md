@@ -33,7 +33,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- [31/10/2019] Arvid presents: Chapelle, Olivier, and Lihong Li. ["An empirical evaluation of thompson sampling."](http://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) Advances in neural information processing systems. 2011.
+- [31/10/2019] Arvid presents ([slides](https://storage.googleapis.com/dockertest-191011/jc_thompson_sampling.html#22)): Chapelle, Olivier, and Lihong Li. ["An empirical evaluation of thompson sampling."](http://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) Advances in neural information processing systems. 2011.
 
 - [24/10/2019] Ivan presents: Chelombiev, I., Houghton, C., & O'Donnell, C. (2019). [Adaptive estimators show information compression in deep neural networks.](https://openreview.net/pdf?id=SkeZisA5t7) arXiv preprint arXiv:1902.09037.
 
