@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[07/11/2019] TBC
+[07/11/2019] Gary presents: Cobb, A. D., Roberts, S. J., & Gal, Y. (2018). [Loss-calibrated approximate inference in Bayesian neural networks.](https://arxiv.org/pdf/1805.03901.pdf) arXiv preprint arXiv:1805.03901.
 
 ## Papers up for grabs ##
 
@@ -32,6 +32,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [07/11/2019] Gary presents: Cobb, A. D., Roberts, S. J., & Gal, Y. (2018). [Loss-calibrated approximate inference in Bayesian neural networks.](https://arxiv.org/pdf/1805.03901.pdf) arXiv preprint arXiv:1805.03901.
 
 - [31/10/2019] Arvid presents ([slides](https://storage.googleapis.com/dockertest-191011/jc_thompson_sampling.html#22)): Chapelle, Olivier, and Lihong Li. ["An empirical evaluation of thompson sampling."](http://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling.pdf) Advances in neural information processing systems. 2011.
 
