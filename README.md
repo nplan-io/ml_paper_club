@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[14/11/2019] Vahan presents: Kendall, A., & Cipolla, R. (2016, May).[ Modelling uncertainty in deep learning for camera relocalization.](https://arxiv.org/pdf/1509.05909.pdf) In 2016 IEEE international conference on Robotics and Automation (ICRA) (pp. 4762-4769). IEEE.
+[21/11/2019] TBC
 
 ## Papers up for grabs ##
 
