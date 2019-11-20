@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[21/11/2019] Carlos presents: Platt, J. (1999). [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf) Advances in large margin classifiers, 10(3), 61-74.
+[21/11/2019] Carlos presents (with demo): Platt, J. (1999). [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf) Advances in large margin classifiers, 10(3), 61-74.
 
 ## Papers up for grabs ##
 
