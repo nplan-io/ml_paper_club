@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[21/11/2019] Carlos presents (with demo): Platt, J. (1999). [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf) Advances in large margin classifiers, 10(3), 61-74.
+[28/11/2019] Joao presents: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017, August). [On calibration of modern neural networks.](https://arxiv.org/pdf/1706.04599.pdf) In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1321-1330). JMLR. org.
 
 ## Papers up for grabs ##
 
@@ -25,6 +25,8 @@ For those new to machine learning, these are some recommended reading material:
 
 The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
 
+The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo
+
 ## YouTube channel ##
 
 We regularly record the presentations made during the Meetup (subject to the presenter's and attendees' approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you's like to stay up to date with the presentations, just hit the subscribe button!
@@ -32,6 +34,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [28/11/2019] Joao presents: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017, August). [On calibration of modern neural networks.](https://arxiv.org/pdf/1706.04599.pdf) In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1321-1330). JMLR. org.
 
 - [21/11/2019] Carlos presents: Platt, J. (1999). [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf) Advances in large margin classifiers, 10(3), 61-74.
 
