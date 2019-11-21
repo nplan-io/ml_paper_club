@@ -25,7 +25,7 @@ For those new to machine learning, these are some recommended reading material:
 
 The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
 
-The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo
+The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo. Feel free to contribute to it, we might make a push to TensorFlow with a Platt Scaling layer!
 
 ## YouTube channel ##
 
