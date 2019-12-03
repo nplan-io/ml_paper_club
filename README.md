@@ -35,6 +35,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [05/12/2019] Gary presents: Dozat, T. (2016). [Incorporating nesterov momentum into adam.](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
+
 - [28/11/2019] Joao presents: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017, August). [On calibration of modern neural networks.](https://arxiv.org/pdf/1706.04599.pdf) In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1321-1330). JMLR. org.
 
 - [21/11/2019] Carlos presents: Platt, J. (1999). [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf) Advances in large margin classifiers, 10(3), 61-74.
