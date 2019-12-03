@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[28/11/2019] Joao presents: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017, August). [On calibration of modern neural networks.](https://arxiv.org/pdf/1706.04599.pdf) In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1321-1330). JMLR. org.
+[05/12/2019] Gary presents: Dozat, T. (2016). [Incorporating nesterov momentum into adam.](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
 
 ## Papers up for grabs ##
 
