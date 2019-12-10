@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[12/12/2019] TBC
+[12/12/2019] Vahan presents: Berthelot, D., Carlini, N., Goodfellow, I., Papernot, N., Oliver, A., & Raffel, C. (2019). [Mixmatch: A holistic approach to semi-supervised learning.](https://arxiv.org/pdf/1905.02249.pdf) arXiv preprint arXiv:1905.02249.
 
 ## Papers up for grabs ##
 
@@ -34,6 +34,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [12/12/2019] Vahan presents: Berthelot, D., Carlini, N., Goodfellow, I., Papernot, N., Oliver, A., & Raffel, C. (2019). [Mixmatch: A holistic approach to semi-supervised learning.](https://arxiv.org/pdf/1905.02249.pdf) arXiv preprint arXiv:1905.02249.
 
 - [05/12/2019] Gary presents: Dozat, T. (2016). [Incorporating nesterov momentum into adam.](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
 
