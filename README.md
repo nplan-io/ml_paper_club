@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[05/12/2019] Gary presents: Dozat, T. (2016). [Incorporating nesterov momentum into adam.](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
+[12/12/2019] TBC
 
 ## Papers up for grabs ##
 
