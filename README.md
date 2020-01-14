@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[12/12/2019] Vahan presents: Berthelot, D., Carlini, N., Goodfellow, I., Papernot, N., Oliver, A., & Raffel, C. (2019). [Mixmatch: A holistic approach to semi-supervised learning.](https://arxiv.org/pdf/1905.02249.pdf) arXiv preprint arXiv:1905.02249.
+[16/01/2020] Joao presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). [Why should i trust you?: Explaining the predictions of any classifier.](https://arxiv.org/abs/1602.04938) In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). ACM.
 
 ## Papers up for grabs ##
 
@@ -34,6 +34,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [16/01/2020] Joao presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). [Why should i trust you?: Explaining the predictions of any classifier.](https://arxiv.org/abs/1602.04938) In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). ACM.
 
 - [12/12/2019] Vahan presents: Berthelot, D., Carlini, N., Goodfellow, I., Papernot, N., Oliver, A., & Raffel, C. (2019). [Mixmatch: A holistic approach to semi-supervised learning.](https://arxiv.org/pdf/1905.02249.pdf) arXiv preprint arXiv:1905.02249.
 
