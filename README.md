@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[23/01/2020] TBC
+[23/01/2020] Carlos presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). [Anchors: High-precision model-agnostic explanations.](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
 
 ## Papers up for grabs ##
 
@@ -34,6 +34,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [23/01/2020] Carlos presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). [Anchors: High-precision model-agnostic explanations.](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
 
 - [16/01/2020] Joao presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). [Why should i trust you?: Explaining the predictions of any classifier.](https://arxiv.org/abs/1602.04938) In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). ACM.
 
