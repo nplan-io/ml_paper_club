@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[23/01/2020] Carlos presents: Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). [Anchors: High-precision model-agnostic explanations.](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
+[30/01/2020] TBD
 
 ## Papers up for grabs ##
 
