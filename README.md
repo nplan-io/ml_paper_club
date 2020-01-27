@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[30/01/2020] TBD
+[30/01/2020] Carlos presents: Lundberg, S. M., & Lee, S. I. (2017). [A unified approach to interpreting model predictions.](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) In Advances in neural information processing systems (pp. 4765-4774).
 
 ## Papers up for grabs ##
 
