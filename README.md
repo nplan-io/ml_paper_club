@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[13/02/2020] Arvid presents: Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). [Gaussian process regression networks.](https://arxiv.org/pdf/1110.4411.pdf) arXiv preprint arXiv:1110.4411.
+[20/02/2020] TBD
 
 ## Papers up for grabs ##
 
@@ -34,6 +34,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [13/02/2020] Arvid presents: Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). [Gaussian process regression networks.](https://arxiv.org/pdf/1110.4411.pdf) arXiv preprint arXiv:1110.4411.
 
 - [06/02/2020] Joao presents: Sabour, S., Frosst, N., & Hinton, G. E. (2017). [Dynamic routing between capsules.](https://arxiv.org/pdf/1710.09829.pdf) In Advances in neural information processing systems (pp. 3856-3866).
 
