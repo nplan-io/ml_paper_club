@@ -23,6 +23,8 @@ For those new to machine learning, these are some recommended reading material:
 
 - Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2019). [A comprehensive survey on graph neural networks.](https://arxiv.org/pdf/1901.00596.pdf) arXiv preprint arXiv:1901.00596.
 
+- Provost, F. and Fawcett, T. (2013). [Data science for business.](https://www.amazon.co.uk/Data-Science-Business-data-analytic-thinking/dp/1449361323) Sebastopol: O'Reilly.
+
 The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
 
 The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo. Feel free to contribute to it, we might make a push to TensorFlow with a Platt Scaling layer!
