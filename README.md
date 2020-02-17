@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[20/02/2020] TBD
+[20/02/2020] Arvid presents: Wilson, A., & Nickisch, H. (2015, June). [Kernel interpolation for scalable structured Gaussian processes (KISS-GP).](http://proceedings.mlr.press/v37/wilson15.pdf) In International Conference on Machine Learning (pp. 1775-1784).
 
 ## Papers up for grabs ##
 
