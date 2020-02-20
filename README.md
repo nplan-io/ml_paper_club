@@ -3,8 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[20/02/2020] Arvid presents: Wilson, A., & Nickisch, H. (2015, June). [Kernel interpolation for scalable structured Gaussian processes (KISS-GP).](http://proceedings.mlr.press/v37/wilson15.pdf) In International Conference on Machine Learning (pp. 1775-1784).
-
+[27/02/2020] TBC
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -37,7 +36,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- [13/02/2020] Arvid presents: Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). [Gaussian process regression networks.](https://arxiv.org/pdf/1110.4411.pdf) arXiv preprint arXiv:1110.4411.
+- [20/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_kiss_gp.html#18): Wilson, A., & Nickisch, H. (2015, June). [Kernel interpolation for scalable structured Gaussian processes (KISS-GP).](http://proceedings.mlr.press/v37/wilson15.pdf) In International Conference on Machine Learning (pp. 1775-1784).
+
+- [13/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_gaussian_regression_networks.html): Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). [Gaussian process regression networks.](https://arxiv.org/pdf/1110.4411.pdf) arXiv preprint arXiv:1110.4411.
 
 - [06/02/2020] Joao presents: Sabour, S., Frosst, N., & Hinton, G. E. (2017). [Dynamic routing between capsules.](https://arxiv.org/pdf/1710.09829.pdf) In Advances in neural information processing systems (pp. 3856-3866).
 
