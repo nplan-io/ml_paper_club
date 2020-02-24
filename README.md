@@ -3,7 +3,8 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Next meetup's paper ##
 
-[27/02/2020] TBC
+[27/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_deepkernels.html#1): Wilson, A. G., Hu, Z., Salakhutdinov, R., & Xing, E. P. (2016, May). [Deep kernel learning.](https://arxiv.org/pdf/1511.02222.pdf) In Artificial Intelligence and Statistics (pp. 370-378).
+
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -35,6 +36,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [27/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_deepkernels.html#1): Wilson, A. G., Hu, Z., Salakhutdinov, R., & Xing, E. P. (2016, May). [Deep kernel learning.](https://arxiv.org/pdf/1511.02222.pdf) In Artificial Intelligence and Statistics (pp. 370-378).
 
 - [20/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_kiss_gp.html#18): Wilson, A., & Nickisch, H. (2015, June). [Kernel interpolation for scalable structured Gaussian processes (KISS-GP).](http://proceedings.mlr.press/v37/wilson15.pdf) In International Conference on Machine Learning (pp. 1775-1784).
 
