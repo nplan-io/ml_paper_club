@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Important notice ##
 
-To ensure the safety and health of all of our Google for Startups community members and guests, please do not attend the event if you:
+To ensure the safety and health of all of our guests and the Google for Startups members, please do not attend the event if you:
 - Have been confirmed, are suspected to have, or have the novel coronavirus;
 - Have been in close contact with anyone who's been confirmed to have, or is suspected to have, the novel coronavirus;
 - Have been in any highly affected areas - mainland China, Italy, Iran, South Korea;
