@@ -1,9 +1,19 @@
 # Machine Learning Paper Club @ Google Campus with nPlan
 A repository of papers accompanying nPlan's machine learning paper club at Google Campus.
 
+## Important notice ##
+
+To ensure the safety and health of all of our Google for Startups community members and guests, please do not attend the event if you:
+- Have been confirmed, are suspected to have, or have the novel coronavirus;
+- Have been in close contact with anyone who's been confirmed to have, or is suspected to have, the novel coronavirus;
+- Have been in any highly affected areas - mainland China, Italy, Iran, South Korea;
+- Have been in close contact with anyone (including household members), who's been in Hubei Province in the last two weeks;
+- Have been under quarantine for the novel coronavirus; or
+- Are experiencing symptoms consistent with the novel coronavirus.
+
 ## Next meetup's paper ##
 
-[27/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_deepkernels.html#1): Wilson, A. G., Hu, Z., Salakhutdinov, R., & Xing, E. P. (2016, May). [Deep kernel learning.](https://arxiv.org/pdf/1511.02222.pdf) In Artificial Intelligence and Statistics (pp. 370-378).
+[05/03/2020] Vahan presents: Haber, E., Ruthotto, L., Holtham, E., & Jun, S. H. (2018, April). [Learning Across Scales---Multiscale Methods for Convolution Neural Networks.](https://arxiv.org/pdf/1703.02009.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
 
 ## Papers up for grabs ##
 
