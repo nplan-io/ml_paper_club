@@ -13,8 +13,7 @@ To ensure the safety and health of all of our guests and the Google for Startups
 
 ## Next meetup's paper ##
 
-[05/03/2020] Vahan presents: Haber, E., Ruthotto, L., Holtham, E., & Jun, S. H. (2018, April). [Learning Across Scales---Multiscale Methods for Convolution Neural Networks.](https://arxiv.org/pdf/1703.02009.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
-
+[12/03/2020] TBD
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
@@ -46,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [05/03/2020] Vahan presents: Haber, E., Ruthotto, L., Holtham, E., & Jun, S. H. (2018, April). [Learning Across Scales---Multiscale Methods for Convolution Neural Networks.](https://arxiv.org/pdf/1703.02009.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
 
 - [27/02/2020] Arvid [presents](https://storage.googleapis.com/dockertest-191011/jc_deepkernels.html#1): Wilson, A. G., Hu, Z., Salakhutdinov, R., & Xing, E. P. (2016, May). [Deep kernel learning.](https://arxiv.org/pdf/1511.02222.pdf) In Artificial Intelligence and Statistics (pp. 370-378).
 
