@@ -13,7 +13,8 @@ To ensure the safety and health of all of our guests and the Google for Startups
 
 ## Next meetup's paper ##
 
-[12/03/2020] TBD
+[12/03/2020] This week's meeting has been cancelled
+
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
