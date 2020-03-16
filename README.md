@@ -3,7 +3,7 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Important notice ##
 
-This meetup has been suspended until further notice.
+We are currently looking at alternatives to host this event remotely. Stay tuned!
 
 ## Next meetup's paper ##
 
