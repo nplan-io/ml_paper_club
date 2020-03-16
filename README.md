@@ -3,17 +3,10 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Important notice ##
 
-To ensure the safety and health of all of our guests and the Google for Startups members, please do not attend the event if you:
-- Have been confirmed, are suspected to have, or have the novel coronavirus;
-- Have been in close contact with anyone who's been confirmed to have, or is suspected to have, the novel coronavirus;
-- Have been in any highly affected areas - mainland China, Italy, Iran, South Korea;
-- Have been in close contact with anyone (including household members), who's been in Hubei Province in the last two weeks;
-- Have been under quarantine for the novel coronavirus; or
-- Are experiencing symptoms consistent with the novel coronavirus.
+This meetup has been suspended until further notice.
 
 ## Next meetup's paper ##
 
-[12/03/2020] This week's meeting has been cancelled
 
 ## Papers up for grabs ##
 
