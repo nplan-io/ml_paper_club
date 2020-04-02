@@ -1,12 +1,18 @@
-# Machine Learning Paper Club @ Google Campus with nPlan
+# (Virtual) Machine Learning Paper Club @ Google Campus with nPlan
 A repository of papers accompanying nPlan's machine learning paper club at Google Campus.
 
 ## Important notice ##
 
-We are currently looking at alternatives to host this event remotely. Stay tuned!
+Whilst the COVID-19 quarantine lasts we will be conducting ML Paper Club remotely. Same day, same time, but via video-call. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. The link will be posted here a few minutes before the start of the discussion.
+
+If joining us, we would greatly appreciate it if you respect the following rules:
+- When joining the call, mute your microphone and turn off your video.
+- If you want to speak, use the 'raise hand' option. There will be a moderator watching out for people who want to speak.
+- If you have a question, post it in the chat and the speaker will answer it for you.
 
 ## Next meetup's paper ##
 
+[09/04/2020] [link] Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
 
 ## Papers up for grabs ##
 
