@@ -10,6 +10,8 @@ If joining us, we would greatly appreciate it if you respect the following rules
 - If you want to speak, use the 'raise hand' option. There will be a moderator watching out for people who want to speak.
 - If you have a question, post it in the chat and the speaker will answer it for you.
 
+Bear in mind that these meetings are recorded for dissemination purposes.
+
 ## Next meetup's paper ##
 
 [09/04/2020] [link] Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
