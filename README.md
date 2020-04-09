@@ -14,7 +14,7 @@ Bear in mind that these meetings are recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[09/04/2020] [link] Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
+[09/04/2020] [link](https://zoom.us/j/924602543) Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
 
 ## Papers up for grabs ##
 
