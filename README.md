@@ -14,7 +14,7 @@ Bear in mind that these meetings are recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[09/04/2020] Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
+
 
 ## Papers up for grabs ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [09/04/2020] Carlos presents: Ashukha, A., Lyzhov, A., Molchanov, D., & Vetrov, D. (2020). [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.](https://arxiv.org/pdf/2002.06470.pdf) arXiv preprint arXiv:2002.06470.
 
 - [05/03/2020] Vahan presents: Haber, E., Ruthotto, L., Holtham, E., & Jun, S. H. (2018, April). [Learning Across Scales---Multiscale Methods for Convolution Neural Networks.](https://arxiv.org/pdf/1703.02009.pdf) In Thirty-Second AAAI Conference on Artificial Intelligence.
 
