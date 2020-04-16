@@ -14,7 +14,7 @@ Bear in mind that these meetings are recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[15/04/2020] [link] Joao presents: Huang, G., Li, Y., Pleiss, G., Liu, Z., Hopcroft, J. E., & Weinberger, K. Q. (2017). [Snapshot ensembles: Train 1, get m for free.](https://arxiv.org/pdf/1704.00109.pdf) arXiv preprint arXiv:1704.00109.
+[15/04/2020] [link](https://zoom.us/j/93370599697) Joao presents: Huang, G., Li, Y., Pleiss, G., Liu, Z., Hopcroft, J. E., & Weinberger, K. Q. (2017). [Snapshot ensembles: Train 1, get m for free.](https://arxiv.org/pdf/1704.00109.pdf) arXiv preprint arXiv:1704.00109.
 
 ## Papers up for grabs ##
 
