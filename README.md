@@ -14,7 +14,7 @@ Bear in mind that these meetings are recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[23/04/2020] [Link] Amy presents: Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). [Scaling laws for neural language models.](https://arxiv.org/pdf/2001.08361.pdf) arXiv preprint arXiv:2001.08361.
+[23/04/2020] [Link](https://zoom.us/j/95854470281) Amy presents: Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). [Scaling laws for neural language models.](https://arxiv.org/pdf/2001.08361.pdf) arXiv preprint arXiv:2001.08361.
 
 ## Papers up for grabs ##
 
