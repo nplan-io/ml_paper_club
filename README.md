@@ -10,7 +10,7 @@ If joining us, we would greatly appreciate it if you respect the following rules
 - If you want to speak, use the 'raise hand' option. There will be a moderator watching out for people who want to speak.
 - If you have a question, post it in the chat and the speaker will answer it for you.
 
-Bear in mind that these meetings are recorded for dissemination purposes.
+Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
