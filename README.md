@@ -14,7 +14,7 @@ Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[23/04/2020] [Link](https://zoom.us/j/95854470281) Amy presents: Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). [Scaling laws for neural language models.](https://arxiv.org/pdf/2001.08361.pdf) arXiv preprint arXiv:2001.08361.
+TBC
 
 ## Papers up for grabs ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [23/04/2020] Amy presents: Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). [Scaling laws for neural language models.](https://arxiv.org/pdf/2001.08361.pdf) arXiv preprint arXiv:2001.08361.
 
 - [15/04/2020] Joao presents: Huang, G., Li, Y., Pleiss, G., Liu, Z., Hopcroft, J. E., & Weinberger, K. Q. (2017). [Snapshot ensembles: Train 1, get m for free.](https://arxiv.org/pdf/1704.00109.pdf) arXiv preprint arXiv:1704.00109.
 
