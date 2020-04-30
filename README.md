@@ -14,7 +14,7 @@ Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[30/04/2020] [link] Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
+[30/04/2020] [link](https://us02web.zoom.us/j/89442801501) Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
 
 ## Papers up for grabs ##
 
