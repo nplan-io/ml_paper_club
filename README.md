@@ -14,7 +14,7 @@ Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[30/04/2020] [link](https://us02web.zoom.us/j/89442801501) Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
+[07/05/2020] [Link] Vahan presents: Sinitsin, A., Plokhotnyuk, V., Popov, S., & Babenko, A. (2020). [Editable Neural Networks.](https://openreview.net/pdf?id=HJedXaEtvS&fbclid=IwAR3X-Zo5ibGFnwB_8ZRNpZo-_pA7WiMGVN3WQ-I4yDrz2loxo0seahzsV1I) arXiv preprint arXiv:2004.00345.
 
 ## Papers up for grabs ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [30/04/2020] Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
 
 - [23/04/2020] Amy presents: Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). [Scaling laws for neural language models.](https://arxiv.org/pdf/2001.08361.pdf) arXiv preprint arXiv:2001.08361.
 
