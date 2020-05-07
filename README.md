@@ -14,7 +14,7 @@ Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-[07/05/2020] [Link] Vahan presents: Sinitsin, A., Plokhotnyuk, V., Popov, S., & Babenko, A. (2020). [Editable Neural Networks.](https://openreview.net/pdf?id=HJedXaEtvS&fbclid=IwAR3X-Zo5ibGFnwB_8ZRNpZo-_pA7WiMGVN3WQ-I4yDrz2loxo0seahzsV1I) arXiv preprint arXiv:2004.00345.
+[07/05/2020] [Link](https://us02web.zoom.us/j/89612754200) Vahan presents: Sinitsin, A., Plokhotnyuk, V., Popov, S., & Babenko, A. (2020). [Editable Neural Networks.](https://openreview.net/pdf?id=HJedXaEtvS&fbclid=IwAR3X-Zo5ibGFnwB_8ZRNpZo-_pA7WiMGVN3WQ-I4yDrz2loxo0seahzsV1I) arXiv preprint arXiv:2004.00345.
 
 ## Papers up for grabs ##
 
