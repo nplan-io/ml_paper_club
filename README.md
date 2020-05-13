@@ -3,7 +3,12 @@ A repository of papers accompanying nPlan's machine learning paper club at Googl
 
 ## Joining Instructions ##
 
-Whilst the COVID-19 quarantine lasts we will be conducting ML Paper Club remotely. Same day, same time, but via video-call. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. The link will be posted here a few minutes before the start of the discussion. Bear in mind that these meetings may be recorded for dissemination purposes.
+Whilst the COVID-19 quarantine lasts we will be conducting ML Paper Club remotely. Same day (Thursdays), same time (12h30 London), but via video-call. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. The link will be posted here a few minutes before the start of the discussion. Bear in mind that these meetings may be recorded for dissemination purposes.
+
+During the discussion:
+- Raise your (virtual) hand if you want to speak.
+- Post in the Q&A section if you want something answered by the speaker.
+- Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
 
