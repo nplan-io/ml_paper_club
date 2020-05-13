@@ -1,16 +1,9 @@
 # (Virtual) Machine Learning Paper Club @ Google Campus with nPlan
 A repository of papers accompanying nPlan's machine learning paper club at Google Campus.
 
-## Important notice ##
+## Joining Instructions ##
 
-Whilst the COVID-19 quarantine lasts we will be conducting ML Paper Club remotely. Same day, same time, but via video-call. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. The link will be posted here a few minutes before the start of the discussion.
-
-If joining us, we would greatly appreciate it if you respect the following rules:
-- When joining the call, mute your microphone and turn off your video.
-- If you want to speak, use the 'raise hand' option. There will be a moderator watching out for people who want to speak.
-- If you have a question, post it in the chat and the speaker will answer it for you.
-
-Bear in mind that these meetings may be recorded for dissemination purposes.
+Whilst the COVID-19 quarantine lasts we will be conducting ML Paper Club remotely. Same day, same time, but via video-call. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. The link will be posted here a few minutes before the start of the discussion. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
