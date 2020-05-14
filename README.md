@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[14/05/2020] [Link](https://us02web.zoom.us/j/86722675487) Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [14/05/2020] Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
 
 - [30/04/2020] Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
 
