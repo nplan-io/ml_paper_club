@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[14/05/2020] [Link] Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
+[14/05/2020] [Link](https://us02web.zoom.us/j/86722675487) Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
 
 ## Papers up for grabs ##
 
