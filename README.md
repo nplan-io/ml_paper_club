@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[21/05/2020] João presents: Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., Norouzi, M., & Swersky, K. (2019). [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One.](https://arxiv.org/pdf/1912.03263.pdf) arXiv preprint arXiv:1912.03263.
 
 ## Papers up for grabs ##
 
