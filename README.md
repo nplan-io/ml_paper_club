@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[28/05/2020] Amy presents: Santoro, A., Raposo, D., Barrett, D. G., Malinowski, M., Pascanu, R., Battaglia, P., & Lillicrap, T. (2017). [A simple neural network module for relational reasoning.](https://arxiv.org/pdf/1706.01427.pdf) In Advances in neural information processing systems (pp. 4967-4976).
 
 ## Papers up for grabs ##
 
