@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[28/05/2020] [Link](https://us02web.zoom.us/j/88028510617) Amy presents: Santoro, A., Raposo, D., Barrett, D. G., Malinowski, M., Pascanu, R., Battaglia, P., & Lillicrap, T. (2017). [A simple neural network module for relational reasoning.](https://arxiv.org/pdf/1706.01427.pdf) In Advances in neural information processing systems (pp. 4967-4976).
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [28/05/2020] Amy presents: Santoro, A., Raposo, D., Barrett, D. G., Malinowski, M., Pascanu, R., Battaglia, P., & Lillicrap, T. (2017). [A simple neural network module for relational reasoning.](https://arxiv.org/pdf/1706.01427.pdf) In Advances in neural information processing systems (pp. 4967-4976).
 
 - [14/05/2020] Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
 
