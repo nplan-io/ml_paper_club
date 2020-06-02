@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[04/06/2020] [Link](https://us02web.zoom.us/j/84578675750) Dan presents: Snoek, J., Ovadia, Y., Fertig, E., Lakshminarayanan, B., Nowozin, S., Sculley, D., ... & Nado, Z. (2019). [Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift.](https://arxiv.org/pdf/1906.02530.pdf) In Advances in Neural Information Processing Systems (pp. 13969-13980).
 
 ## Papers up for grabs ##
 
