@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[11/06/2020] [Link](https://us02web.zoom.us/j/83751466528) Arvid presents: Schoenholz, S. S., Gilmer, J., Ganguli, S., & Sohl-Dickstein, J. (2016). [Deep information propagation.](https://arxiv.org/pdf/1611.01232.pdf) arXiv preprint arXiv:1611.01232.
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [11/06/2020] [Slides](https://docs.google.com/document/d/1HmwO0HAHnvdITkHB-vIFJDPBp6WML03bNMkTTMQmOvc/edit?usp=sharing) Arvid presents: Schoenholz, S. S., Gilmer, J., Ganguli, S., & Sohl-Dickstein, J. (2016). [Deep information propagation.](https://arxiv.org/pdf/1611.01232.pdf) arXiv preprint arXiv:1611.01232.
+
+- [05/06/2020] Dan presents: Snoek, J., Ovadia, Y., Fertig, E., Lakshminarayanan, B., Nowozin, S., Sculley, D., ... & Nado, Z. (2019). [Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift.](https://arxiv.org/pdf/1906.02530.pdf) In Advances in Neural Information Processing Systems (pp. 13969-13980).
 
 - [28/05/2020] Amy presents: Santoro, A., Raposo, D., Barrett, D. G., Malinowski, M., Pascanu, R., Battaglia, P., & Lillicrap, T. (2017). [A simple neural network module for relational reasoning.](https://arxiv.org/pdf/1706.01427.pdf) In Advances in neural information processing systems (pp. 4967-4976).
 
