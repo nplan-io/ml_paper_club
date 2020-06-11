@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[11/06/2020] [Link] Arvid presents: Schoenholz, S. S., Gilmer, J., Ganguli, S., & Sohl-Dickstein, J. (2016). [Deep information propagation.](https://arxiv.org/pdf/1611.01232.pdf) arXiv preprint arXiv:1611.01232.
+[11/06/2020] [Link](https://us02web.zoom.us/j/83751466528) Arvid presents: Schoenholz, S. S., Gilmer, J., Ganguli, S., & Sohl-Dickstein, J. (2016). [Deep information propagation.](https://arxiv.org/pdf/1611.01232.pdf) arXiv preprint arXiv:1611.01232.
 
 ## Papers up for grabs ##
 
