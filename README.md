@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[18/06/2020] [Link] Vahan presents: Zhang, J., Kailkhura, B., & Han, T. (2020). [Mix-n-Match: Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning.](https://arxiv.org/pdf/2003.07329.pdf) arXiv preprint arXiv:2003.07329.
 
 ## Papers up for grabs ##
 
