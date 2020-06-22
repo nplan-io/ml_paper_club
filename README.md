@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[18/06/2020] [Link](https://us02web.zoom.us/j/83570485864) Vahan presents: Zhang, J., Kailkhura, B., & Han, T. (2020). [Mix-n-Match: Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning.](https://arxiv.org/pdf/2003.07329.pdf) arXiv preprint arXiv:2003.07329.
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [18/06/2020] Vahan presents: Zhang, J., Kailkhura, B., & Han, T. (2020). [Mix-n-Match: Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning.](https://arxiv.org/pdf/2003.07329.pdf) arXiv preprint arXiv:2003.07329.
+
 
 - [11/06/2020] [Slides](https://storage.googleapis.com/dockertest-191011/kc_information_propagation.html#1) Arvid presents: Schoenholz, S. S., Gilmer, J., Ganguli, S., & Sohl-Dickstein, J. (2016). [Deep information propagation.](https://arxiv.org/pdf/1611.01232.pdf) arXiv preprint arXiv:1611.01232.
 
