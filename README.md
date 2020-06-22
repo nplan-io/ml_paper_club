@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[25/06/2020] [Link](https://us02web.zoom.us/j/83243574729) Carlos presents: Wang, X., Huang, T. E., Darrell, T., Gonzalez, J. E., & Yu, F. (2020). [Frustratingly Simple Few-Shot Object Detection.](https://arxiv.org/pdf/2003.06957.pdf) arXiv preprint arXiv:2003.06957.
 
 ## Papers up for grabs ##
 
