@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[25/06/2020] [Link](https://us02web.zoom.us/j/83243574729) Carlos presents: Wang, X., Huang, T. E., Darrell, T., Gonzalez, J. E., & Yu, F. (2020). [Frustratingly Simple Few-Shot Object Detection.](https://arxiv.org/pdf/2003.06957.pdf) arXiv preprint arXiv:2003.06957.
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [25/06/2020] Carlos presents: Wang, X., Huang, T. E., Darrell, T., Gonzalez, J. E., & Yu, F. (2020). [Frustratingly Simple Few-Shot Object Detection.](https://arxiv.org/pdf/2003.06957.pdf) arXiv preprint arXiv:2003.06957.
 
 - [18/06/2020] Vahan presents: Zhang, J., Kailkhura, B., & Han, T. (2020). [Mix-n-Match: Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning.](https://arxiv.org/pdf/2003.07329.pdf) arXiv preprint arXiv:2003.07329.
 
