@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[02/07/2020] Joao presents: [Link] Ren, S., He, K., Girshick, R., & Sun, J. (2015). [Faster r-cnn: Towards real-time object detection with region proposal networks.](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) In Advances in neural information processing systems (pp. 91-99).
 
 ## Papers up for grabs ##
 
