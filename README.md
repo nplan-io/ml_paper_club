@@ -46,7 +46,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-[02/07/2020] Joao presents: Ren, S., He, K., Girshick, R., & Sun, J. (2015). [Faster r-cnn: Towards real-time object detection with region proposal networks.](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) In Advances in neural information processing systems (pp. 91-99).
+- [02/07/2020] Joao presents: Ren, S., He, K., Girshick, R., & Sun, J. (2015). [Faster r-cnn: Towards real-time object detection with region proposal networks.](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) In Advances in neural information processing systems (pp. 91-99).
 
 - [25/06/2020] Carlos presents: Wang, X., Huang, T. E., Darrell, T., Gonzalez, J. E., & Yu, F. (2020). [Frustratingly Simple Few-Shot Object Detection.](https://arxiv.org/pdf/2003.06957.pdf) arXiv preprint arXiv:2003.06957.
 
