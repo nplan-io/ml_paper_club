@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[09/07/2020] Amy presents: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). [U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/abs/1505.04597) In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
+[09/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Amy presents: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). [U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/abs/1505.04597) In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
 
 ## Papers up for grabs ##
 
