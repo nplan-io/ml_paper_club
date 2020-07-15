@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[09/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Amy presents: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). [U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/abs/1505.04597) In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
+[16/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Dan presents: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). [You only look once: Unified, real-time object detection.](https://arxiv.org/pdf/1506.02640.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [09/07/2020] Amy presents: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). [U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/abs/1505.04597) In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
 
 - [02/07/2020] Joao presents: Ren, S., He, K., Girshick, R., & Sun, J. (2015). [Faster r-cnn: Towards real-time object detection with region proposal networks.](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) In Advances in neural information processing systems (pp. 91-99).
 
