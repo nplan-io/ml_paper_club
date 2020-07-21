@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[16/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Dan presents: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). [You only look once: Unified, real-time object detection.](https://arxiv.org/pdf/1506.02640.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
+TBC
 
 ## Papers up for grabs ##
 
@@ -45,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [16/07/2020] Dan presents: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). [You only look once: Unified, real-time object detection.](https://arxiv.org/pdf/1506.02640.pdf) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
 
 - [09/07/2020] Amy presents: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). [U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/abs/1505.04597) In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
 
