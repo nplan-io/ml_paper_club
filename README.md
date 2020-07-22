@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[23/07/2020] Katharopoulos, A., Vyas, A., Pappas, N., & Fleuret, F. (2020). [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.](https://arxiv.org/pdf/2006.16236.pdf) arXiv preprint arXiv:2006.16236.
 
 ## Papers up for grabs ##
 
