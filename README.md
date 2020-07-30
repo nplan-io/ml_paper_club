@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[30/07/2020] Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
+[30/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
 
 ## Papers up for grabs ##
 
