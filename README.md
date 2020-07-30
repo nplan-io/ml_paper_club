@@ -12,7 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[30/07/2020] [Link](https://us02web.zoom.us/j/83243574729) Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
 
 ## Papers up for grabs ##
 
@@ -45,6 +44,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [30/07/2020] Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
+
 
 - [23/07/2020] Vahan presents: Katharopoulos, A., Vyas, A., Pappas, N., & Fleuret, F. (2020). [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.](https://arxiv.org/pdf/2006.16236.pdf) arXiv preprint arXiv:2006.16236.
 
