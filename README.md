@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[06/08/2020] [Link](https://us02web.zoom.us/j/83243574729) Amin presents: Yun, S., Jeong, M., Kim, R., Kang, J., & Kim, H. J. (2019). [Graph transformer networks.](http://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) In Advances in Neural Information Processing Systems (pp. 11983-11993).
+[06/08/2020] [Link TBD]() Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf) In International Conference on Learning Representations.
 
 ## Papers up for grabs ##
 
@@ -45,8 +45,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- [30/07/2020] [Slides](https://github.com/Krisztina-Sinkovics/Presentations/tree/master/probabilistic_u-net) Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
+- [06/08/2020] Amin presents: Yun, S., Jeong, M., Kim, R., Kang, J., & Kim, H. J. (2019). [Graph transformer networks.](http://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) In Advances in Neural Information Processing Systems (pp. 11983-11993).
 
+- [30/07/2020] [Slides](https://github.com/Krisztina-Sinkovics/Presentations/tree/master/probabilistic_u-net) Krisztina presents: Kohl, S., Romera-Paredes, B., Meyer, C., De Fauw, J., Ledsam, J. R., Maier-Hein, K., ... & Ronneberger, O. (2018). [A probabilistic u-net for segmentation of ambiguous images.](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) In Advances in Neural Information Processing Systems (pp. 6965-6975).
 
 - [23/07/2020] Vahan presents: Katharopoulos, A., Vyas, A., Pappas, N., & Fleuret, F. (2020). [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.](https://arxiv.org/pdf/2006.16236.pdf) arXiv preprint arXiv:2006.16236.
 
