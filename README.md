@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[06/08/2020] [Link TBD]() Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
+[13/08/2020] [Link TBD]() Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
 
 ## Papers up for grabs ##
 
