@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[13/08/2020] [Zoom Link](https://us02web.zoom.us/j/83243574729) Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
+[20/08/2020] [Zoom Link TBD]() Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
 
 ## Papers up for grabs ##
 
@@ -44,6 +44,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [13/08/2020] Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
 
 - [06/08/2020] Amin presents: Yun, S., Jeong, M., Kim, R., Kang, J., & Kim, H. J. (2019). [Graph transformer networks.](http://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) In Advances in Neural Information Processing Systems (pp. 11983-11993).
 
