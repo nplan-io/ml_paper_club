@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[20/08/2020] [Zoom Link TBD]() Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
+[20/08/2020] [Zoom Link](https://us02web.zoom.us/j/83243574729) Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
 
 ## Papers up for grabs ##
 
