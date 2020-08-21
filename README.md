@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[20/08/2020] [Zoom Link](https://us02web.zoom.us/j/83243574729) Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
+[27/08/2020] [Zoom Link TBD]() Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
 
 ## Papers up for grabs ##
 
@@ -44,6 +44,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [20/08/2020] Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
 
 - [13/08/2020] Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
 
