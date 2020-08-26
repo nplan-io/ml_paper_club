@@ -11,7 +11,7 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[27/08/2020] [Zoom Link TBD]() Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
+[27/08/2020] [Zoom Link TBD](https://us02web.zoom.us/j/83243574729) Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
 
 ## Papers up for grabs ##
 
