@@ -11,7 +11,8 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-[27/08/2020] [Zoom Link](https://us02web.zoom.us/j/83243574729) Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
+
+[03/09/2020] Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)
 
 ## Papers up for grabs ##
 
@@ -44,6 +45,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [27/08/2020] Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
+
 
 - [20/08/2020] Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
 
