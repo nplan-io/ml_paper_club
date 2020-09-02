@@ -14,6 +14,8 @@ During the discussion:
 
 [03/09/2020] Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)
 
+Supporting material: [Yann LeCun speaks about self supervised learning](https://www.youtube.com/watch?v=8TTK-Dd0H9U)
+
 ## Papers up for grabs ##
 
 - Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
