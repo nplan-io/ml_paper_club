@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBD
+[10/09/2020] Carlos presents: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). [Bert: Pre-training of deep bidirectional transformers for language understanding.](https://arxiv.org/pdf/1810.04805.pdf) arXiv preprint arXiv:1810.04805.
 
 ## Papers up for grabs ##
 
