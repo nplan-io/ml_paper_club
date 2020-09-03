@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[03/09/2020] Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)
+[03/09/2020] [Link to webinar](https://us02web.zoom.us/j/83243574729) Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)
 
 Supporting material: [Yann LeCun speaks about self supervised learning](https://www.youtube.com/watch?v=8TTK-Dd0H9U)
 
