@@ -12,9 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[03/09/2020] [Link to webinar](https://us02web.zoom.us/j/83243574729) Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)
-
-Supporting material: [Yann LeCun speaks about self supervised learning](https://www.youtube.com/watch?v=8TTK-Dd0H9U)
+TBD
 
 ## Papers up for grabs ##
 
@@ -47,6 +45,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [03/09/2020] Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf). Supporting material: [Yann LeCun speaks about self supervised learning](https://www.youtube.com/watch?v=8TTK-Dd0H9U)
 
 - [27/08/2020] Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
 
