@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[10/09/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Carlos presents: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). [Bert: Pre-training of deep bidirectional transformers for language understanding.](https://arxiv.org/pdf/1810.04805.pdf) arXiv preprint arXiv:1810.04805.
+[17/07/2020] Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
 
 ## Papers up for grabs ##
 
@@ -34,6 +34,16 @@ For those new to machine learning, these are some recommended reading material:
 
 - Provost, F. and Fawcett, T. (2013). [Data science for business.](https://www.amazon.co.uk/Data-Science-Business-data-analytic-thinking/dp/1449361323) Sebastopol: O'Reilly.
 
+Transformer-related resources:
+
+- [The illustrated transformer](http://jalammar.github.io/illustrated-transformer/)
+
+- [The annotated transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html#attention)
+
+- [Embedding layers in BERT, explained](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
+
+- Examples of BERT: [sentiment analysis](https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb) and [feature extraction from BERT](https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b)
+
 The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
 
 The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo. Feel free to contribute to it, we might make a push to TensorFlow with a Platt Scaling layer!
@@ -45,6 +55,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [10/09/2020] Carlos presents: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). [Bert: Pre-training of deep bidirectional transformers for language understanding.](https://arxiv.org/pdf/1810.04805.pdf) arXiv preprint arXiv:1810.04805.
 
 - [03/09/2020] Vahan presents: Lee, H., Hwang, S. J., & Shin, J. [Self-supervised Label Augmentation via Input Transformations.](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf). Supporting material: [Yann LeCun speaks about self supervised learning](https://www.youtube.com/watch?v=8TTK-Dd0H9U)
 
