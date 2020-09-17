@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[17/07/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
+TBC
 
 ## Papers up for grabs ##
 
@@ -55,6 +55,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [17/07/2020] Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
 
 - [10/09/2020] Carlos presents: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). [Bert: Pre-training of deep bidirectional transformers for language understanding.](https://arxiv.org/pdf/1810.04805.pdf) arXiv preprint arXiv:1810.04805.
 
