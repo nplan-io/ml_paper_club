@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[17/07/2020] Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
+[17/07/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
 
 ## Papers up for grabs ##
 
