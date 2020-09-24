@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[25/09/2020] Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
+[25/09/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
 
 ## Papers up for grabs ##
 
