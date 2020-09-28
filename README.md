@@ -12,15 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[25/09/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
-
-## Papers up for grabs ##
-
-- Daniely, A., Lazic, N., Singer, Y., & Talwar, K. (2016). [Short and deep: Sketching and neural networks.](https://openreview.net/pdf?id=r1br_2Kge)
-
-- Frankle, J., & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks.](https://arxiv.org/pdf/1803.03635.pdf) arXiv preprint arXiv:1803.03635.
-
-- Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.](https://arxiv.org/pdf/1905.01067.pdf) arXiv preprint arXiv:1905.01067.
+TBC
 
 ## Supplementary material ##
 
@@ -55,6 +47,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [25/09/2020] Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
+
 
 - [17/07/2020] Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
 
