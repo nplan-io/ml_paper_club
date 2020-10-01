@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[01/10/2020] João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
+[01/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
 
 ## Supplementary material ##
 
