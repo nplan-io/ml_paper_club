@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[01/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
+TBD
 
 ## Supplementary material ##
 
@@ -47,6 +47,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [01/10/2020] João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
+
 
 - [25/09/2020] Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
 
