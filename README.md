@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[09/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Joao presents: Under double-blind review. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://openreview.net/forum?id=YicbFdNTTy)
+TBC
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [09/10/2020] Joao presents: Under double-blind review. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://openreview.net/forum?id=YicbFdNTTy)
 
 - [01/10/2020] João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
 
