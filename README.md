@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[09/10/2020] Joao presents: Under double-blind review. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://openreview.net/forum?id=YicbFdNTTy)
+[09/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Joao presents: Under double-blind review. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://openreview.net/forum?id=YicbFdNTTy)
 
 ## Supplementary material ##
 
