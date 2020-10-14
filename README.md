@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[20/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
+[15/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
 
 - [Blog post and code for the paper](https://clustered-transformers.github.io/)
 - Further reading on efficient transformers: [The Reformer](https://arxiv.org/pdf/2001.04451.pdf)
