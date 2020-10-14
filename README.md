@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC
+[20/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
 
 ## Supplementary material ##
 
