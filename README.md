@@ -48,7 +48,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- [15/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
+- [15/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
   -- [Blog post and code for the paper](https://clustered-transformers.github.io/)
   -- Further reading on efficient transformers: [The Reformer](https://arxiv.org/pdf/2001.04451.pdf)
 
