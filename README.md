@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[22/10/2020] Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
+[22/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
 
 ## Supplementary material ##
 
