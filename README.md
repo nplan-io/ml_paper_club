@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[22/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
+TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [22/10/2020] Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
 
 - [15/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
   -- [Blog post and code for the paper](https://clustered-transformers.github.io/)
