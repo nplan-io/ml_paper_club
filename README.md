@@ -12,7 +12,9 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
+[29/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Carlos presents: Paper under double-blind review. [Lambda networks: modeling long-range interactions without attention.](https://openreview.net/pdf?id=xTJEN-ggl1b). ICLR 2021.
+
+- [Accompannying video explanation](https://www.youtube.com/watch?v=3qxJ2WD8p4w)
 
 ## Supplementary material ##
 
