@@ -12,9 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[29/10/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Carlos presents: Paper under double-blind review. [Lambda networks: modeling long-range interactions without attention.](https://openreview.net/pdf?id=xTJEN-ggl1b). ICLR 2021.
-
-- [Accompannying video explanation](https://www.youtube.com/watch?v=3qxJ2WD8p4w)
+TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
 
 ## Supplementary material ##
 
@@ -50,11 +48,15 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [29/10/2020] Carlos presents: Paper under double-blind review. [Lambda networks: modeling long-range interactions without attention.](https://openreview.net/pdf?id=xTJEN-ggl1b). ICLR 2021.
+   * [Accompannying video explanation](https://www.youtube.com/watch?v=3qxJ2WD8p4w)
+
+
 - [22/10/2020] Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
 
 - [15/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
-  -- [Blog post and code for the paper](https://clustered-transformers.github.io/)
-  -- Further reading on efficient transformers: [The Reformer](https://arxiv.org/pdf/2001.04451.pdf)
+   * [Blog post and code for the paper](https://clustered-transformers.github.io/)
+   * Further reading on efficient transformers: [The Reformer](https://arxiv.org/pdf/2001.04451.pdf)
 
 - [09/10/2020] Joao presents: Under double-blind review. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://openreview.net/forum?id=YicbFdNTTy)
 
