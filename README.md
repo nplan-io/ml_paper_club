@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
+ [05/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Vahan presents: Rong, Y., Bian, Y., Xu, T., Xie, W., Wei, Y., Huang, W., & Huang, J. (2020). [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data.](https://arxiv.org/pdf/2007.02835.pdf) arXiv preprint arXiv:2007.02835.
 
 ## Supplementary material ##
 
