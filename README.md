@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- [05/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Vahan presents: Rong, Y., Bian, Y., Xu, T., Xie, W., Wei, Y., Huang, W., & Huang, J. (2020). [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data.](https://arxiv.org/pdf/2007.02835.pdf) arXiv preprint arXiv:2007.02835.
+ TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+-  [05/11/2020] Vahan presents: Rong, Y., Bian, Y., Xu, T., Xie, W., Wei, Y., Huang, W., & Huang, J. (2020). [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data.](https://arxiv.org/pdf/2007.02835.pdf) arXiv preprint arXiv:2007.02835.
 
 - [29/10/2020] Carlos presents: Paper under double-blind review. [Lambda networks: modeling long-range interactions without attention.](https://openreview.net/pdf?id=xTJEN-ggl1b). ICLR 2021.
    * [Accompannying video explanation](https://www.youtube.com/watch?v=3qxJ2WD8p4w)
