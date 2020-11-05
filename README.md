@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- TBC [Webinar link](https://us02web.zoom.us/j/83243574729)
+ [12/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729)Amin presents: Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks.](https://arxiv.org/pdf/1710.10903.pdf) arXiv preprint arXiv:1710.10903.
 
 ## Supplementary material ##
 
