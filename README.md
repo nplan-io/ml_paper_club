@@ -12,8 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- [12/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Amin presents: Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks.](https://arxiv.org/pdf/1710.10903.pdf) arXiv preprint arXiv:1710.10903.
-
+ TBC [Webinar link](https://us02web.zoom.us/j/83243574729) 
+ 
 ## Supplementary material ##
 
 For those new to machine learning, these are some recommended reading material:
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [12/11/2020] Amin presents: Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks.](https://arxiv.org/pdf/1710.10903.pdf) arXiv preprint arXiv:1710.10903.
 
 -  [05/11/2020] Vahan presents: Rong, Y., Bian, Y., Xu, T., Xie, W., Wei, Y., Huang, W., & Huang, J. (2020). [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data.](https://arxiv.org/pdf/2007.02835.pdf) arXiv preprint arXiv:2007.02835.
 
