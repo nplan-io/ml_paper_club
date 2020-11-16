@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- TBC [Webinar link](https://us02web.zoom.us/j/83243574729) 
+ [19/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Dan presents: Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. Y. (2018). [Gaan: Gated attention networks for learning on large and spatiotemporal graphs.](https://arxiv.org/pdf/1803.07294.pdf) arXiv preprint arXiv:1803.07294.
+
  
 ## Supplementary material ##
 
