@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- [19/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Dan presents: Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. Y. (2018). [Gaan: Gated attention networks for learning on large and spatiotemporal graphs.](https://arxiv.org/pdf/1803.07294.pdf) arXiv preprint arXiv:1803.07294.
+ [26/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Arvid presents: Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). [Temporal fusion transformers for interpretable multi-horizon time series forecasting.](https://arxiv.org/pdf/1912.09363v3.pdf) arXiv preprint arXiv:1912.09363.
 
  
 ## Supplementary material ##
@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [19/11/2020] Dan presents: Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. Y. (2018). [Gaan: Gated attention networks for learning on large and spatiotemporal graphs.](https://arxiv.org/pdf/1803.07294.pdf) arXiv preprint arXiv:1803.07294.
 
 - [12/11/2020] Amin presents: Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks.](https://arxiv.org/pdf/1710.10903.pdf) arXiv preprint arXiv:1710.10903.
 
