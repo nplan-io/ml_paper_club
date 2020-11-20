@@ -12,7 +12,9 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- [26/11/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Arvid presents: Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). [Temporal fusion transformers for interpretable multi-horizon time series forecasting.](https://arxiv.org/pdf/1912.09363v3.pdf) arXiv preprint arXiv:1912.09363.
+ [26/11/2020] - No paper club on this date
+ 
+ [03/12/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Arvid presents: Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). [Temporal fusion transformers for interpretable multi-horizon time series forecasting.](https://arxiv.org/pdf/1912.09363v3.pdf) arXiv preprint arXiv:1912.09363.
 
  
 ## Supplementary material ##
