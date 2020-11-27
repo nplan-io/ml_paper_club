@@ -60,7 +60,6 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 - [29/10/2020] Carlos presents: Paper under double-blind review. [Lambda networks: modeling long-range interactions without attention.](https://openreview.net/pdf?id=xTJEN-ggl1b). ICLR 2021.
    * [Accompannying video explanation](https://www.youtube.com/watch?v=3qxJ2WD8p4w)
 
-
 - [22/10/2020] Dan presents: Doersch, C., Gupta, A., & Zisserman, A. (2020). [CrossTransformers: spatially-aware few-shot transfer.](https://arxiv.org/pdf/2007.11498.pdf) arXiv preprint arXiv:2007.11498.
 
 - [15/10/2020] Vahan presents: Vyas, A., Katharopoulos, A., & Fleuret, F. (2020). [Fast Transformers with Clustered Attention.](https://arxiv.org/pdf/2007.04825.pdf) arXiv preprint arXiv:2007.04825.
@@ -71,9 +70,7 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [01/10/2020] João presents: Swayamdipta, S. et al. [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics](https://arxiv.org/pdf/2009.10795.pdf). arXiv preprint 2009.10795.
 
-
 - [25/09/2020] Amin presents: Cordonnier, J. B., Loukas, A., & Jaggi, M. (2019). [On the relationship between self-attention and convolutional layers.](https://arxiv.org/pdf/1911.03584.pdf) arXiv preprint arXiv:1911.03584.
-
 
 - [17/07/2020] Arvid presents: Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017, November). [Snorkel: Rapid training data creation with weak supervision.](https://arxiv.org/pdf/1711.10160.pdf) In Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases (Vol. 11, No. 3, p. 269). NIH Public Access.
 
@@ -83,10 +80,9 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [27/08/2020] Dan presents: Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le (2019). [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf). arXiv preprint arXiv:1904.12848.
 
-
 - [20/08/2020] Inneke presents: Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton (2020). [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf). arXiv preprint arXiv:2006.10029.
 
-- [13/08/2020] Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations.
+- [13/08/2020] Joao presents: Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning (2020). [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555.pdf). In International Conference on Learning Representations 2020.
 
 - [06/08/2020] Amin presents: Yun, S., Jeong, M., Kim, R., Kang, J., & Kim, H. J. (2019). [Graph transformer networks.](http://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) In Advances in Neural Information Processing Systems (pp. 11983-11993).
 
@@ -110,7 +106,9 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [28/05/2020] Amy presents: Santoro, A., Raposo, D., Barrett, D. G., Malinowski, M., Pascanu, R., Battaglia, P., & Lillicrap, T. (2017). [A simple neural network module for relational reasoning.](https://arxiv.org/pdf/1706.01427.pdf) In Advances in neural information processing systems (pp. 4967-4976).
 
-- [14/05/2020] Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1802.10501.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
+- [21/05/2020] Joao presents: Will Grathwohl, Kuan-Chieh Wang, Jörn-Henrik Jacobsen, David Duvenaud, Mohammad Norouzi, Kevin Swersky (2020). [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/pdf/1706.01427.pdf) In International Conference on Learning Representations 2020.
+
+- [14/05/2020] Carlos presents: Malinin, A., & Gales, M. (2018). [Predictive uncertainty estimation via prior networks.](https://arxiv.org/pdf/1912.03263.pdf) In Advances in Neural Information Processing Systems (pp. 7047-7058).
 
 - [30/04/2020] Dan presents: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D. J., Eslami, S. M., & Teh, Y. W. (2018). [Neural processes.](https://arxiv.org/pdf/1807.01622.pdf) arXiv preprint arXiv:1807.01622.
 
