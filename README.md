@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[03/12/2020] TBC
+[03/12/2020] Carlos presents: Huang, Q., He, H., Singh, A., Lim, S. N., & Benson, A. R. (2020). [Combining Label Propagation and Simple Models Out-performs Graph Neural Networks.](https://arxiv.org/pdf/2010.13993.pdf) arXiv preprint arXiv:2010.13993.
 
  
 ## Supplementary material ##
