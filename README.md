@@ -12,8 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[10/12/2020] [Webinar link](https://us02web.zoom.us/j/83243574729) Carlos presents: Huang, Q., He, H., Singh, A., Lim, S. N., & Benson, A. R. (2020). [Combining Label Propagation and Simple Models Out-performs Graph Neural Networks.](https://arxiv.org/pdf/2010.13993.pdf) arXiv preprint arXiv:2010.13993.
-
+Paper club is off for the holidays! See you all in January!
  
 ## Supplementary material ##
 
@@ -48,6 +47,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [10/12/2020] Carlos presents: Huang, Q., He, H., Singh, A., Lim, S. N., & Benson, A. R. (2020). [Combining Label Propagation and Simple Models Out-performs Graph Neural Networks.](https://arxiv.org/pdf/2010.13993.pdf) arXiv preprint arXiv:2010.13993.
+
 
 -  [03/12/2020] Arvid presents: Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). [Temporal fusion transformers for interpretable multi-horizon time series forecasting.](https://arxiv.org/pdf/1912.09363v3.pdf) arXiv preprint arXiv:1912.09363.
 
