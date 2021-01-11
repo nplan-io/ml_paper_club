@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[14/01/2021] Dwane presents: Bartolo, M., Roberts, A., Welbl, J., Riedel, S., & Stenetorp, P. (2020). [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension.](https://arxiv.org/pdf/2002.00293.pdf) arXiv preprint arXiv:2002.00293.
+[14/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Dwane presents: Bartolo, M., Roberts, A., Welbl, J., Riedel, S., & Stenetorp, P. (2020). [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension.](https://arxiv.org/pdf/2002.00293.pdf) arXiv preprint arXiv:2002.00293.
 
  
 ## Supplementary material ##
