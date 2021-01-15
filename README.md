@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[14/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Dwane presents: Bartolo, M., Roberts, A., Welbl, J., Riedel, S., & Stenetorp, P. (2020). [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension.](https://arxiv.org/pdf/2002.00293.pdf) arXiv preprint arXiv:2002.00293.
+[21/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) João presents: Haidar, M. A., & Rezagholizadeh, M. (2019, May). [Textkd-gan: Text generation using knowledge distillation and generative adversarial networks.](https://arxiv.org/pdf/1905.01976.pdf) In Canadian Conference on Artificial Intelligence (pp. 107-118). Springer, Cham.
+
 
  
 ## Supplementary material ##
@@ -48,6 +49,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [14/01/2021] Dwane presents: Bartolo, M., Roberts, A., Welbl, J., Riedel, S., & Stenetorp, P. (2020). [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension.](https://arxiv.org/pdf/2002.00293.pdf) arXiv preprint arXiv:2002.00293.
+
 
 - [10/12/2020] Carlos presents: Huang, Q., He, H., Singh, A., Lim, S. N., & Benson, A. R. (2020). [Combining Label Propagation and Simple Models Out-performs Graph Neural Networks.](https://arxiv.org/pdf/2010.13993.pdf) arXiv preprint arXiv:2010.13993.
 
