@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[21/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) João presents: Haidar, M. A., & Rezagholizadeh, M. (2019, May). [Textkd-gan: Text generation using knowledge distillation and generative adversarial networks.](https://arxiv.org/pdf/1905.01976.pdf) In Canadian Conference on Artificial Intelligence (pp. 107-118). Springer, Cham.
+[28/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBD
 
 
  
@@ -49,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [21/01/2021] João presents: Haidar, M. A., & Rezagholizadeh, M. (2019, May). [Textkd-gan: Text generation using knowledge distillation and generative adversarial networks.](https://arxiv.org/pdf/1905.01976.pdf) In Canadian Conference on Artificial Intelligence (pp. 107-118). Springer, Cham.
 
 - [14/01/2021] Dwane presents: Bartolo, M., Roberts, A., Welbl, J., Riedel, S., & Stenetorp, P. (2020). [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension.](https://arxiv.org/pdf/2002.00293.pdf) arXiv preprint arXiv:2002.00293.
 
