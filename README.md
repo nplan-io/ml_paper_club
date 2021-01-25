@@ -12,9 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[28/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBD
-
-
+[28/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Amin presents: Kong, L., d'Autume, C. D. M., Ling, W., Yu, L., Dai, Z., & Yogatama, D. (2019). [A mutual information maximization perspective of language representation learning.](https://arxiv.org/pdf/1910.08350.pdf) arXiv preprint arXiv:1910.08350.
  
 ## Supplementary material ##
 
