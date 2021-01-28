@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[28/01/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Amin presents: Kong, L., d'Autume, C. D. M., Ling, W., Yu, L., Dai, Z., & Yogatama, D. (2019). [A mutual information maximization perspective of language representation learning.](https://arxiv.org/pdf/1910.08350.pdf) arXiv preprint arXiv:1910.08350.
+[04/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
  
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [28/01/2021] Amin presents: Kong, L., d'Autume, C. D. M., Ling, W., Yu, L., Dai, Z., & Yogatama, D. (2019). [A mutual information maximization perspective of language representation learning.](https://arxiv.org/pdf/1910.08350.pdf) arXiv preprint arXiv:1910.08350.
 
 - [21/01/2021] João presents: Haidar, M. A., & Rezagholizadeh, M. (2019, May). [Textkd-gan: Text generation using knowledge distillation and generative adversarial networks.](https://arxiv.org/pdf/1905.01976.pdf) In Canadian Conference on Artificial Intelligence (pp. 107-118). Springer, Cham.
 
