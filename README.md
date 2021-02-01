@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[04/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
+[04/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). [Combining deep reinforcement learning and search for imperfect-information games.](https://arxiv.org/pdf/2007.13544.pdf) arXiv preprint arXiv:2007.13544.
+
  
 ## Supplementary material ##
 
