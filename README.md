@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[11/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBD
+[11/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Zhang, M., & He, Y. (2020). [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping.](https://arxiv.org/pdf/2010.13369v1.pdf) arXiv preprint arXiv:2010.13369.
+
 
  
 ## Supplementary material ##
