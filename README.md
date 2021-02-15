@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[18/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
+[18/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Amin presents: Xiong, Y., Zeng, Z., Chakraborty, R., Tan, M., Fung, G., Li, Y., & Singh, V. (2021). [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.](https://arxiv.org/pdf/2102.03902.pdf) arXiv preprint arXiv:2102.03902.
+
 
  
 ## Supplementary material ##
