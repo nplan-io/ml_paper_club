@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [25/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
+- [25/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) João presents: Pruthi, G., Liu, F., Sundararajan, M., & Kale, S. (2020). [Estimating Training Data Influence by Tracing Gradient Descent.](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) arXiv preprint arXiv:2002.08484.
+
 
  
 ## Supplementary material ##
