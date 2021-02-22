@@ -12,8 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[18/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Amin presents: Xiong, Y., Zeng, Z., Chakraborty, R., Tan, M., Fung, G., Li, Y., & Singh, V. (2021). [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.](https://arxiv.org/pdf/2102.03902.pdf) arXiv preprint arXiv:2102.03902.
-
+- [25/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
 
  
 ## Supplementary material ##
@@ -49,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [18/02/2021] Amin presents: Xiong, Y., Zeng, Z., Chakraborty, R., Tan, M., Fung, G., Li, Y., & Singh, V. (2021). [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.](https://arxiv.org/pdf/2102.03902.pdf) arXiv preprint arXiv:2102.03902.
 
 - [11/02/2021] Inneke presents: Zhang, M., & He, Y. (2020). [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping.](https://arxiv.org/pdf/2010.13369v1.pdf) arXiv preprint arXiv:2010.13369.
 
