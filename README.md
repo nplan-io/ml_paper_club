@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [25/02/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) João presents: Pruthi, G., Liu, F., Sundararajan, M., & Kale, S. (2020). [Estimating Training Data Influence by Tracing Gradient Descent.](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) arXiv preprint arXiv:2002.08484.
+- [04/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Dwane presents: Chen, Z., Bei, Y., & Rudin, C. (2020). [Concept whitening for interpretable image recognition.](https://arxiv.org/pdf/2002.01650.pdf) Nature Machine Intelligence, 2(12), 772-782.
+
 
 
  
@@ -49,6 +50,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [25/02/2021] João presents: Pruthi, G., Liu, F., Sundararajan, M., & Kale, S. (2020). [Estimating Training Data Influence by Tracing Gradient Descent.](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) arXiv preprint arXiv:2002.08484.
 
 - [18/02/2021] Amin presents: Xiong, Y., Zeng, Z., Chakraborty, R., Tan, M., Fung, G., Li, Y., & Singh, V. (2021). [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.](https://arxiv.org/pdf/2102.03902.pdf) arXiv preprint arXiv:2102.03902.
 
