@@ -12,8 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [04/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Dwane presents: Chen, Z., Bei, Y., & Rudin, C. (2020). [Concept whitening for interpretable image recognition.](https://arxiv.org/pdf/2002.01650.pdf) Nature Machine Intelligence, 2(12), 772-782.
-
 - [11/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Yeh, C. C. M., Zhu, Y., Ulanova, L., Begum, N., Ding, Y., Dau, H. A., ... & Keogh, E. (2016, December). [Matrix profile I: all pairs similarity joins for time series: a unifying view that includes motifs, discords and shapelets.](https://www.researchgate.net/publication/313454413_Matrix_Profile_I_All_Pairs_Similarity_Joins_for_Time_Series_A_Unifying_View_That_Includes_Motifs_Discords_and_Shapelets) In 2016 IEEE 16th international conference on data mining (ICDM) (pp. 1317-1322). Ieee.
  
 ## Supplementary material ##
@@ -49,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [04/03/2021] Dwane presents: Chen, Z., Bei, Y., & Rudin, C. (2020). [Concept whitening for interpretable image recognition.](https://arxiv.org/pdf/2002.01650.pdf) Nature Machine Intelligence, 2(12), 772-782.
 
 - [25/02/2021] João presents: Pruthi, G., Liu, F., Sundararajan, M., & Kale, S. (2020). [Estimating Training Data Influence by Tracing Gradient Descent.](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) arXiv preprint arXiv:2002.08484.
 
