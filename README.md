@@ -13,6 +13,10 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [11/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Yeh, C. C. M., Zhu, Y., Ulanova, L., Begum, N., Ding, Y., Dau, H. A., ... & Keogh, E. (2016, December). [Matrix profile I: all pairs similarity joins for time series: a unifying view that includes motifs, discords and shapelets.](https://www.researchgate.net/publication/313454413_Matrix_Profile_I_All_Pairs_Similarity_Joins_for_Time_Series_A_Unifying_View_That_Includes_Motifs_Discords_and_Shapelets) In 2016 IEEE 16th international conference on data mining (ICDM) (pp. 1317-1322). Ieee.
+
+
+- [18/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Alexandre presents: Khrulkov, V., Mirvakhabova, L., Ustinova, E., Oseledets, I., & Lempitsky, V. (2020). [Hyperbolic image embeddings.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Khrulkov_Hyperbolic_Image_Embeddings_CVPR_2020_paper.pdf) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6418-6428).
+
  
 ## Supplementary material ##
 
