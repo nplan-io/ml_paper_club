@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [25/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: He, P., Liu, X., Gao, J., & Chen, W. (2020). [Deberta: Decoding-enhanced bert with disentangled attention.](https://arxiv.org/pdf/2006.03654.pdf) arXiv preprint arXiv:2006.03654.
+- [25/03/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: He, P., Liu, X., Gao, J., & Chen, W. (2020). [Deberta: Decoding-enhanced bert with disentangled attention.](https://arxiv.org/pdf/2006.03654.pdf) arXiv preprint arXiv:2006.03654.
 
 
 ## Supplementary material ##
