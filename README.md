@@ -12,6 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
+- [08/04/2021] Carlos presents: Jiang, Y., Chang, S., & Wang, Z. (2021). [Transgan: Two transformers can make one strong gan.](https://arxiv.org/pdf/2102.07074.pdf) arXiv preprint arXiv:2102.07074.
 - [01/04/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Jaegle, A., Gimeno, F., Brock, A., Zisserman, A., Vinyals, O., & Carreira, J. (2021). [Perceiver: General Perception with Iterative Attention.](https://arxiv.org/pdf/2103.03206.pdf) arXiv preprint arXiv:2103.03206.
 
 
@@ -50,7 +51,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-[25/03/2021] Vahan presents: He, P., Liu, X., Gao, J., & Chen, W. (2020). [Deberta: Decoding-enhanced bert with disentangled attention.](https://arxiv.org/pdf/2006.03654.pdf) arXiv preprint arXiv:2006.03654.
+- [01/04/2021] Inneke presents: Jaegle, A., Gimeno, F., Brock, A., Zisserman, A., Vinyals, O., & Carreira, J. (2021). [Perceiver: General Perception with Iterative Attention.](https://arxiv.org/pdf/2103.03206.pdf) arXiv preprint arXiv:2103.03206.
+
+- [25/03/2021] Vahan presents: He, P., Liu, X., Gao, J., & Chen, W. (2020). [Deberta: Decoding-enhanced bert with disentangled attention.](https://arxiv.org/pdf/2006.03654.pdf) arXiv preprint arXiv:2006.03654.
 
 - [18/03/2021]  Alexandre presents: Khrulkov, V., Mirvakhabova, L., Ustinova, E., Oseledets, I., & Lempitsky, V. (2020). [Hyperbolic image embeddings.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Khrulkov_Hyperbolic_Image_Embeddings_CVPR_2020_paper.pdf) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6418-6428).
 
