@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [08/04/2021]  [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Jiang, Y., Chang, S., & Wang, Z. (2021). [Transgan: Two transformers can make one strong gan.](https://arxiv.org/pdf/2102.07074.pdf) arXiv preprint arXiv:2102.07074.
+- [15/04/2021] TBC
 
 
 ## Supplementary material ##
@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [08/04/2021] Carlos presents: Jiang, Y., Chang, S., & Wang, Z. (2021). [Transgan: Two transformers can make one strong gan.](https://arxiv.org/pdf/2102.07074.pdf) arXiv preprint arXiv:2102.07074.
 
 - [01/04/2021] Inneke presents: Jaegle, A., Gimeno, F., Brock, A., Zisserman, A., Vinyals, O., & Carreira, J. (2021). [Perceiver: General Perception with Iterative Attention.](https://arxiv.org/pdf/2103.03206.pdf) arXiv preprint arXiv:2103.03206.
 
