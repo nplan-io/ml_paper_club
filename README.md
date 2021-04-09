@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [15/04/2021] TBC
+- [15/04/2021] Peter presents: Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). [Toward Causal Representation Learning.](https://arxiv.org/pdf/2102.11107.pdf) Proceedings of the IEEE.
+
 
 
 ## Supplementary material ##
