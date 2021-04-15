@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [15/04/2021] Peter presents: Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). [Toward Causal Representation Learning.](https://arxiv.org/pdf/2102.11107.pdf) Proceedings of the IEEE.
+- [15/04/2021] [link](https://us02web.zoom.us/j/7114501158) Peter presents: Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). [Toward Causal Representation Learning.](https://arxiv.org/pdf/2102.11107.pdf) Proceedings of the IEEE.
 - [22/04/2021] Jiameng presents: Bai, S., Kolter, J. Z., & Koltun, V. (2019). [Deep equilibrium models.](https://arxiv.org/pdf/1909.01377.pdf) arXiv preprint arXiv:1909.01377.
 
 
