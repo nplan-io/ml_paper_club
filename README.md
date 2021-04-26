@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [22/04/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Jiameng presents: Bai, S., Kolter, J. Z., & Koltun, V. (2019). [Deep equilibrium models.](https://arxiv.org/pdf/1909.01377.pdf) arXiv preprint arXiv:1909.01377.
+- [29/04/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
 
 
 ## Supplementary material ##
@@ -49,7 +49,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- - [15/04/2021] Peter presents: Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). [Toward Causal Representation Learning.](https://arxiv.org/pdf/2102.11107.pdf) Proceedings of the IEEE.
+- [22/04/2021] Jiameng presents: Bai, S., Kolter, J. Z., & Koltun, V. (2019). [Deep equilibrium models.](https://arxiv.org/pdf/1909.01377.pdf) arXiv preprint arXiv:1909.01377.
+
+- [15/04/2021] Peter presents: Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). [Toward Causal Representation Learning.](https://arxiv.org/pdf/2102.11107.pdf) Proceedings of the IEEE.
 
 - [08/04/2021] Carlos presents: Jiang, Y., Chang, S., & Wang, Z. (2021). [Transgan: Two transformers can make one strong gan.](https://arxiv.org/pdf/2102.07074.pdf) arXiv preprint arXiv:2102.07074.
 
