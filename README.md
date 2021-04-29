@@ -12,8 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [29/04/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., ... & Zaremba, W. (2017). [Hindsight experience replay.](https://arxiv.org/pdf/1707.01495.pdf) arXiv preprint arXiv:1707.01495.
-
+- [06/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
 
 ## Supplementary material ##
 
@@ -48,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [29/04/2021] Peter presents: Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., ... & Zaremba, W. (2017). [Hindsight experience replay.](https://arxiv.org/pdf/1707.01495.pdf) arXiv preprint arXiv:1707.01495.
 
 - [22/04/2021] Jiameng presents: Bai, S., Kolter, J. Z., & Koltun, V. (2019). [Deep equilibrium models.](https://arxiv.org/pdf/1909.01377.pdf) arXiv preprint arXiv:1909.01377.
 
