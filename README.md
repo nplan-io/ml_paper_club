@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [06/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
+- [06/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Sahoo, S., Lampert, C., & Martius, G. (2018, July). [Learning equations for extrapolation and control.](https://arxiv.org/pdf/1806.07259.pdf) In International Conference on Machine Learning (pp. 4442-4450). PMLR.
 
 ## Supplementary material ##
 
