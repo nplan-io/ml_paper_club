@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-[13/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Oord, A. V. D., Vinyals, O., & Kavukcuoglu, K. (2017). [Neural discrete representation learning.](https://arxiv.org/pdf/1711.00937.pdf) arXiv preprint arXiv:1711.00937.
+- [20/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
 
 
 ## Supplementary material ##
@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [13/05/2021] Inneke presents: Oord, A. V. D., Vinyals, O., & Kavukcuoglu, K. (2017). [Neural discrete representation learning.](https://arxiv.org/pdf/1711.00937.pdf) arXiv preprint arXiv:1711.00937.
 
 - [06/05/2021] Peter presents: Sahoo, S., Lampert, C., & Martius, G. (2018, July). [Learning equations for extrapolation and control.](https://arxiv.org/pdf/1806.07259.pdf) In International Conference on Machine Learning (pp. 4442-4450). PMLR.
 
