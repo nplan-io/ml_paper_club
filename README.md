@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [20/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) TBC
+- [20/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Tolstikhin, I., Houlsby, N., Kolesnikov, A., Beyer, L., Zhai, X., Unterthiner, T., ... & Dosovitskiy, A. (2021). [MLP-Mixer: An all-MLP Architecture for Vision.](https://arxiv.org/pdf/2105.01601.pdf) arXiv preprint arXiv:2105.01601.
+
 
 
 ## Supplementary material ##
