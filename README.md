@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [27/05/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Curtis G. Northcutt, Lu Jiang, Isaac L. Chuang (2019). [Confident Learning: Estimating Uncertainty in Dataset Labels](https://arxiv.org/pdf/1911.00068.pdf) arXiv preprint arXiv:1911.00068.
+- [03/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Hugo Touvron, Piotr Bojanowski, Mathilde Caron, Matthieu Cord, Alaaeldin El-Nouby, Edouard Grave, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, Hervé Jégou (2021). [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/pdf/2105.03404.pdf). arXiv preprint arXiv:2105.03404.
 
 
 
@@ -49,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [27/05/2021] Joao presents: Curtis G. Northcutt, Lu Jiang, Isaac L. Chuang (2019). [Confident Learning: Estimating Uncertainty in Dataset Labels](https://arxiv.org/pdf/1911.00068.pdf) arXiv preprint arXiv:1911.00068.
 
 - [20/05/2021] Peter presents: Tolstikhin, I., Houlsby, N., Kolesnikov, A., Beyer, L., Zhai, X., Unterthiner, T., ... & Dosovitskiy, A. (2021). [MLP-Mixer: An all-MLP Architecture for Vision.](https://arxiv.org/pdf/2105.01601.pdf) arXiv preprint arXiv:2105.01601.
 
