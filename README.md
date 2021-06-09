@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [10/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., ... & Mordatch, I. (2021). Decision Transformer: Reinforcement Learning via Sequence Modeling. arXiv preprint arXiv:2106.01345.
+- [10/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., ... & Mordatch, I. (2021). [Decision Transformer: Reinforcement Learning via Sequence Modeling.](https://arxiv.org/pdf/2106.01345.pdf) arXiv preprint arXiv:2106.01345.
 
 ## Supplementary material ##
 
