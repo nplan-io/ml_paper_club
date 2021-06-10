@@ -12,7 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [10/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., ... & Mordatch, I. (2021). [Decision Transformer: Reinforcement Learning via Sequence Modeling.](https://arxiv.org/pdf/2106.01345.pdf) arXiv preprint arXiv:2106.01345.
 - [17/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Arik, S. O., & Pfister, T. (2019). [Tabnet: Attentive interpretable tabular learning.](https://arxiv.org/pdf/1908.07442.pdf) arXiv preprint arXiv:1908.07442.
 
 ## Supplementary material ##
@@ -48,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [10/06/2021] Carlos presents: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., ... & Mordatch, I. (2021). [Decision Transformer: Reinforcement Learning via Sequence Modeling.](https://arxiv.org/pdf/2106.01345.pdf) arXiv preprint arXiv:2106.01345.
 
 - [03/06/2021] Vahan presents: Hugo Touvron, Piotr Bojanowski, Mathilde Caron, Matthieu Cord, Alaaeldin El-Nouby, Edouard Grave, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, Hervé Jégou (2021). [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/pdf/2105.03404.pdf). arXiv preprint arXiv:2105.03404.
 
