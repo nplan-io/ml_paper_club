@@ -13,6 +13,7 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [10/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Carlos presents: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., ... & Mordatch, I. (2021). [Decision Transformer: Reinforcement Learning via Sequence Modeling.](https://arxiv.org/pdf/2106.01345.pdf) arXiv preprint arXiv:2106.01345.
+- [17/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Arik, S. O., & Pfister, T. (2019). [Tabnet: Attentive interpretable tabular learning.](https://arxiv.org/pdf/1908.07442.pdf) arXiv preprint arXiv:1908.07442.
 
 ## Supplementary material ##
 
