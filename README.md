@@ -13,7 +13,7 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [17/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Arik, S. O., & Pfister, T. (2019). [Tabnet: Attentive interpretable tabular learning.](https://arxiv.org/pdf/1908.07442.pdf) arXiv preprint arXiv:1908.07442.
-- [] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). [Zero-shot text-to-image generation.](https://arxiv.org/pdf/2102.12092.pdf) arXiv preprint arXiv:2102.12092.
+- [24/06/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). [Zero-shot text-to-image generation.](https://arxiv.org/pdf/2102.12092.pdf) arXiv preprint arXiv:2102.12092.
 
 ## Supplementary material ##
 
