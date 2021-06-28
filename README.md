@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- TBD [Webinar link](https://us02web.zoom.us/j/85993891925)
+- [01/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Louizos, C., Shalit, U., Mooij, J., Sontag, D., Zemel, R., & Welling, M. (2017). [Causal effect inference with deep latent-variable models.](https://arxiv.org/pdf/1705.08821.pdf) arXiv preprint arXiv:1705.08821.
+
 
 ## Supplementary material ##
 
