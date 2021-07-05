@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ghifary, M., Kleijn, W. B., Zhang, M., Balduzzi, D., & Li, W. (2016, October). Deep reconstruction-classification networks for unsupervised domain adaptation. In European conference on computer vision (pp. 597-613). Springer, Cham.
+- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ghifary, M., Kleijn, W. B., Zhang, M., Balduzzi, D., & Li, W. (2016, October). [Deep reconstruction-classification networks for unsupervised domain adaptation.](https://arxiv.org/pdf/1607.03516.pdf) In European conference on computer vision (pp. 597-613). Springer, Cham.
 
 
 
