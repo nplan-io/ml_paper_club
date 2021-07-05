@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [01/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Louizos, C., Shalit, U., Mooij, J., Sontag, D., Zemel, R., & Welling, M. (2017). [Causal effect inference with deep latent-variable models.](https://arxiv.org/pdf/1705.08821.pdf) arXiv preprint arXiv:1705.08821.
+- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ghifary, M., Kleijn, W. B., Zhang, M., Balduzzi, D., & Li, W. (2016, October). Deep reconstruction-classification networks for unsupervised domain adaptation. In European conference on computer vision (pp. 597-613). Springer, Cham.
+
 
 
 ## Supplementary material ##
@@ -48,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [01/07/2021] Peter presents: Louizos, C., Shalit, U., Mooij, J., Sontag, D., Zemel, R., & Welling, M. (2017). [Causal effect inference with deep latent-variable models.](https://arxiv.org/pdf/1705.08821.pdf) arXiv preprint arXiv:1705.08821.
 
 - [24/06/2021] Inneke presents: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). [Zero-shot text-to-image generation.](https://arxiv.org/pdf/2102.12092.pdf) arXiv preprint arXiv:2102.12092.
 
