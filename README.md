@@ -12,9 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ghifary, M., Kleijn, W. B., Zhang, M., Balduzzi, D., & Li, W. (2016, October). [Deep reconstruction-classification networks for unsupervised domain adaptation.](https://arxiv.org/pdf/1607.03516.pdf) In European conference on computer vision (pp. 597-613). Springer, Cham.
-
-
+- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal (2021). [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://arxiv.org/pdf/2106.02584.pdf) arXiv preprint arXiv:2106.02584.
 
 ## Supplementary material ##
 
@@ -49,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [08/07/2021] Peter presents: Ghifary, M., Kleijn, W. B., Zhang, M., Balduzzi, D., & Li, W. (2016, October). [Deep reconstruction-classification networks for unsupervised domain adaptation.](https://arxiv.org/pdf/1607.03516.pdf) In European conference on computer vision (pp. 597-613). Springer, Cham.
 
 - [01/07/2021] Peter presents: Louizos, C., Shalit, U., Mooij, J., Sontag, D., Zemel, R., & Welling, M. (2017). [Causal effect inference with deep latent-variable models.](https://arxiv.org/pdf/1705.08821.pdf) arXiv preprint arXiv:1705.08821.
 
