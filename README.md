@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [08/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal (2021). [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://arxiv.org/pdf/2106.02584.pdf) arXiv preprint arXiv:2106.02584.
+- [15/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal (2021). [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://arxiv.org/pdf/2106.02584.pdf) arXiv preprint arXiv:2106.02584.
 
 ## Supplementary material ##
 
