@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [29/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925)
+- [29/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Li, G., Müller, M., Ghanem, B., & Koltun, V. (2021). [Training Graph Neural Networks with 1000 Layers.](https://arxiv.org/pdf/2106.07476.pdf) arXiv preprint arXiv:2106.07476.
 
 ## Supplementary material ##
 
