@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [22/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Jesson, A., Mindermann, S., Gal, Y., & Shalit, U. (2021). [Quantifying Ignorance in Individual-Level Causal-Effect Estimates under Hidden Confounding.](https://arxiv.org/pdf/2103.04850.pdf) arXiv preprint arXiv:2103.04850.
+- [29/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [22/07/2021] Peter presents: Jesson, A., Mindermann, S., Gal, Y., & Shalit, U. (2021). [Quantifying Ignorance in Individual-Level Causal-Effect Estimates under Hidden Confounding.](https://arxiv.org/pdf/2103.04850.pdf) arXiv preprint arXiv:2103.04850.
 
 - [15/07/2021] Joao presents: Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal (2021). [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://arxiv.org/pdf/2106.02584.pdf) arXiv preprint arXiv:2106.02584.
 
