@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [29/07/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Wanyu Lin, Hao Lan, Baochun Li (2021). [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) arXiv preprint arXiv:2104.06643.
+- [05/08/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Wanyu Lin, Hao Lan, Baochun Li (2021). [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) arXiv preprint arXiv:2104.06643.
 
 ## Supplementary material ##
 
