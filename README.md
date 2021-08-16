@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [05/08/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Inneke presents: Wanyu Lin, Hao Lan, Baochun Li (2021). [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) arXiv preprint arXiv:2104.06643.
+- [05/08/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Tan, M. & Le, Q.. (2019). [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf). Proceedings of the 36th International Conference on Machine Learning, in Proceedings of Machine Learning Research 97:6105-6114.
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [05/08/2021] Inneke presents: Wanyu Lin, Hao Lan, Baochun Li (2021). [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) arXiv preprint arXiv:2104.06643.
 
 - [29/07/2021] Vahan presents: Li, G., Müller, M., Ghanem, B., & Koltun, V. (2021). [Training Graph Neural Networks with 1000 Layers.](https://arxiv.org/pdf/2106.07476.pdf) arXiv preprint arXiv:2106.07476.
 
