@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [05/08/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: Tan, M. & Le, Q.. (2019). [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf). Proceedings of the 36th International Conference on Machine Learning, in Proceedings of Machine Learning Research 97:6105-6114.
+- [26/08/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Ben presents: Emilien Dupont, Arnaud Doucet, Yee Whye Teh (2019). [Augmented Neural ODEs](https://papers.nips.cc/paper/2019/file/21be9a4bd4f81549a9d1d241981cec3c-Paper.pdf). 33rd Conference on Neural Information Processing Systems (NeurIPS 2019).
 
 ## Supplementary material ##
 
@@ -47,6 +47,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [19/08/2021] Arvid presents: Tan, M. & Le, Q.. (2019). [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf). Proceedings of the 36th International Conference on Machine Learning, in Proceedings of Machine Learning Research 97:6105-6114.
+
+- [12/08/2021] Jiameng presents: Nanxin Chen et al. (2020). [WaveGrad: Estimating Gradients for Waveform Generation](https://arxiv.org/pdf/2009.00713.pdf). arXiv preprint arXiv:2009.00713. AND Yang Song, Stefano Ermon (2019). [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600). 33rd Conference on Neural Information Processing Systems (NeurIPS 2019).
 
 - [05/08/2021] Inneke presents: Wanyu Lin, Hao Lan, Baochun Li (2021). [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) arXiv preprint arXiv:2104.06643.
 
