@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [02/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: James Thorne et al. (2021). [Database Reasoning Over Text](https://aclanthology.org/2021.acl-long.241.pdf). Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, pages 3091–3104, August 1–6, 2021.
+- [02/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ilse, M., Tomczak, J. M., & Forré, P. (2020). [Selecting Data Augmentation for Simulating Interventions](https://arxiv.org/pdf/2005.01856.pdf). arXiv preprint arXiv:2005.01856.
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [02/09/2021] Joao presents: James Thorne et al. (2021). [Database Reasoning Over Text](https://aclanthology.org/2021.acl-long.241.pdf). Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, pages 3091–3104, August 1–6, 2021.
 
 - [26/08/2021] Ben presents: Emilien Dupont, Arnaud Doucet, Yee Whye Teh (2019). [Augmented Neural ODEs](https://papers.nips.cc/paper/2019/file/21be9a4bd4f81549a9d1d241981cec3c-Paper.pdf). 33rd Conference on Neural Information Processing Systems (NeurIPS 2019).
 
