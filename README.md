@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [02/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Ilse, M., Tomczak, J. M., & Forré, P. (2020). [Selecting Data Augmentation for Simulating Interventions](https://arxiv.org/pdf/2005.01856.pdf). arXiv preprint arXiv:2005.01856.
+- [23/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Ben presents: D Duvenaud et al. (2015). [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/pdf/1509.09292.pdf). 
 
 ## Supplementary material ##
 
