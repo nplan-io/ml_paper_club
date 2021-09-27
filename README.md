@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [23/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Ben presents: D Duvenaud et al. (2015). [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/pdf/1509.09292.pdf). 
+- [30/09/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: A Cobb, S Roberts, Y Gal (2018). [Loss-Calibrated Approximate Inference in Bayesian Neural Networks](https://arxiv.org/pdf/1805.03901.pdf). 
 
 ## Supplementary material ##
 
