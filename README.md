@@ -14,7 +14,9 @@ During the discussion:
 
 - [07/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: X Chen, X Han, J Hu, F Ruiz, L Liu (2021). [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://arxiv.org/pdf/2106.06189.pdf). 
 
-- [14/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: L Liu, M Hughes, S Hassoun, L Liu (2021). [Stochastic Iterative Graph Matching](https://arxiv.org/pdf/2106.02206.pdf). 
+- [14/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Arvid presents: J Ma, B Chang, X Zhang, Q Mei (2021). [CopulaGNN: Towards Integrating Represntational and Correlatioonal Roles of Graphs in Graph Neural Networks](https://arxiv.org/pdf/2010.02089.pdf). 
+
+- [21/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: L Liu, M Hughes, S Hassoun, L Liu (2021). [Stochastic Iterative Graph Matching](https://arxiv.org/pdf/2106.02206.pdf). 
 
 ## Supplementary material ##
 
