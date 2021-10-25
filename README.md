@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [21/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: L Liu, M Hughes, S Hassoun, L Liu (2021). [Stochastic Iterative Graph Matching](https://arxiv.org/pdf/2106.02206.pdf). 
+- [28/10/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Andrew Jaegle, Sebastian Borgeaud, Jean-Baptiste Alayrac, Carl Doersch, Catalin Ionescu, David Ding, Skanda Koppula, Daniel Zoran, Andrew Brock, Evan Shelhamer, Olivier Hénaff, Matthew M. Botvinick, Andrew Zisserman, Oriol Vinyals, João Carreira (2021). [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795.pdf). 
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [21/10/2021] Peter presents: L Liu, M Hughes, S Hassoun, L Liu (2021). [Stochastic Iterative Graph Matching](https://arxiv.org/pdf/2106.02206.pdf). 
 
 - [14/10/2021] Arvid presents: J Ma, B Chang, X Zhang, Q Mei (2021). [CopulaGNN: Towards Integrating Represntational and Correlatioonal Roles of Graphs in Graph Neural Networks](https://arxiv.org/pdf/2010.02089.pdf). 
 
