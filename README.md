@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [11/11/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec (2019). [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/pdf/1903.03894.pdf). 
+- [11/18/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Rico Jonschkowski, Divyam Rastogi, Oliver Brock (2018). [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](https://arxiv.org/pdf/1805.11122.pdf). 
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [11/11/2021] Vahan presents: Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec (2019). [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/pdf/1903.03894.pdf). 
 
 - [04/11/2021] Inneke presents: Sören Mindermann, Muhammed Razzak, Winnie Xu, Andreas Kirsch, Mrinank Sharma, Adrien Morisot, Aidan N. Gomez, Sebastian Farquhar, Jan Brauner, Yarin Gal (2021). [Prioritized training on points that are learnable, worth learning, and not yet learned](https://arxiv.org/pdf/2107.02565.pdf). 
 
