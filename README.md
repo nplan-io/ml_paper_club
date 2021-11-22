@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [11/18/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Rico Jonschkowski, Divyam Rastogi, Oliver Brock (2018). [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](https://arxiv.org/pdf/1805.11122.pdf). 
+- [11/18/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Joao presents: Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka (2020). [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://arxiv.org/pdf/2009.11848.pdf). 
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [18/11/2021] Peter presents: Rico Jonschkowski, Divyam Rastogi, Oliver Brock (2018). [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](https://arxiv.org/pdf/1805.11122.pdf). 
 
 - [11/11/2021] Vahan presents: Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec (2019). [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/pdf/1903.03894.pdf). 
 
