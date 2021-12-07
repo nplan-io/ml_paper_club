@@ -13,7 +13,7 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Gregory Clark (2021). [Deep Synoptic Monte Carlo Planning in Reconnaissance Blind Chess](https://arxiv.org/pdf/2110.01810.pdf). 
-- 
+
 ## Supplementary material ##
 
 For those new to machine learning, these are some recommended reading material:
