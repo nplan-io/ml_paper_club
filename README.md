@@ -12,8 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [02/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy Lillicrap, David Silver (2020). [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf). 
-
+- [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Gregory Clark (2021). [Deep Synoptic Monte Carlo Planning in Reconnaissance Blind Chess](https://arxiv.org/pdf/2110.01810.pdf). 
+- 
 ## Supplementary material ##
 
 For those new to machine learning, these are some recommended reading material:
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [02/12/2021] Vahan presents: Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy Lillicrap, David Silver (2020). [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf). 
 
 - [25/11/2021] Joao presents: Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka (2020). [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://arxiv.org/pdf/2009.11848.pdf). 
 
