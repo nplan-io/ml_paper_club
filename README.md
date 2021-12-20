@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Gerard presents: Justus Hibshman, Satyaki Sikdar, Tim Weninger (2019). [Towards Interpretable Graph Modeling with Vertex Replacement Grammars](https://arxiv.org/pdf/1910.08579.pdf). 
+- [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Ahmed Gondia, Ahmad Siam, Wael El-Dakhakhni, Ayman H. Nassar (2020). [Machine Learning Algorithms for Construction Projects Delay Risk Prediction](~/Desktop/ml_in_construction.pdf). 
 
 ## Supplementary material ##
 
