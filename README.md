@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Ahmed Gondia, Ahmad Siam, Wael El-Dakhakhni, Ayman H. Nassar (2020). [Machine Learning Algorithms for Construction Projects Delay Risk Prediction](~/Desktop/ml_in_construction.pdf). 
+- [09/12/2021] [Webinar link](https://us02web.zoom.us/j/85993891925) Vahan presents: Ahmed Gondia, Ahmad Siam, Wael El-Dakhakhni, Ayman H. Nassar (2020). [Machine Learning Algorithms for Construction Projects Delay Risk Prediction](https://drive.google.com/file/d/16sKogXUx2QvDUOFe5NIHY7Hx4VjHdDY2/view?usp=sharing). 
 
 ## Supplementary material ##
 
