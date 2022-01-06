@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [06/01/2022] [Webinar link](https://us02web.zoom.us/j/85993891925) Peter presents: Deng-Bao Wang, Lei Feng, Min-Ling Zhang (2021). [Rethinking Calibration of Deep Neural Networks: Do Not Be Afraid of Overconfidence](https://proceedings.neurips.cc/paper/2021/file/61f3a6dbc9120ea78ef75544826c814e-Paper.pdf). 
+- [06/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Peter presents: Deng-Bao Wang, Lei Feng, Min-Ling Zhang (2021). [Rethinking Calibration of Deep Neural Networks: Do Not Be Afraid of Overconfidence](https://proceedings.neurips.cc/paper/2021/file/61f3a6dbc9120ea78ef75544826c814e-Paper.pdf). 
 
 ## Supplementary material ##
 
