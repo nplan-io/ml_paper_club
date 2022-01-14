@@ -12,8 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [13/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Sagar presents: Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman (2021). [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/pdf/2110.06207.pdf). 
-
 - [20/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Dwane presents: Paul J. Blazek & Milo M. Lin (2021). [Explainable neural networks that simulate reasoning](https://rdcu.be/cEwnm). 
 
 ## Supplementary material ##
@@ -49,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [13/01/2022] Sagar presents: Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman (2021). [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/pdf/2110.06207.pdf). 
 
 - [06/01/2022] Peter presents: Deng-Bao Wang, Lei Feng, Min-Ling Zhang (2021). [Rethinking Calibration of Deep Neural Networks: Do Not Be Afraid of Overconfidence](https://proceedings.neurips.cc/paper/2021/file/61f3a6dbc9120ea78ef75544826c814e-Paper.pdf). 
 
