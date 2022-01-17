@@ -13,9 +13,9 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [20/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Dwane presents: Paul J. Blazek & Milo M. Lin (2021). [Explainable neural networks that simulate reasoning](https://rdcu.be/cEwnm). 
-- 
+
 - [27/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Arvid presents: Marius Muja, David G. Lowe (2014). [Scalable Nearest Neighbor Algorithms for High Dimensional Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6809191). 
-- 
+
 - [03/02/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Peter presents: Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio (2021). [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/pdf/2106.04399.pdf). 
 
 ## Supplementary material ##
