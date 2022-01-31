@@ -12,10 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [20/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Dwane presents: Paul J. Blazek & Milo M. Lin (2021). [Explainable neural networks that simulate reasoning](https://rdcu.be/cEwnm). 
-
-- [27/01/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Arvid presents: Marius Muja, David G. Lowe (2014). [Scalable Nearest Neighbor Algorithms for High Dimensional Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6809191). 
-
 - [03/02/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Peter presents: Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio (2021). [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/pdf/2106.04399.pdf). 
 
 ## Supplementary material ##
@@ -51,6 +47,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [27/01/2022] Arvid presents: Marius Muja, David G. Lowe (2014). [Scalable Nearest Neighbor Algorithms for High Dimensional Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6809191). 
+
+- [20/01/2022] Dwane presents: Paul J. Blazek & Milo M. Lin (2021). [Explainable neural networks that simulate reasoning](https://rdcu.be/cEwnm). 
 
 - [13/01/2022] Sagar presents: Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman (2021). [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/pdf/2110.06207.pdf). 
 
