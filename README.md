@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/02/2022] [Webinar link](https://us02web.zoom.us/j/87156213326) Peter presents: Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio (2021). [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/pdf/2106.04399.pdf). 
+- [10/02/2022] [IN-PERSON PAPER CLUB!!!, LOCATION WILL BE POSTED SOON] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier ThanLearning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [03/02/2022] Peter presents: Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio (2021). [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/pdf/2106.04399.pdf). 
 
 - [27/01/2022] Arvid presents: Marius Muja, David G. Lowe (2014). [Scalable Nearest Neighbor Algorithms for High Dimensional Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6809191). 
 
