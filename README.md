@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [10/02/2022] [IN-PERSON PAPER CLUB!!!, LOCATION WILL BE POSTED SOON] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier ThanLearning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
+- [10/02/2022] [IN-PERSON PAPER CLUB!!!, LOCATION WILL BE POSTED SOON] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
 
 ## Supplementary material ##
 
