@@ -12,7 +12,9 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [10/02/2022] [IN-PERSON PAPER CLUB!!!, LOCATION WILL BE POSTED SOON] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
+- [10/02/2022] [IN-PERSON PAPER CLUB!!!] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
+
+Meeting Time and Point: Meet at 133 Whitechapel High Street 12:30. When you arrive, please go to reception and say you are here for nPlan's paper club meeting in meeting room 4 and they will direct you to the room. If not, someone from nPlan will come out and get you!
 
 ## Supplementary material ##
 
