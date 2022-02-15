@@ -12,11 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [10/02/2022] IN-PERSON PAPER CLUB!!! Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf). 
-
-Meeting Time and Point: Meet at 133 Whitechapel High Street 12:30. When you arrive, please go to reception and say you are here for nPlan's paper club meeting in meeting room 4 and they will direct you to the room. If not, someone from nPlan will come out and get you!
-
-Virtual Attendees can join our normal webinar link at [Webinar Meeting](https://us02web.zoom.us/j/87156213326)
+- [17/02/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Chelsea Finn, Pieter Abbeel, Sergey Levine (2017). [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf). 
 
 ## Supplementary material ##
 
@@ -51,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [10/02/2022] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf)
 
 - [03/02/2022] Peter presents: Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio (2021). [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/pdf/2106.04399.pdf). 
 
