@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [17/02/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Chelsea Finn, Pieter Abbeel, Sergey Levine (2017). [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf). 
+- [24/02/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Inneke presents: Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal [Deep Deterministic Uncertainty: A Simple Baseline](https://arxiv.org/pdf/2102.11582.pdf)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [17/02/2022] Peter presents: Chelsea Finn, Pieter Abbeel, Sergey Levine (2017). [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf). 
 
 - [10/02/2022] Peter presents: Sebastien Thrun (1995). [Is Learning The n-th Thing Any Easier Than Learning The First?](https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf)
 
