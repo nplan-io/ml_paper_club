@@ -11,8 +11,8 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
-
-- [24/02/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Inneke presents: Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal [Deep Deterministic Uncertainty: A Simple Baseline](https://arxiv.org/pdf/2102.11582.pdf)
+ 
+- [03/03/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [24/02/2022]Inneke presents: Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal [Deep Deterministic Uncertainty: A Simple Baseline](https://arxiv.org/pdf/2102.11582.pdf)
 
 - [17/02/2022] Peter presents: Chelsea Finn, Pieter Abbeel, Sergey Levine (2017). [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf). 
 
