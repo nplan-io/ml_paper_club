@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
  
-- [03/03/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
+- [03/10/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
 
 ## Supplementary material ##
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+-[03/03/2022] Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
 
 - [24/02/2022]Inneke presents: Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal [Deep Deterministic Uncertainty: A Simple Baseline](https://arxiv.org/pdf/2102.11582.pdf)
 
