@@ -11,8 +11,10 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
- 
-- [03/10/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
+
+- [03/10/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Inneke presents: David Cohn, Les Atlas, Richard Ladner  [Improving Generalization with Active Learning](https://link.springer.com/content/pdf/10.1007/BF00993277.pdf)
+
+- [03/17/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
 
 ## Supplementary material ##
 
