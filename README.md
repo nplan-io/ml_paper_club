@@ -12,9 +12,9 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/10/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Inneke presents: David Cohn, Les Atlas, Richard Ladner  [Improving Generalization with Active Learning](https://link.springer.com/content/pdf/10.1007/BF00993277.pdf)
+- [03/17/2022] PAPER CLUB WILL BE AT OUR OFFICE IN WHITECHAPEL IN PERSON NEXT WEEK!!! [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
 
-- [03/17/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
+Please go to the reception at 33 Whitechapel, tell them you are here for nPlan and they should direct you meeting room 4!
 
 ## Supplementary material ##
 
@@ -49,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [03/10/2022] Inneke presents: David Cohn, Les Atlas, Richard Ladner  [Improving Generalization with Active Learning](https://link.springer.com/content/pdf/10.1007/BF00993277.pdf)
 
 -[03/03/2022] Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
 
