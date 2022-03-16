@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/17/2022] PAPER CLUB WILL BE AT OUR OFFICE IN WHITECHAPEL IN PERSON NEXT WEEK!!! [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
+- [03/17/2022] PAPER CLUB WILL BE AT OUR OFFICE IN WHITECHAPEL IN PERSON NEXT WEEK!!! [Webinar Meeting](https://us02web.zoom.us/j/87156213326) - you will need to authenticate with Zoom to join the call. Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
 
 Please go to the reception at 33 Whitechapel, tell them you are here for nPlan and they should direct you meeting room 4!
 
