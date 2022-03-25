@@ -12,7 +12,10 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/24/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) - you will need to authenticate with Zoom to join the call. Arvid presents: Judea Pearl [On Measurement Bias in Causal Inference](https://arxiv.org/pdf/1203.3504.pdf)
+- [03/31/2022] [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Chao Ma, Cheng Zhang (2021) [Identifiable Generative Models for
+Missing Not at Random Data Imputation](https://arxiv.org/pdf/2110.14708.pdf)
+
+NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
 
 ## Supplementary material ##
 
@@ -47,6 +50,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [03/24/2022] Arvid presents: Judea Pearl [On Measurement Bias in Causal Inference](https://arxiv.org/pdf/1203.3504.pdf)
 
 - [03/17/2022] Peter presents: Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
 
