@@ -14,7 +14,7 @@ During the discussion:
 
 - [04/07/2022] IN PERSON PAPER CLUB THIS WEEK Vahan presents: Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang (2021) [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf) 
 
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are hear for nPlan in meeting room 4. They should direct you to the meeting room. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan in meeting room 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326)
 
