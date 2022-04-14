@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [04/07/2022] VIRTUAl THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Peter presents: Yasaman Razeghi, Robert L. Logan IV, Matt Gardner, Sameer Singh (2022) [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206) 
+- [04/07/2022] VIRTUAl THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Vahan presents: Yasaman Razeghi, Robert L. Logan IV, Matt Gardner, Sameer Singh (2022) [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206) 
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan in meeting room 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB. -->
 
