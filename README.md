@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
  
-- [04/28/2022] IN-PERSON THIS WEEK Ben Presents: Viacheslav Borovitskiy, Iskander Azangulov, Alexander Terenin, Peter Mostowsky, Marc Deisenroth, Nicolas Durrande [Mat´ern Gaussian Processes on Graphs](http://proceedings.mlr.press/v130/borovitskiy21a/borovitskiy21a.pdf)
+- [04/28/2022] IN-PERSON THIS WEEK Ben Presents: Viacheslav Borovitskiy, Iskander Azangulov, Alexander Terenin, Peter Mostowsky, Marc Deisenroth, Nicolas Durrande [Matern Gaussian Processes on Graphs](http://proceedings.mlr.press/v130/borovitskiy21a/borovitskiy21a.pdf)
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan in meeting room 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
