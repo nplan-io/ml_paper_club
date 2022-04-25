@@ -11,12 +11,12 @@ During the discussion:
 - Feel free to make comments in the chat.
 
 ## Next meetup's paper ##
+ 
+- [04/28/2022] IN-PERSON THIS WEEK Ben Presents: Viacheslav Borovitskiy, Iskander Azangulov, Alexander Terenin, Peter Mostowsky, Marc Deisenroth, Nicolas Durrande [Mat´ern Gaussian Processes on Graphs](http://proceedings.mlr.press/v130/borovitskiy21a/borovitskiy21a.pdf)
 
-- [04/07/2022] VIRTUAl THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326) WE ARE DOING SOMETHING A LITTLE DIFFERENT THIS WEEK. Peter leads a discussion on what is AI and what are its social and economic impacts. Please watch the following video by Jerry Kaplan [Humans need not apply](https://www.youtube.com/watch?v=hoDxcO2EOHM) and read the following paper by John Searle [The Chinese Room](https://rintintin.colorado.edu/~vancecd/phil201/Searle.pdf) 
+IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan in meeting room 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
-<!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan in meeting room 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB. -->
-
-<!-- VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326) -->
+VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326
 
 NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
 
@@ -53,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [04/07/2022] Peter leads a discussion on what is AI and what are its social and economic impacts. Please watch the following video by Jerry Kaplan [Humans need not apply](https://www.youtube.com/watch?v=hoDxcO2EOHM) and read the following paper by John Searle [The Chinese Room](https://rintintin.colorado.edu/~vancecd/phil201/Searle.pdf)
 
 - [04/07/2022] Vahan presents: Yasaman Razeghi, Robert L. Logan IV, Matt Gardner, Sameer Singh (2022) [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206) 
 - 
