@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
  
-- [04/28/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326 Peter Presents: Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/pdf?id=KB5onONJIAU)
+- [05/05/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326 Peter Presents: Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/pdf?id=KB5onONJIAU)
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
  -->
