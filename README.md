@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
  
-- [12/05/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Vahan Presents: Bertrand Charpentier, Simon Kibler, Stephan Günnemann [Differentiable DAG Sampling](https://openreview.net/pdf?id=9wOQOgNe-w)
+- [19/05/2022] IN PERSON THIS WEEK Peter Presents: Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos [On the Existence of Universal Lottery Tickets](https://openreview.net/pdf?id=SYB4WrJql1n)
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
  -->
