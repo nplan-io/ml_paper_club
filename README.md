@@ -12,11 +12,11 @@ During the discussion:
 
 ## Next meetup's paper ##
  
-- [19/05/2022] IN PERSON THIS WEEK Peter Presents: Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos [On the Existence of Universal Lottery Tickets](https://openreview.net/pdf?id=SYB4WrJql1n)
+ - [26/05/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/87156213326) Arvid Presents: Xun Zheng, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://arxiv.org/pdf/1803.01422.pdf)
 
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+<!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326
+VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326) -->
 
 NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
 
@@ -53,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [19/05/2022] Peter Presents: Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos [On the Existence of Universal Lottery Tickets](https://openreview.net/pdf?id=SYB4WrJql1n)
 
 - [05/05/2022] Peter Presents: Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/pdf?id=KB5onONJIAU)
 
