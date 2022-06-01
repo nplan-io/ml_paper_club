@@ -58,14 +58,16 @@ The papers that have been (and will be) discussed in Paper Club meetings are.
 
 - [19/05/2022] Peter Presents: Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos [On the Existence of Universal Lottery Tickets](https://openreview.net/pdf?id=SYB4WrJql1n)
 
+- [12/05/2022] Vahan Presents: Bertrand Charpentier, Simon Kibler, Stephan Günnemann [Differentiable DAG Sampling](https://openreview.net/pdf?id=9wOQOgNe-w)
+
 - [05/05/2022] Peter Presents: Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/pdf?id=KB5onONJIAU)
 
-- [04/28/2022] Ben Presents: Viacheslav Borovitskiy, Iskander Azangulov, Alexander Terenin, Peter Mostowsky, Marc Deisenroth, Nicolas Durrande [Matern Gaussian Processes on Graphs]
+- [04/28/2022] Ben Presents: Viacheslav Borovitskiy, Iskander Azangulov, Alexander Terenin, Peter Mostowsky, Marc Deisenroth, Nicolas Durrande [Matern Gaussian Processes on Graphs](http://proceedings.mlr.press/v130/borovitskiy21a/borovitskiy21a.pdf)
 
 - [04/07/2022] Peter leads a discussion on what is AI and what are its social and economic impacts. Please watch the following video by Jerry Kaplan [Humans need not apply](https://www.youtube.com/watch?v=hoDxcO2EOHM) and read the following paper by John Searle [The Chinese Room](https://rintintin.colorado.edu/~vancecd/phil201/Searle.pdf)
 
 - [04/07/2022] Vahan presents: Yasaman Razeghi, Robert L. Logan IV, Matt Gardner, Sameer Singh (2022) [Impact of Pretraining Term Frequencies on Few-Shot Reasoning](https://arxiv.org/abs/2202.07206) 
-- 
+
 - [04/07/2022] Vahan presents: Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang (2021) [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf) 
 
 - [03/31/2022] Peter presents: Chao Ma, Cheng Zhang (2021) [Identifiable Generative Models for
