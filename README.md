@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
  
- - [03/06/2022] No Paper club due to the bank holiday 
+ - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
  
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
