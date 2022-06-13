@@ -12,9 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
  
- - [09/06/2022] Peter presents: Albert Gu, Karan Goel, and Christopher Ré [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf)
+ - [16/06/2022] Peter presents: Albert Gu, Karan Goel, and Christopher Ré [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf)
  
-  - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326) -->
