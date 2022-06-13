@@ -12,8 +12,9 @@ During the discussion:
 
 ## Next meetup's paper ##
  
- - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
+ - [09/06/2022] Peter presents: Albert Gu, Karan Goel, and Christopher Ré [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf)
  
+  - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/87156213326) -->
@@ -53,6 +54,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+ - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
 
 - [26/05/2022] Arvid Presents: Xun Zheng, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://arxiv.org/pdf/1803.01422.pdf)
 
