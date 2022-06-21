@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [21/06/2022] [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: Carlos Fernandez-Loria, Foster Provost [Causal Decision Making and Causal Effect Estimation Are Notthe Same...and Why It Matters](https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0006)
+- [21/06/2022] [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: Carlos Fernandez-Loria, Foster Provost [Causal Decision Making and Causal Effect Estimation Are Not the Same...and Why It Matters](https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0006)
  
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
