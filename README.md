@@ -12,11 +12,11 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [29/06/2022] IN PERSON PAPER CLUB THIS WEEK Peter presents: Melih Kandemir, Abdullah Akgül, Manuel Haussmann, Gozde Unal [Evidential Turing Processes](https://openreview.net/pdf?id=84NMXTHYe-)
+- [07/04/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
  
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+<!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE ON THE 7TH FLOOR. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB. -->
 
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757)
+<!-- VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757) -->
 
 <!-- NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
  -->
@@ -53,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [29/06/2022] Peter presents: Melih Kandemir, Abdullah Akgül, Manuel Haussmann, Gozde Unal [Evidential Turing Processes](https://openreview.net/pdf?id=84NMXTHYe-)
 
 - [22/06/2022] Vahan presents: Carlos Fernandez-Loria, Foster Provost [Causal Decision Making and Causal Effect Estimation Are Not the Same...and Why It Matters](https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0006)
 
