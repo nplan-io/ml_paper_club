@@ -54,7 +54,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
-- - [28/07/2022] Vahan presents: Stéphane D’Ascoli, Pierre-Alexandre Kamienny, Guillaume Lample, Francois Charton [Deep symbolic regression for recurrence prediction](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
+- [28/07/2022] Vahan presents: Stéphane D’Ascoli, Pierre-Alexandre Kamienny, Guillaume Lample, Francois Charton [Deep symbolic regression for recurrence prediction](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
 
 - [21/07/2022] Nayef presents: Moshe Eliasof, Eldad Haber, Eran Treister [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/pdf/2108.01938.pdf)
 
