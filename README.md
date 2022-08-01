@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [04/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf)
+- [04/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf) (One of ICML's 2022 outstanding papers)
  
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
