@@ -12,11 +12,11 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [28/07/2022] IN PERSON THIS WEEK Vahan presents: Stéphane D’Ascoli, Pierre-Alexandre Kamienny, Guillaume Lample, Francois Charton [Deep symbolic regression for recurrence prediction](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
+- [04/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf)
  
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+<!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757)
+VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757) -->
 
 NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
 
@@ -53,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- - [28/07/2022] Vahan presents: Stéphane D’Ascoli, Pierre-Alexandre Kamienny, Guillaume Lample, Francois Charton [Deep symbolic regression for recurrence prediction](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
 
 - [21/07/2022] Nayef presents: Moshe Eliasof, Eldad Haber, Eran Treister [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/pdf/2108.01938.pdf)
 
