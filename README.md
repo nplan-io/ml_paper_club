@@ -12,8 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [04/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf) (One of ICML's 2022 outstanding papers)
- 
+- [11/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Dirk presents: [Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41849.pdf)
+
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757) -->
@@ -53,6 +53,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+
+- [04/08/2022] Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf) (One of ICML's 2022 outstanding papers)
 
 - [28/07/2022] Vahan presents: Stéphane D’Ascoli, Pierre-Alexandre Kamienny, Guillaume Lample, Francois Charton [Deep symbolic regression for recurrence prediction](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
 
