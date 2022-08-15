@@ -98,7 +98,7 @@ Missing Not at Random Data Imputation](https://arxiv.org/pdf/2110.14708.pdf)
 
 - [03/10/2022] Inneke presents: David Cohn, Les Atlas, Richard Ladner  [Improving Generalization with Active Learning](https://link.springer.com/content/pdf/10.1007/BF00993277.pdf)
 
--[03/03/2022] Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
+- [03/03/2022] Vahan presents: Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
 
 - [24/02/2022]Inneke presents: Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal [Deep Deterministic Uncertainty: A Simple Baseline](https://arxiv.org/pdf/2102.11582.pdf)
 
