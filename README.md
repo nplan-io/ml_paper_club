@@ -12,7 +12,8 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [11/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Dirk presents: [Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41849.pdf)
+- [18/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: [A deep graph neural network architecture for modelling
+spatio-temporal dynamics in resting-state functional MRI data](https://www.sciencedirect.com/science/article/pii/S1361841522001189)
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
@@ -54,6 +55,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
+- [11/08/2022] Dirk presents: S. Scott, A. Blocker, F. Bonassi, H. Chipman, E. George, and R. McCulloch [Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41849.pdf)
 
 - [04/08/2022] Peter presents: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420.pdf) (One of ICML's 2022 outstanding papers)
 
