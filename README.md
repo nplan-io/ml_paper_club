@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [18/08/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: [A deep graph neural network architecture for modelling
+- [18/08/2022] [VIRTUAL THIS WEEK](https://us02web.zoom.us/j/88553741757) Vahan presents: [A deep graph neural network architecture for modelling
 spatio-temporal dynamics in resting-state functional MRI data](https://www.sciencedirect.com/science/article/pii/S1361841522001189)
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
