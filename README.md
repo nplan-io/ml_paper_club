@@ -19,8 +19,6 @@ spatio-temporal dynamics in resting-state functional MRI data](https://www.scien
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757) -->
 
-NOTE: You will need to authenticate with Zoom to join the call. You can only authenticate with an email with which you have created a registered zoom account.
-
 ## Supplementary material ##
 
 For those new to machine learning, these are some recommended reading material:
