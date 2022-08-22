@@ -52,7 +52,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
 
--[18/08/2022] Vahan presents: [A deep graph neural network architecture for modelling
+- [18/08/2022] Vahan presents: [A deep graph neural network architecture for modelling
 spatio-temporal dynamics in resting-state functional MRI data](https://www.sciencedirect.com/science/article/pii/S1361841522001189)
 
 - [11/08/2022] Dirk presents: S. Scott, A. Blocker, F. Bonassi, H. Chipman, E. George, and R. McCulloch [Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41849.pdf)
