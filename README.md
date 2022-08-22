@@ -12,12 +12,11 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [18/08/2022] [VIRTUAL THIS WEEK](https://us02web.zoom.us/j/88553741757) Vahan presents: [A deep graph neural network architecture for modelling
-spatio-temporal dynamics in resting-state functional MRI data](https://www.sciencedirect.com/science/article/pii/S1361841522001189)
+- [18/08/2022] IN-PERSON THIS WEEK Peter presents: Thomas Muller, Alex Evans, Christoph Schied, Alexander Keller [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
 
-<!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757) -->
+VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757)
 
 ## Supplementary material ##
 
@@ -52,6 +51,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+-[18/08/2022] Vahan presents: [A deep graph neural network architecture for modelling
+spatio-temporal dynamics in resting-state functional MRI data](https://www.sciencedirect.com/science/article/pii/S1361841522001189)
 
 - [11/08/2022] Dirk presents: S. Scott, A. Blocker, F. Bonassi, H. Chipman, E. George, and R. McCulloch [Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41849.pdf)
 
