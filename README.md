@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [01/09/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Tara presents: Qiao, W., Zhao, Y., Xu, Y., Lei, Y., Wang, Y., Yu, S. and Li, H. [Deep learning-based pixel-level rock fragment recognition during tunnel excavation using instance segmentation model](https://www.sciencedirect.com/science/article/pii/S0886779821002637). If you have any requests about the paper, please email vahanATnplan.io
+ - [08/09/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Vahan presents: Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian [UNDERSTANDING DIMENSIONAL COLLAPSE IN CONTRASTIVE SELF-SUPERVISED LEARNING](https://arxiv.org/pdf/2110.09348.pdf).
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
@@ -51,6 +51,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [01/09/2022] Tara presents: Qiao, W., Zhao, Y., Xu, Y., Lei, Y., Wang, Y., Yu, S. and Li, H. [Deep learning-based pixel-level rock fragment recognition during tunnel excavation using instance segmentation model](https://www.sciencedirect.com/science/article/pii/S0886779821002637). If you have any requests about the paper, please email vahanATnplan.io
 
 - [25/08/2022] Peter presents: Thomas Muller, Alex Evans, Christoph Schied, Alexander Keller [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
 
