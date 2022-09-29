@@ -12,9 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- - [22/09/2022] NO PAPER CLUB THIS WEEK DUE TO COMPANY RETREAT
-
- - [29/09/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Gerard presents: Guy Dar, Mor Geva, Ankit Gupta, Jonathan Berant [Analyzing Transformers in Embedding Space](https://arxiv.org/pdf/1503.03585.pdf)
+ - [29/09/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Gerard presents: Guy Dar, Mor Geva, Ankit Gupta, Jonathan Berant [Analyzing Transformers in Embedding Space](https://arxiv.org/pdf/2209.02535v1.pdf)
 
  - [06/10/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Ben presents: Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)
 
