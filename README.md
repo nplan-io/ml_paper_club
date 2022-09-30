@@ -12,8 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
- - [29/09/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Gerard presents: Guy Dar, Mor Geva, Ankit Gupta, Jonathan Berant [Analyzing Transformers in Embedding Space](https://arxiv.org/pdf/2209.02535v1.pdf)
-
  - [06/10/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Ben presents: Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
@@ -53,6 +51,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+ - [29/09/2022] Gerard presents: Guy Dar, Mor Geva, Ankit Gupta, Jonathan Berant [Analyzing Transformers in Embedding Space](https://arxiv.org/pdf/2209.02535v1.pdf)
 
 - [15/09/2022] Nayef presents: Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 
