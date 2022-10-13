@@ -14,7 +14,7 @@ During the discussion:
 
  - [06/10/2022] IN PERSON THIS WEEK Vahan presents: Ziang Chen, Jialin Liu, Xinshang Wang, Jianfeng Lu, Wotao Yin [On Representing Linear Programs by Graph Neural Networks](https://arxiv.org/pdf/2209.12288.pdf)
 
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN OUR OFFICE CONFERENCE ROOM ON FLOOR 7. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
 VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757)
 
