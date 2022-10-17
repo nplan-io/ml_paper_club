@@ -14,7 +14,7 @@ During the discussion:
 
 - [13/10/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Francesco Di Giovanni, James Rowbottom, Benjamin P. Chamberlain, Thomas Markovich, Michael M. Bronstein [Graph Neural Networks as Gradient Flows: understanding graph convolutions via energy](https://arxiv.org/pdf/2206.10991.pdf)
 
-NOTE: Originally we planned to present (AlphaTensor)[https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor] this week, but chose to present it during our next in-person paper club instead.
+NOTE: Originally we planned to present [AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor) this week, but chose to present it during our next in-person paper club instead.
 
 <!-- IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
