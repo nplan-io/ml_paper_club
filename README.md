@@ -28,7 +28,9 @@ For those new to machine learning, these are some recommended reading material:
 
 - Goldberg, Y. (2016). [A primer on neural network models for natural language processing.](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) Journal of Artificial Intelligence Research, 57, 345-420.
 
-- Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2019). [A comprehensive survey on graph neural networks.](https://arxiv.org/pdf/1901.00596.pdf) arXiv preprint arXiv:1901.00596.
+- W. Hamilton. 2020, [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
+
+- L. Wu, P. Cui, J. Pei, L. Zhao, L. Song, 2022, [Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_3)
 
 - Provost, F. and Fawcett, T. (2013). [Data science for business.](https://www.amazon.co.uk/Data-Science-Business-data-analytic-thinking/dp/1449361323) Sebastopol: O'Reilly.
 
