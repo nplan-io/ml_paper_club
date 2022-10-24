@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [20/10/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Francesco Di Giovanni, James Rowbottom, Benjamin P. Chamberlain, Thomas Markovich, Michael M. Bronstein [Graph Neural Networks as Gradient Flows: understanding graph convolutions via energy](https://arxiv.org/pdf/2206.10991.pdf)
+- [27/10/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957.pdf)
 
 NOTE: Originally we planned to present [AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor) this week, but chose to present it during our next in-person paper club instead.
 
@@ -56,6 +56,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [20/10/2022] Vahan presents: Francesco Di Giovanni, James Rowbottom, Benjamin P. Chamberlain, Thomas Markovich, Michael M. Bronstein [Graph Neural Networks as Gradient Flows: understanding graph convolutions via energy](https://arxiv.org/pdf/2206.10991.pdf)
 
  - [13/10/2022] Vahan presents: Ziang Chen, Jialin Liu, Xinshang Wang, Jianfeng Lu, Wotao Yin [On Representing Linear Programs by Graph Neural Networks](https://arxiv.org/pdf/2209.12288.pdf)
 
