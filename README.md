@@ -12,17 +12,17 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/11/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Nayef presents: Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, Animashree Anandkumar [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2202.11214)
+- [03/11/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://teams.live.com/meet/9452579984186) Nayef presents: Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, Animashree Anandkumar [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2202.11214)
 
 - [10/11/2022] IN PERSION THIS WEEK Peter presents: Alhussein Fawzi, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Francisco J. R. Ruiz, Julian Schrittwieser, Grzegorz Swirszcz, David Silver, Demis Hassabis & Pushmeet Kohli  [Discovering faster matrix multiplication algorithms with reinforcement learning](
 https://www.nature.com/articles/s41586-022-05172-4)
 
-- [17/11/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second
+- [17/11/2022] VIRTUAL THIS WEEK Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second
 ](https://arxiv.org/pdf/2207.01848.pdf)
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://us02web.zoom.us/j/88553741757)
+VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://teams.live.com/meet/9452579984186)
 
 ## Supplementary material ##
 
@@ -99,7 +99,7 @@ spatio-temporal dynamics in resting-state functional MRI data](https://www.scien
 
 - [22/06/2022] Vahan presents: Carlos Fernandez-Loria, Foster Provost [Causal Decision Making and Causal Effect Estimation Are Not the Same...and Why It Matters](https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0006)
 
-- [16/06/2022] [Webinar Meeting](https://us02web.zoom.us/j/88553741757) Peter presents: Albert Gu, Karan Goel, and Christopher Ré [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf)
+- [16/06/2022] Peter presents: Albert Gu, Karan Goel, and Christopher Ré [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf)
 
  - [09/06/2022] Vahan presents [Newton vs the machine: solving the chaotic three-body problem using deep neural networks](https://arxiv.org/pdf/1910.07291.pdf)
 
