@@ -12,17 +12,13 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [03/11/2022] VIRTUAL THIS WEEK [Webinar Meeting](https://teams.live.com/meet/9452579984186) Nayef presents: Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, Animashree Anandkumar [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2202.11214)
+- [03/11/2022] VIRTUAL THIS WEEK - find the link in the [meetup event](https://www.meetup.com/ml-paper-club/events/289110309/). Nayef presents: Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, Animashree Anandkumar [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2202.11214)
 
-- [10/11/2022] IN PERSION THIS WEEK Peter presents: Alhussein Fawzi, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Francisco J. R. Ruiz, Julian Schrittwieser, Grzegorz Swirszcz, David Silver, Demis Hassabis & Pushmeet Kohli  [Discovering faster matrix multiplication algorithms with reinforcement learning](
-https://www.nature.com/articles/s41586-022-05172-4)
+- [10/11/2022] IN PERSION THIS WEEK Peter presents: Alhussein Fawzi, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Francisco J. R. Ruiz, Julian Schrittwieser, Grzegorz Swirszcz, David Silver, Demis Hassabis & Pushmeet Kohli  [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 
-- [17/11/2022] VIRTUAL THIS WEEK Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second
-](https://arxiv.org/pdf/2207.01848.pdf)
+- [17/11/2022] VIRTUAL THIS WEEK Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/pdf/2207.01848.pdf)
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
-
-VIRTUAL ATTENDANCE: For those who want to join online this week [Webinar Meeting](https://teams.live.com/meet/9452579984186)
 
 ## Supplementary material ##
 
