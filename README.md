@@ -12,9 +12,10 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [17/11/2022] VIRTUAL THIS WEEK Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/pdf/2207.01848.pdf)
+- [01/12/2022] VIRTUAL THIS WEEK TBD
 
-- [24/11/2022] VIRTUAL THIS WEEK Arvid presents: Javier Fernández, Luke Bornn [SoccerMap: A Deep Learning Architecture for Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202)
+- [08/12/2022] IN-PERSON hosted by [Data Spartan](https://www.dataspartan.co.uk/). James will present [SmoothQuant: Accurate and Efficient
+Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf). For details please check our (meetup event)[https://www.meetup.com/ml-paper-club/events/qvglzsydcqblb/] and RSVP there.
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
@@ -54,6 +55,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [24/11/2022] Arvid presents: Javier Fernández, Luke Bornn [SoccerMap: A Deep Learning Architecture for Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202)
+
+- [17/11/2022] Dirk presents: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/pdf/2207.01848.pdf)
 
 - [10/11/2022] Peter presents: Alhussein Fawzi, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Francisco J. R. Ruiz, Julian Schrittwieser, Grzegorz Swirszcz, David Silver, Demis Hassabis & Pushmeet Kohli  [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 
