@@ -12,8 +12,6 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [01/12/2022] VIRTUAL THIS WEEK [Webinar Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjg5NGVlODUtZTllOS00ZjM3LTlhMjMtMTFjNDEyNjU1NGEw%40thread.v2/0?context=%7b%22Tid%22%3a%2297c5ac90-ae41-4c5d-8a25-05a1204c2fa6%22%2c%22Oid%22%3a%22710b39da-0b80-4d60-b722-4f4e1d18ddc8%22%7d) Peter presents Lucas Maystre, Daniel Russo [Temporally-Consistent Survival Analysis](https://openreview.net/pdf?id=r-CsquKaHvk)
-
 - [08/12/2022] IN-PERSON hosted by [Data Spartan](https://www.dataspartan.co.uk/). James will present Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han [SmoothQuant: Accurate and Efficient
 Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf). For details please check our (meetup event)[https://www.meetup.com/ml-paper-club/events/qvglzsydcqblb/] and RSVP there.
 
@@ -55,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 The papers that have been (and will be) discussed in Paper Club meetings are.
+
+- [01/12/2022] Peter presents Lucas Maystre, Daniel Russo [Temporally-Consistent Survival Analysis](https://openreview.net/pdf?id=r-CsquKaHvk)
 
 - [24/11/2022] Arvid presents: Javier Fernández, Luke Bornn [SoccerMap: A Deep Learning Architecture for Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202)
 
