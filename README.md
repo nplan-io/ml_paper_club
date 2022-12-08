@@ -13,7 +13,8 @@ During the discussion:
 ## Next meetup's paper ##
 
 - [08/12/2022] IN-PERSON hosted by [Data Spartan](https://www.dataspartan.co.uk/). James will present Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han [SmoothQuant: Accurate and Efficient
-Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf). For details please check our (meetup event)[https://www.meetup.com/ml-paper-club/events/qvglzsydcqblb/] and RSVP there.
+Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf). For details please check our 
+[meetup event](https://www.meetup.com/ml-paper-club/events/qvglzsydcqblb/) and RSVP there.
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
