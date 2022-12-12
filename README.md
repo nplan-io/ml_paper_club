@@ -12,7 +12,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [17/12/2022] Remote. Vahan will present Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein [Temporla Graph Networks For Deep Learning On Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf).
+- [17/12/2022] Remote. Vahan will present [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
 
 IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
 
