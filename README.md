@@ -1,20 +1,15 @@
 # Machine Learning Paper Club with nPlan
-A repository of papers accompanying nPlan's machine learning paper club at Google Campus.
+A repository of papers discussed at nPlan's Machine Llearning Ppaper Club.
 
 ## Joining Instructions ##
 
-Paper club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. Every week, we will post a link next to the paper so that you can join at the time of the Meetup. Bear in mind that these meetings may be recorded for dissemination purposes.
-
-During the discussion:
-- Raise your (virtual) hand if you want to speak.
-- Post in the Q&A section if you want something answered by the speaker.
-- Feel free to make comments in the chat.
+Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel.  During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
 
-- [17/12/2022] Remote. Vahan will present [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
+- [17/12/2022] REMOTE. Vahan will present [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
 
-IN-PERSON ATTENDANCE: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD IN THE PAPER CLUB.
+FOR IN-PERSON SESSIONS: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
 ## Supplementary material ##
 
