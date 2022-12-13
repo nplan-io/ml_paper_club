@@ -46,7 +46,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 ## Paper history ##
 
-The papers that have been (and will be) discussed in Paper Club meetings are.
+Past papers discussed in Paper Club meetings:
 
 - [08/12/2022] Hosted by [Data Spartan](https://www.dataspartan.co.uk/). James will present Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf)
 
