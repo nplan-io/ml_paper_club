@@ -47,7 +47,7 @@ The demo for Platt scaling in calibration can be found here https://github.com/c
 
 ## YouTube channel ##
 
-We regularly record the presentations made during the Meetup (subject to the presenter's and attendees' approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you's like to stay up to date with the presentations, just hit the subscribe button!
+We regularly record the presentations made during the Meetup (subject to the presenter's approval). These videos are then uploaded to our [YouTube channel](https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ) so that those that can't attend are still able to profit from the presentations. If you'd like to stay up to date with the presentations, just hit the subscribe button!
 
 ## Paper history ##
 
