@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [17/12/2022] REMOTE. Vahan will present [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
+- [05/01/2023] [REMOTE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjg5NGVlODUtZTllOS00ZjM3LTlhMjMtMTFjNDEyNjU1NGEw%40thread.v2/0?context=%7b%22Tid%22%3a%2297c5ac90-ae41-4c5d-8a25-05a1204c2fa6%22%2c%22Oid%22%3a%22710b39da-0b80-4d60-b722-4f4e1d18ddc8%22%7d) Peter will present [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198) by Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan
 
 FOR IN-PERSON SESSIONS: For those who want to join in person this week. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
+- [17/12/2022] Vahan presents [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
+- 
 - [08/12/2022] Hosted by [Data Spartan](https://www.dataspartan.co.uk/). James will present Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/pdf/2211.10438.pdf)
 
 - [01/12/2022] Peter presents Lucas Maystre, Daniel Russo [Temporally-Consistent Survival Analysis](https://openreview.net/pdf?id=r-CsquKaHvk)
