@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [12/01/2023] [REMOTE] (https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjg5NGVlODUtZTllOS00ZjM3LTlhMjMtMTFjNDEyNjU1NGEw%40thread.v2/0?context=%7b%22Tid%22%3a%2297c5ac90-ae41-4c5d-8a25-05a1204c2fa6%22%2c%22Oid%22%3a%22710b39da-0b80-4d60-b722-4f4e1d18ddc8%22%7d) Peter will present [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/pdf/1909.13371.pdf) by Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
+- [12/01/2023] [REMOTE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjg5NGVlODUtZTllOS00ZjM3LTlhMjMtMTFjNDEyNjU1NGEw%40thread.v2/0?context=%7b%22Tid%22%3a%2297c5ac90-ae41-4c5d-8a25-05a1204c2fa6%22%2c%22Oid%22%3a%22710b39da-0b80-4d60-b722-4f4e1d18ddc8%22%7d) Peter will present [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/pdf/1909.13371.pdf) by Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
