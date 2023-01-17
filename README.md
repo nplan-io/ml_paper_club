@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [12/01/2023] [REMOTE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjg5NGVlODUtZTllOS00ZjM3LTlhMjMtMTFjNDEyNjU1NGEw%40thread.v2/0?context=%7b%22Tid%22%3a%2297c5ac90-ae41-4c5d-8a25-05a1204c2fa6%22%2c%22Oid%22%3a%22710b39da-0b80-4d60-b722-4f4e1d18ddc8%22%7d) Peter will present [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/pdf/1909.13371.pdf) by Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
+- [19/01/2023] NO PAPER CLUB THIS WEEK, THERE WILL BE A PAPER CLUB NEXT WEEK.
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [12/01/2023] Peter will present [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/pdf/1909.13371.pdf) by Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
 
 - [05/01/2023] Peter will present [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198) by Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan
 
