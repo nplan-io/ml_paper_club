@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [06/04/2023] REMOTE THIS WEEK [Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction](https://openreview.net/pdf?id=UDGZDfwmay) By Ali Behrouz, Margo Seltzer
+- [06/13/2023] REMOTE THIS WEEK Vahan presents: Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image by Yan Zhang, Pengyuan Liu, Filip Biljecki. Please email Vahan<at>nplan<dot>io for a copy of the paper.
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [06/04/2023] Gerard presents [Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction](https://openreview.net/pdf?id=UDGZDfwmay) By Ali Behrouz, Margo Seltzer
 
 - [23/03/2023] Peter presents [Graph Neural Networks for Link Prediction with Subgraph Sketching](https://arxiv.org/pdf/2209.15486.pdf) By Benjamin Paul Chamberlain, Sergey Shirobokov, Emanuele Rossi, Fabrizio Frasca, Thomas Markovich, Nils Hammerla, Michael M. Bronstein, Max Hansmire
 
