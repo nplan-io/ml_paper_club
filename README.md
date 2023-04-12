@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [06/13/2023] REMOTE THIS WEEK Vahan presents: Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image by Yan Zhang, Pengyuan Liu, Filip Biljecki. Please email Vahan<at>nplan<dot>io for a copy of the paper.
+- [06/13/2023] REMOTE THIS WEEK Vahan presents: Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image by Yan Zhang, Pengyuan Liu, Filip Biljecki. Please email Vahan\<at\>nplan\<dot\>io for a copy of the paper.
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
