@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [20/04/2023] REMOTE THIS WEEK Peter presents [Segment Anything](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=F08W4cSoXYUAX-83ovz&_nc_ht=scontent-lcy1-1.xx&oh=00_AfDxX1eAjPM8CiUiwQswNG_Ug9ohA7mEyH_aczIdcmqF9w&oe=6442D8A7) by Alexander Kirillov, Eric Mintun, Nikhila Ravi1,  Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick
+- [27/04/2023] No paper club this week, we will be skipping paper club everything fourth week for the foreseeable future.
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -48,7 +48,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [13/04/2023] REMOTE THIS WEEK Vahan presents: [Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image by Yan Zhang, Pengyuan Liu, Filip Biljecki](https://www.sciencedirect.com/science/article/pii/S0924271623000680?casa_token=9uyy4LSiEI4AAAAA:vydo9XAG6K4DRfPDjLRk7UHX1UL06BFob76wnJIEBeJmyRaB-Qz7MOMv40ug4e5-6s0GFmRJbeY)
+- [20/04/2023] Peter presents [Segment Anything](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=F08W4cSoXYUAX-83ovz&_nc_ht=scontent-lcy1-1.xx&oh=00_AfDxX1eAjPM8CiUiwQswNG_Ug9ohA7mEyH_aczIdcmqF9w&oe=6442D8A7) by Alexander Kirillov, Eric Mintun, Nikhila Ravi1,  Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick
+
+- [13/04/2023] Vahan presents: [Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image by Yan Zhang, Pengyuan Liu, Filip Biljecki](https://www.sciencedirect.com/science/article/pii/S0924271623000680?casa_token=9uyy4LSiEI4AAAAA:vydo9XAG6K4DRfPDjLRk7UHX1UL06BFob76wnJIEBeJmyRaB-Qz7MOMv40ug4e5-6s0GFmRJbeY)
 
 - [06/04/2023] Gerard presents [Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction](https://openreview.net/pdf?id=UDGZDfwmay) By Ali Behrouz, Margo Seltzer
 
