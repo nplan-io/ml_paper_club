@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [04/05/2023] IN-PERSON THIS WEEK Gerard will present an outstanding paper award winner from ICLR 2023. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
+- [04/05/2023] [IN-PERSON THIS WEEK](https://www.meetup.com/ML-Paper-Club/) Gerard will present an outstanding paper award winner from ICLR 2023. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
 
 - [11/05/2023] Vahan will present another outstanding paper award winner from ICLR 2023 [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
 
