@@ -7,7 +7,10 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [27/04/2023] No paper club this week, we will be skipping paper club everything fourth week for the foreseeable future.
+- [04/05/2023] Gerard will present an outstanding paper award winner from ICLR 2023. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
+- [11/05/2023] Vahan will present another outstanding paper award winner from ICLR 2023 [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
+- [18/05/2023] TBD
+- [25/05/2023] Ben will present [Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591) 
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
