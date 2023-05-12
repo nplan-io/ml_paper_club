@@ -7,11 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [04/05/2023] [IN-PERSON THIS WEEK](https://www.meetup.com/ML-Paper-Club/) Gerard will present an outstanding paper award winner from ICLR 2023. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
-
-- [11/05/2023] Vahan will present another outstanding paper award winner from ICLR 2023 [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
-
-- [18/05/2023] Available slot! If you're interested to present or have a cool paper in mind, please email it to vahan AT nplan DOT io.
+- [18/05/2023] NO PAPER CLUB THIS WEEK
 
 - [25/05/2023] Ben will present [Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591) 
 
@@ -53,6 +49,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [11/05/2023] Vahan presents an outstanding paper award winner from ICLR 2023 [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
+
+- [04/05/2023] Gerard presents an outstanding paper award winner from ICLR 2023. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
 
 - [20/04/2023] Peter presents [Segment Anything](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=F08W4cSoXYUAX-83ovz&_nc_ht=scontent-lcy1-1.xx&oh=00_AfDxX1eAjPM8CiUiwQswNG_Ug9ohA7mEyH_aczIdcmqF9w&oe=6442D8A7) by Alexander Kirillov, Eric Mintun, Nikhila Ravi1,  Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick
 
