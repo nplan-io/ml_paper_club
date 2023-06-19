@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [15/06/2023] IN-PERSON! Gerard presents [Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://arxiv.org/abs/2306.00238)
+- [23/06/2023] Vahan presents [DensePose From WiFi](https://arxiv.org/abs/2301.00250)
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+- [15/06/2023] Gerard presents [Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://arxiv.org/abs/2306.00238)
+
 - [01/06/2023] Peter presents [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426)
 
 - [25/05/2023] Ben presents [Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591) 
