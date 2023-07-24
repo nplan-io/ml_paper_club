@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [20/07/2023] Arvid presents [TrueSkill: A Bayesian skill rating system](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/NIPS2006_0688.pdf) By Ralf Herbrich, Tom Minka, Thore Graepel
+- [27/07/2023] Peter presents [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf) By Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [20/07/2023] Arvid presents [TrueSkill: A Bayesian skill rating system](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/NIPS2006_0688.pdf) By Ralf Herbrich, Tom Minka, Thore Graepel
 
 - [13/07/2023] Arvid presents [Expectation Propagation for Approximate Bayesian Inference](https://tminka.github.io/papers/ep/minka-ep-uai.pdf) By Thomas P Minka
 
