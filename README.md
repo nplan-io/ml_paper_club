@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [10/08/2023] In-Person this week with Ben Steer from [Pometry](www.pometry.com) talking about temporal graphs motifs for bitcoin transactions and NFT trades.
+- [10/08/2023] In-Person this week with Ben Steer from [Pometry](www.pometry.com). Ben will talk about using Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
