@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [10/08/2023] In-Person this week with Ben Steer from [Pometry](www.pometry.com). Ben will talk about using Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
+ - [17.08.2023] Gerard presents [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [10/08/2023] In-Person this week with Ben Steer and Naomi Arnold from presenting how [Pometry](www.pometry.com) used Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
 
 - [03/08/2023] Vahan Presents [Continual Pre-training of Language Models](https://arxiv.org/pdf/2302.03241.pdf) by Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, Bing Liu
 
