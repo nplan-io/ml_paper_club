@@ -48,7 +48,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [10/08/2023] In-Person this week with Ben Steer and Naomi Arnold from presenting how [Pometry](www.pometry.com) used Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
+- [10/08/2023] Ben Steer and Naomi Arnold from present how [Pometry](www.pometry.com) uses Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
 
 - [03/08/2023] Vahan Presents [Continual Pre-training of Language Models](https://arxiv.org/pdf/2302.03241.pdf) by Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, Bing Liu
 
