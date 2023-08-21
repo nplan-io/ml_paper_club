@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
- - [17.08.2023] Gerard presents [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
+ - [24.08.2023] Inneke presents [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf) by S Yao, D Yu, J Zhao, I Shafran, T Griffiths, Y Cao, K Narasimhan
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -46,7 +46,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 ## Paper history ##
 
-Past papers discussed in Paper Club meetings:
+Past papers discussed in Paper Club meetings: 
+
+- [17.08.2023] Gerard presents [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
 
 - [10/08/2023] Ben Steer and Naomi Arnold from present how [Pometry](www.pometry.com) uses Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
 
