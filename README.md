@@ -48,15 +48,15 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
-- [14.09.2023] Inneke presents [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687) by Besta, M., Blach, N., Kubicek, A., Gerstenberger, R., Gianinazzi, L., Gajda, J., Lehmann, T., Podstawski, M., Niewiadomski, H., Nyczyk, P. and Hoefler, T
+- [14.09.2023] Inneke presents [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687) by Besta, M., Blach, N., Kubicek, A., Gerstenberger, R., Gianinazzi, L., Gajda, J., Lehmann, T., Podstawski, M., Niewiadomski, H., Nyczyk, P. and Hoefler, T. [Recording](https://www.youtube.com/watch?v=Z9ClNoOSM_Q&t=10)
   
-- [07.09.2023] Vahan presents [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://openreview.net/forum?id=Uuf2q9TfXGA) by Zeyuan Allen-Zhu, Yuanzhi Li
+- [07.09.2023] Vahan presents [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://openreview.net/forum?id=Uuf2q9TfXGA) by Zeyuan Allen-Zhu, Yuanzhi Li. [Recording](https://www.youtube.com/watch?v=H3o4KF3W3-E)
 
-- [31.08.2023] Peter presents [Bayesian Design Principles for Frequentist Sequential Learning](https://openreview.net/pdf?id=tRhQsHnoFw) by Yunbei Xu, Assaf Zeevi
+- [31.08.2023] Peter presents [Bayesian Design Principles for Frequentist Sequential Learning](https://openreview.net/pdf?id=tRhQsHnoFw) by Yunbei Xu, Assaf Zeevi [Recording](https://www.youtube.com/watch?v=T2hknJErNBo)
 
-- [24.08.2023] Inneke presents [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf) by S Yao, D Yu, J Zhao, I Shafran, T Griffiths, Y Cao, K Narasimhan
+- [24.08.2023] Inneke presents [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf) by S Yao, D Yu, J Zhao, I Shafran, T Griffiths, Y Cao, K Narasimhan [Recording](https://www.youtube.com/watch?v=vIYtw6q1V6g)
 
-- [17.08.2023] Gerard presents [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
+- [17.08.2023] Gerard presents [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer [Recording](https://www.youtube.com/watch?v=UCybuZHyazU)
 
 - [10/08/2023] Ben Steer and Naomi Arnold from present how [Pometry](www.pometry.com) uses Temporal Graph Motifs to study bitcoin darkweb market places and NFT wash trading.
 
@@ -104,7 +104,7 @@ Past papers discussed in Paper Club meetings:
 
 - [12/01/2023] Peter will present [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/pdf/1909.13371.pdf) by Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
 
-- [05/01/2023] Peter will present [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198) by Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan
+- [05/01/2023] Peter will present [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198) by Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan [Recording](https://www.youtube.com/watch?v=lLBlZfc_gI8&t=40s)
 
 - [17/12/2022] Vahan presents [Expander Graph Propagation](https://arxiv.org/abs/2210.02997) by Andreea Deac, Marc Lackenby and Petar Veličković.
 - 
