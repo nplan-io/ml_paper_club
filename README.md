@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [12.10.2023] IN-PERSON THIS WEEK Vahan presents: [Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf) by Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe and Seth Lloyd
+- [19/10/2023] Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
+- [12.10.2023] Vahan presents: [Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf) by Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe and Seth Lloyd [RECORDING](https://www.youtube.com/watch?v=oEVESHgsvVg)
+  
  - [05.10.2023] Gerard presents: [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf) by Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra [RECORDING](https://www.youtube.com/watch?v=EvJGQVvM4ls)
    
  - [28.09.2023] Peter presents: [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf) by Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski,
