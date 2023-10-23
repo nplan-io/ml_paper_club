@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [19/10/2023] Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens
+- [26/10/2023] NO PAPER CLUB THIS WEEK
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings: 
+
+Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens [RECORDING](https://www.youtube.com/watch?v=LIHu1a73p2U)
 
 - [12.10.2023] Vahan presents: [Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf) by Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe and Seth Lloyd [RECORDING](https://www.youtube.com/watch?v=oEVESHgsvVg)
   
