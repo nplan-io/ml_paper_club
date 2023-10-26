@@ -48,7 +48,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
-Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens [RECORDING](https://www.youtube.com/watch?v=LIHu1a73p2U)
+- [17.10.2023] Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens [RECORDING](https://www.youtube.com/watch?v=LIHu1a73p2U)
 
 - [12.10.2023] Vahan presents: [Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf) by Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe and Seth Lloyd [RECORDING](https://www.youtube.com/watch?v=oEVESHgsvVg)
   
