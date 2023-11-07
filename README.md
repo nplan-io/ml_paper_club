@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [02/11/2023] Peter presents: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/pdf/2309.17453.pdf) by Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis
+- [09/11/2023] Vahan presents: [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/pdf/2309.00071v1.pdf) by Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings: 
+
+- [02/11/2023] Peter presents: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/pdf/2309.17453.pdf) by Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis [RECORDING](https://www.youtube.com/watch?v=2_MVeKxguZg)
 
 - [17.10.2023] Peter presents: [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/pdf?id=9Z_GfhZnGH) by James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens [RECORDING](https://www.youtube.com/watch?v=LIHu1a73p2U)
 
