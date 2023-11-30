@@ -48,6 +48,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
+- [23/11/2023] Paper Club Social - Peter presents: [Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements](https://arxiv.org/pdf/2311.00444.pdf) by Peter A. Zachares, Vahan Hovhannisyan, Alan Mosca, Yarin Gal and Max presents: [Human Feedback is not Gold Standard](https://openreview.net/pdf?id=7W3GLNImfS) by Tom Hosking, Phil Blunsom, Max Bartolo [RECORDING](https://www.youtube.com/watch?v=bjZBD0mBYcY)
+
 - [09/11/2023] Vahan presents: [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/pdf/2309.00071v1.pdf) by Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole [RECORDING](https://www.youtube.com/watch?v=nR_udZkK8CU)
 
 - [02/11/2023] Peter presents: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/pdf/2309.17453.pdf) by Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis [RECORDING](https://www.youtube.com/watch?v=2_MVeKxguZg)
