@@ -7,9 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [14/12/2023] Peter presents: [Scaling deep learning for materials discovery](https://www.nature.com/articles/s41586-023-06735-9.pdf) by Amil Merchant, Simon Batzner, Samuel S. Schoenholz, Muratahan Aykol, Gowoon Cheon & Ekin Dogus Cubuk
-
-- [21/12/2023] Vahan presents: [Cooperative Graph Neural Networks](https://arxiv.org/pdf/2310.01267.pdf) by Ben Finkelshtein, Xingyue Huang, Michael Bronstein, İsmail İlkan Ceylan
+- [04/01/2024] Vahan presents: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces Networks](https://arxiv.org/abs/2312.00752) by Albert Gu, Tri Dao
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -49,6 +47,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings: 
+
+- [21/12/2023] Vahan presents: [Cooperative Graph Neural Networks](https://arxiv.org/pdf/2310.01267.pdf) by Ben Finkelshtein, Xingyue Huang, Michael Bronstein, İsmail İlkan Ceylan
+
+- [14/12/2023] Peter presents: [Scaling deep learning for materials discovery](https://www.nature.com/articles/s41586-023-06735-9.pdf) by Amil Merchant, Simon Batzner, Samuel S. Schoenholz, Muratahan Aykol, Gowoon Cheon & Ekin Dogus Cubuk
 
 - [30/11/2023] Gerard presents: [Prototype Generation: Robust Feature Visualisation for Data Independent Interpretability](https://arxiv.org/pdf/2309.17144.pdf) by Arush Tagade, Jessica Rumbelow
 
