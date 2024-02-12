@@ -1,4 +1,4 @@
-# Machine Learning Paper Club with nPlan
+d# Machine Learning Paper Club with nPlan
 A repository of papers discussed at nPlan's Machine Learning Paper Club.
 
 ## Joining Instructions ##
@@ -6,8 +6,6 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
-
-- [08/02/2024] Vahan presents: [Are Emergent Abilities of Large Language Models a Mirage?](https://openreview.net/pdf?id=ITw9edRDlD) by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
 
 - [15/02/2024] Aram Pooladian presents: [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772) by Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen
 
@@ -51,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
+- [08/02/2024] Vahan presents: [Are Emergent Abilities of Large Language Models a Mirage?](https://openreview.net/pdf?id=ITw9edRDlD) by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo [RECORDING](https://www.youtube.com/watch?v=kLrZGiu9glQ)
+  
 - [01/02/2024] Peter presents: [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf) by Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong [RECORDING](https://www.youtube.com/watch?v=0Gzksyz_MhI)
   
 - [25/01/2024] Gerard presents: [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/pdf/2401.05566.pdf) By Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng, Adam Jermyn, Amanda Askell, Ansh Radhakrishnan, Cem Anil, David Duvenaud, Deep Ganguli, Fazl Barez, Jack Clark, Kamal Ndousse, Kshitij Sachan, Michael Sellitto, Mrinank Sharma, Nova DasSarma, Roger Grosse, Shauna Kravec, Yuntao Bai, Zachary Witten, Marina Favaro, Jan Brauner, Holden Karnofsky, Paul Christiano, Samuel R. Bowman, Logan Graham, Jared Kaplan, Sören Mindermann, Ryan Greenblatt, Buck Shlegeris, Nicholas Schiefer, Ethan Perez [RECORDING](https://www.youtube.com/watch?v=jOAZ5nht4TY)
