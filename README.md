@@ -8,6 +8,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 ## Next meetup's paper ##
 
 - [15/02/2024] Peter presents [ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation](https://openreview.net/pdf?id=W5If9P1xqO) by Sungduk Yu · Walter Hannah · Liran Peng · Jerry Lin · Mohamed Aziz Bhouri · Ritwik Gupta · Björn Lütjens · Justus C. Will · Gunnar Behrens · Julius Busecke · Nora Loose · Charles Stern · Tom Beucler · Bryce Harrop · Benjamin Hillman · Andrea Jenney · Savannah L. Ferretti · Nana Liu · Animashree Anandkumar · Noah Brenowitz · Veronika Eyring · Nicholas Geneva · Pierre Gentine · Stephan Mandt · Jaideep Pathak · Akshay Subramaniam · Carl Vondrick · Rose Yu · Laure Zanna · Tian Zheng · Ryan Abernathey · Fiaz Ahmed · David Bader · Pierre Baldi · Elizabeth Barnes · Christopher Bretherton · Peter Caldwell · Wayne Chuang · Yilun Han · YU HUANG · Fernando Iglesias-Suarez · Sanket Jantre · Karthik Kashinath · Marat Khairoutdinov · Thorsten Kurth · Nicholas Lutsko · Po-Lun Ma · Griffin Mooers · J. David Neelin · David Randall · Sara Shamekh · Mark Taylor · Nathan Urban · Janni Yuval · Guang Zhang · Mike Pritchard
+
+- [22/02/2024] **IN PERSON** Ben presents [Tweedie Moment Projected Diffusions For Inverse Problems](https://arxiv.org/abs/2310.06721) by Benjamin Boys, Mark Girolami, Jakiw Pidstrigach, Sebastian Reich, Alan Mosca, O. Deniz Akyildiz
   
 - [Rescheduled to sometime in March] Aram Pooladian presents: [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772) by Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen
 
