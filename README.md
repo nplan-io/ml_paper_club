@@ -6,11 +6,8 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
-
-- [22/02/2024] **IN PERSON** Ben presents [Tweedie Moment Projected Diffusions For Inverse Problems](https://arxiv.org/abs/2310.06721) by Benjamin Boys, Mark Girolami, Jakiw Pidstrigach, Sebastian Reich, Alan Mosca, O. Deniz Akyildiz
   
 - [Rescheduled to sometime in March] Aram Pooladian presents: [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772) by Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen
-
 
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
@@ -50,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings: 
+
+- [22/02/2024] Ben presents [Tweedie Moment Projected Diffusions For Inverse Problems](https://arxiv.org/abs/2310.06721) by Benjamin Boys, Mark Girolami, Jakiw Pidstrigach, Sebastian Reich, Alan Mosca, O. Deniz Akyildiz
 
 - [15/02/2024] Peter presents [ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation](https://openreview.net/pdf?id=W5If9P1xqO) by Sungduk Yu · Walter Hannah · Liran Peng · Jerry Lin · Mohamed Aziz Bhouri · Ritwik Gupta · Björn Lütjens · Justus C. Will · Gunnar Behrens · Julius Busecke · Nora Loose · Charles Stern · Tom Beucler · Bryce Harrop · Benjamin Hillman · Andrea Jenney · Savannah L. Ferretti · Nana Liu · Animashree Anandkumar · Noah Brenowitz · Veronika Eyring · Nicholas Geneva · Pierre Gentine · Stephan Mandt · Jaideep Pathak · Akshay Subramaniam · Carl Vondrick · Rose Yu · Laure Zanna · Tian Zheng · Ryan Abernathey · Fiaz Ahmed · David Bader · Pierre Baldi · Elizabeth Barnes · Christopher Bretherton · Peter Caldwell · Wayne Chuang · Yilun Han · YU HUANG · Fernando Iglesias-Suarez · Sanket Jantre · Karthik Kashinath · Marat Khairoutdinov · Thorsten Kurth · Nicholas Lutsko · Po-Lun Ma · Griffin Mooers · J. David Neelin · David Randall · Sara Shamekh · Mark Taylor · Nathan Urban · Janni Yuval · Guang Zhang · Mike Pritchard [RECORDING](https://www.youtube.com/watch?v=BemXduFPueY)
 
