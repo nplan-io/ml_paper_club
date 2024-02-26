@@ -1,4 +1,4 @@
-d# Machine Learning Paper Club with nPlan
+# Machine Learning Paper Club with nPlan
 A repository of papers discussed at nPlan's Machine Learning Paper Club.
 
 ## Joining Instructions ##
