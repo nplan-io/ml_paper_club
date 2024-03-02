@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [07/03/2024] Vahan Presents: [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268) by Hao Liu, Wilson Yan, Matei Zaharia and Pieter Abbeel
+- [07/03/2024] Vahan presents: [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268) by Hao Liu, Wilson Yan, Matei Zaharia and Pieter Abbeel
 
 - [Rescheduled to sometime in March] Aram Pooladian presents: [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772) by Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen
 
@@ -50,7 +50,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings: 
 
-- [29/02/2024] Gerard Presents: [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306.pdf) by Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
+- [29/02/2024] Gerard presents: [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306.pdf) by Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
 
 - [22/02/2024] Ben presents [Tweedie Moment Projected Diffusions For Inverse Problems](https://arxiv.org/abs/2310.06721) by Benjamin Boys, Mark Girolami, Jakiw Pidstrigach, Sebastian Reich, Alan Mosca, O. Deniz Akyildiz
 
