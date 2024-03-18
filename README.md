@@ -6,8 +6,6 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
-
-- [14/03/2024] IN-PERSON, AFTERWORK, NOT AT OUR OFFICE PAPER CLUB. Please see [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) for details. Peter presents: Alignment of Large Language Models (No pre-reading required)
   
 - [04/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi
 
@@ -48,7 +46,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 ## Paper history ##
 
-Past papers discussed in Paper Club meetings: 
+Past papers discussed in Paper Club meetings:
+
+- [14/03/2024] IN-PERSON, AFTERWORK, NOT AT OUR OFFICE PAPER CLUB. Please see [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) for details. Peter presents: Alignment of Large Language Models (No pre-reading required)
 
 - [07/03/2024] Vahan presents: [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268) by Hao Liu, Wilson Yan, Matei Zaharia and Pieter Abbeel [RECORDING](https://www.youtube.com/watch?v=LqCUfS5kGZk)
   
