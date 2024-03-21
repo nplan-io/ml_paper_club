@@ -9,6 +9,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 - [21/03/2024] Vahan presents: [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
 ](https://arxiv.org/abs/2403.09629) by Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
 
+- [28/03/2024] Gerard presents: [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131) by Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez
+
 - [04/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi
   
 - [25/04/2024] Arvid presents: [TacticAI: an AI assistant for football tactics](https://www.nature.com/articles/s41467-024-45965-x) by Zhe Wang, Petar Veličković, Daniel Hennes, Nenad Tomašev, Laurel Prince, Michael Kaisers, Yoram Bachrach, Romuald Elie, Li Kevin Wenliang, Federico Piccinini, William Spearman, Ian Graham, Jerome Connor, Yi Yang, Adrià Recasens, Mina Khan, Nathalie Beauguerlange, Pablo Sprechmann, Pol Moreno, Nicolas Heess, Michael Bowling, Demis Hassabis & Karl Tuyls
