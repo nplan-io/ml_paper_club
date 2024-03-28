@@ -6,8 +6,6 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ##
-- [21/03/2024] Vahan presents: [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
-](https://arxiv.org/abs/2403.09629) by Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
 
 - [28/03/2024] Gerard presents: [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131) by Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez
 
@@ -53,6 +51,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [21/03/2024] Vahan presents: [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
+](https://arxiv.org/abs/2403.09629) by Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
 
 - [14/03/2024] IN-PERSON, AFTERWORK, NOT AT OUR OFFICE PAPER CLUB. Please see [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) for details. Peter presents: Alignment of Large Language Models (No pre-reading required)
 
