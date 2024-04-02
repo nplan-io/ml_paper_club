@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [28/03/2024] Gerard presents: [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131) by Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez
+- [04/04/2024] Peter presents: [Continual Learning in the Presence of Spurious Correlation](https://arxiv.org/pdf/2303.11863) by Donggyu Lee, Sangwon Jung, Taesup Moon
 
 - [11/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi
   
@@ -52,8 +52,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
+- [28/03/2024] Gerard presents: [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131) by Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez
+
 - [21/03/2024] Vahan presents: [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
-](https://arxiv.org/abs/2403.09629) by Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
+](https://arxiv.org/abs/2403.09629) by Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman [RECORDING](https://www.youtube.com/watch?v=USZWhztNffA)
 
 - [14/03/2024] IN-PERSON, AFTERWORK, NOT AT OUR OFFICE PAPER CLUB. Please see [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) for details. Peter presents: Alignment of Large Language Models (No pre-reading required)
 
