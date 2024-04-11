@@ -9,7 +9,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [11/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi
 
-- [18/04/2024] NO PAPER CLUB THIS WEEK DUE TO AN ALL COMPANY EVENT
+- [18/04/2024] NO PAPER CLUB THIS WEEK DUE TO AN ALL-DAY COMPANY EVENT
 
 - [25/04/2024] Vahan presents: [Reverse Engineering Self-Supervised Learning](https://arxiv.org/pdf/2305.15614) by Ido Ben-Shaul, Ravid Shwartz-Ziv, Tomer Galanti, Shai Dekel, Yann LeCun
   
