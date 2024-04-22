@@ -7,10 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [11/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi
-
-- [18/04/2024] NO PAPER CLUB THIS WEEK DUE TO AN ALL-DAY COMPANY EVENT
-
 - [25/04/2024] Vahan presents: [Reverse Engineering Self-Supervised Learning](https://arxiv.org/pdf/2305.15614) by Ido Ben-Shaul, Ravid Shwartz-Ziv, Tomer Galanti, Shai Dekel, Yann LeCun
   
 - [02/05/2024] Arvid presents: [TacticAI: an AI assistant for football tactics](https://www.nature.com/articles/s41467-024-45965-x) by Zhe Wang, Petar Veličković, Daniel Hennes, Nenad Tomašev, Laurel Prince, Michael Kaisers, Yoram Bachrach, Romuald Elie, Li Kevin Wenliang, Federico Piccinini, William Spearman, Ian Graham, Jerome Connor, Yi Yang, Adrià Recasens, Mina Khan, Nathalie Beauguerlange, Pablo Sprechmann, Pol Moreno, Nicolas Heess, Michael Bowling, Demis Hassabis & Karl Tuyls
@@ -53,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [11/04/2024] Ben presents: [Zero Shot Molecular Generation via Similarity Kernels](https://arxiv.org/pdf/2402.08708.pdf) by Rokas Elijošius, Fabian Zills, Ilyes Batatia, Sam Walton Norwood, Dávid Péter Kovács, Christian Holm, Gábor Csányi [RECORDING](https://www.youtube.com/watch?v=SkxCLpE56H8)
 
 - [04/04/2024] Peter presents: [Continual Learning in the Presence of Spurious Correlation](https://arxiv.org/pdf/2303.11863) by Donggyu Lee, Sangwon Jung, Taesup Moon [RECORDING](https://www.youtube.com/watch?v=hW_DAowwa6E)
 
