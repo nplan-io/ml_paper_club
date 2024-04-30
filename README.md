@@ -9,6 +9,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
   
 - [02/05/2024] Arvid presents: [TacticAI: an AI assistant for football tactics](https://www.nature.com/articles/s41467-024-45965-x) by Zhe Wang, Petar Veličković, Daniel Hennes, Nenad Tomašev, Laurel Prince, Michael Kaisers, Yoram Bachrach, Romuald Elie, Li Kevin Wenliang, Federico Piccinini, William Spearman, Ian Graham, Jerome Connor, Yi Yang, Adrià Recasens, Mina Khan, Nathalie Beauguerlange, Pablo Sprechmann, Pol Moreno, Nicolas Heess, Michael Bowling, Demis Hassabis & Karl Tuyls
 
+- [09/05/2024] Peter presents: [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf) by Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Yarin Gal, Nicolas Papernot, Ross Anderson
+
 FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
 
 ## Supplementary material ##
