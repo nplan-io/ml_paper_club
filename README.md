@@ -9,7 +9,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [06/06/2024] Gerard presents: [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/pdf/2403.05440v1) by Harald Steck, Chaitanya Ekanadham, Nathan Kallus
 
-- [13/06/2024] Peter presents: [Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction] by Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei
+- [13/06/2024] Peter presents: [Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction](https://openreview.net/pdf?id=TpD2aG1h0D) by Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei
 
 - [20/06/2024] Dwane presents: [What's the Magic Word? A Control Theory of LLM Prompting](https://arxiv.org/pdf/2310.04444) by Aman Bhargava, Cameron Witkowski, Manav Shah, Matt Thomson
 
