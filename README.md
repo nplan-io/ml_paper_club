@@ -13,7 +13,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [20/06/2024] Dwane presents: [What's the Magic Word? A Control Theory of LLM Prompting](https://arxiv.org/pdf/2310.04444) by Aman Bhargava, Cameron Witkowski, Manav Shah, Matt Thomson
 
-FOR IN-PERSON SESSIONS: For those who want to join in person. Please go to the reception at our office building (133 Whitechapel High St, London E1 7PT) and say you are here for a meeting with nPlan IN MEETING ROOM 4 IN THE BASEMENT. IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS.
+FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
 ## Supplementary material ##
 
