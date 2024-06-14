@@ -7,10 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [06/06/2024] Gerard presents: [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/pdf/2403.05440v1) by Harald Steck, Chaitanya Ekanadham, Nathan Kallus
-
-- [13/06/2024] IN-PERSON IN OUR NEW OFFICE Peter presents: [Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction](https://openreview.net/pdf?id=TpD2aG1h0D) by Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei
-
 - [20/06/2024] Dwane presents: [What's the Magic Word? A Control Theory of LLM Prompting](https://arxiv.org/pdf/2310.04444) by Aman Bhargava, Cameron Witkowski, Manav Shah, Matt Thomson
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
@@ -51,6 +47,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [06/06/2024] Gerard presents: [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/pdf/2403.05440v1) by Harald Steck, Chaitanya Ekanadham, Nathan Kallus
+
+- [13/06/2024] Peter presents: [Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction](https://openreview.net/pdf?id=TpD2aG1h0D) by Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei
 
 - [30/05/2024] Damian presents: [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) by Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark [RECORDING](https://www.youtube.com/watch?v=D-mLXs2OcDw)
 
