@@ -7,10 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [20/06/2024] Dwane presents: [What's the Magic Word? A Control Theory of LLM Prompting](https://arxiv.org/pdf/2310.04444) by Aman Bhargava, Cameron Witkowski, Manav Shah, Matt Thomson
-
-- [27/06/2024] NO PAPER CLUB BECAUSE NPLAN IS HOSTING ITS [AI DAY](https://www.nplan.io/events/nplan-ai-day-summer-2024)
-
 - [04/07/2024] Tanya presents: [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060) by Tri Dao, Albert Gu
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
@@ -51,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [20/06/2024] Dwane presents: [What's the Magic Word? A Control Theory of LLM Prompting](https://arxiv.org/pdf/2310.04444) by Aman Bhargava, Cameron Witkowski, Manav Shah, Matt Thomson
 
 - [06/06/2024] Gerard presents: [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/pdf/2403.05440v1) by Harald Steck, Chaitanya Ekanadham, Nathan Kallus
 
