@@ -8,6 +8,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 ## Next meetup's paper ##
 
 - [11/07/2024] Peter presents [Robust agents learn causal world models](https://openreview.net/pdf?id=pOoKI3ouv1) by Jonathan Richens, Tom Everitt
+- [25/07/2024] Ben presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
