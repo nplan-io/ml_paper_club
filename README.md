@@ -55,13 +55,13 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson
+- [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson [Recording](https://www.youtube.com/watch?v=FmbFF1gB-qY)
 
-- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
+- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg [Recording](https://www.youtube.com/watch?v=wT3_wfYeHzE&t=4s)
 
-- [18/07/2024] Tanya presents [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0.pdf) by Sebastian Farquhar, Jannik Kossen, Lorenz Kuhn & Yarin Gal
+- [18/07/2024] Tanya presents [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0.pdf) by Sebastian Farquhar, Jannik Kossen, Lorenz Kuhn & Yarin Gal [Recording](https://www.youtube.com/watch?v=0iDtRpBcXW8)
 
-- [11/07/2024] Peter presents [Robust agents learn causal world models](https://openreview.net/pdf?id=pOoKI3ouv1) by Jonathan Richens, Tom Everitt
+- [11/07/2024] Peter presents [Robust agents learn causal world models](https://openreview.net/pdf?id=pOoKI3ouv1) by Jonathan Richens, Tom Everitt [Recording](https://www.youtube.com/watch?v=TdiKIbNJzYw)
 
 - [04/07/2024] Tanya presents: [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060) by Tri Dao, Albert Gu
 
