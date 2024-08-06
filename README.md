@@ -14,6 +14,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [29/08/2024] Inneke presents PAPER TBD
 
+- [05/09/2024] Vahan presents [Small Molecule Optimization with Large Language Models](https://arxiv.org/pdf/2407.18897) by Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, Armen Aghajanyan
+
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
 ## Supplementary material ##
