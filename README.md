@@ -6,10 +6,6 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ## 
-- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
-
-- [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson
-
 - [08/08/2024] Peter presents PAPER TBD
 
 - [15/08/2024] Tanya presents PAPER TBD
@@ -56,6 +52,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
+
+- [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson
 
 - [18/07/2024] Tanya presents [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0.pdf) by Sebastian Farquhar, Jannik Kossen, Lorenz Kuhn & Yarin Gal
 
