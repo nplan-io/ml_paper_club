@@ -55,9 +55,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
-
 - [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson
+
+- [25/07/2024] Peter presents [Position: Levels of AGI for Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462) by Meredith Ringel Morris, Jascha Sohl-Dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg
 
 - [18/07/2024] Tanya presents [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0.pdf) by Sebastian Farquhar, Jannik Kossen, Lorenz Kuhn & Yarin Gal
 
