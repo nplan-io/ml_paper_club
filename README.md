@@ -6,7 +6,7 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ## 
-- [08/08/2024] Peter presents PAPER TBD
+- [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras
 
 - [15/08/2024] Tanya presents PAPER TBD
 
