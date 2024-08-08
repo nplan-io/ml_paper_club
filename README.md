@@ -6,13 +6,14 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
 ## Next meetup's paper ## 
+
 - [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras
 
 - [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse
 
 - [22/08/2024] Gerard presents [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/pdf/2407.01449) by Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo
 
-- [29/08/2024] Inneke presents PAPER TBD
+- [29/08/2024] Inneke presents [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073) by Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, Carol Chen, Catherine Olsson, Christopher Olah, Danny Hernandez, Dawn Drain, Deep Ganguli, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jamie Kerr, Jared Mueller, Jeffrey Ladish, Joshua Landau, Kamal Ndousse, Kamile Lukosuite, Liane Lovitt, Michael Sellitto, Nelson Elhage, Nicholas Schiefer, Noemi Mercado, Nova DasSarma, Robert Lasenby, Robin Larson, Sam Ringer, Scott Johnston, Shauna Kravec, Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Conerly, Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan
 
 - [05/09/2024] Vahan presents [Small Molecule Optimization with Large Language Models](https://arxiv.org/pdf/2407.18897) by Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, Armen Aghajanyan
 
