@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras
-
 - [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse
 
 - [22/08/2024] Gerard presents [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/pdf/2407.01449) by Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo
@@ -55,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras [Recording](https://youtu.be/tMPxYM_7VU8)
 
 - [01/08/2024] Sophie presents [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130) by Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson [Recording](https://www.youtube.com/watch?v=FmbFF1gB-qY)
 
