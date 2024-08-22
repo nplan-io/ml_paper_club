@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse
-
 - [22/08/2024] Gerard presents [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/pdf/2407.01449) by Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo
 
 - [29/08/2024] Inneke presents [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073) by Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, Carol Chen, Catherine Olsson, Christopher Olah, Danny Hernandez, Dawn Drain, Deep Ganguli, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jamie Kerr, Jared Mueller, Jeffrey Ladish, Joshua Landau, Kamal Ndousse, Kamile Lukosuite, Liane Lovitt, Michael Sellitto, Nelson Elhage, Nicholas Schiefer, Noemi Mercado, Nova DasSarma, Robert Lasenby, Robin Larson, Sam Ringer, Scott Johnston, Shauna Kravec, Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Conerly, Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan
@@ -53,6 +51,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse [RECORDING](https://youtu.be/JujksP8lMDo)
 
 - [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras [Recording](https://youtu.be/tMPxYM_7VU8)
 
