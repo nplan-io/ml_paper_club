@@ -52,7 +52,7 @@ Past papers discussed in Paper Club meetings:
 
 - [22/08/2024] Gerard presents [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/pdf/2407.01449) by Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo [RECORDING](https://youtu.be/LPBaLwcTtao)
 
-- [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse [RECORDING](https://youtu.be/JujksP8lMDo)
+- [15/08/2024] Tanya presents [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](https://arxiv.org/pdf/2404.17546) by Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse [RECORDING](https://youtu.be/jQk03wKlNrg)
 
 - [08/08/2024] Peter presents [Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://openreview.net/pdf?id=cc8h3I3V4E) by Ian Gemp, Luke Marris, Georgios Piliouras [Recording](https://youtu.be/tMPxYM_7VU8)
 
