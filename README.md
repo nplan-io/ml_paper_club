@@ -7,7 +7,11 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [05/09/2024] Vahan presents [Small Molecule Optimization with Large Language Models](https://arxiv.org/pdf/2407.18897) by Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, Armen Aghajanyan
+- [05/09/2024] Vahan presents: [Small Molecule Optimization with Large Language Models](https://arxiv.org/pdf/2407.18897) by Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, Armen Aghajanyan
+
+- [12/09/2024] Sophie presents: TBD
+
+- [19/09/2024] IN PERSON PAPER CLUB - Peter presents: [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802) by Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
