@@ -9,7 +9,9 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [12/09/2024] Peter presents: [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802) by Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le
 
-- [19/09/2024] Sophie presents: TBD
+- [26/09/2024] Sophie presents: TBD
+
+- [03/10/2024] Ben presents: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/pdf/2203.11171) by Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
