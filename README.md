@@ -9,9 +9,15 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [12/09/2024] Peter presents: [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802) by Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le
 
+- [19/09/2024] Inneke presents: [LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs](https://www.arxiv.org/pdf/2408.13467) by Chansung Park, Juyong Jiang, Fan Wang, Sayak Paul, Jing Tang
+
 - [26/09/2024] Sophie presents: TBD
 
 - [03/10/2024] Ben presents: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/pdf/2203.11171) by Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
+
+- [10/10/2024] Damian presents: [ReFT: Representation Finetuning for Language Models](https://arxiv.org/pdf/2404.03592) by Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts
+
+- [17/10/2024] Tanya presents: TBD
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
