@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [12/09/2024] Peter presents: [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802) by Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le
-
 - [19/09/2024] Inneke presents: [LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs](https://www.arxiv.org/pdf/2408.13467) by Chansung Park, Juyong Jiang, Fan Wang, Sayak Paul, Jing Tang
 
 - [26/09/2024] Sophie presents: TBD
@@ -59,6 +57,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [12/09/2024] Peter presents: [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802) by Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le [Recording](https://youtu.be/yfBT4may46A)
 
 - [05/09/2024] Vahan presents: [Small Molecule Optimization with Large Language Models](https://arxiv.org/pdf/2407.18897) by Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, Armen Aghajanyan [RECORDING](https://youtu.be/0BM172aHVKw)
 
