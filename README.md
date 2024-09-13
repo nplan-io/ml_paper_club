@@ -19,6 +19,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [17/10/2024] Tanya presents: TBD
 
+- [24/10/2024] IN-PERSON PAPER CLUB Peter presents: TBD
+
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
 ## Supplementary material ##
