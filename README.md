@@ -17,7 +17,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [17/10/2024] Tanya presents: TBD
 
-- [24/10/2024] IN-PERSON PAPER CLUB Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted.
+- [24/10/2024] IN-PERSON PAPER CLUB, PLEASE BRING A SOMETHING TO WRITE ON AND SOMETHING TO WRITE WITH Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted.
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
