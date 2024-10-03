@@ -54,7 +54,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [26/09/2024] Sophie presents: [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485) by Yue Yu, Wei Ping, Zihan Liu, Boxin Wang, Jiaxuan You, Chao Zhang, Mohammad Shoeybi, Bryan Catanzaro
+- [26/09/2024] Sophie presents: [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485) by Yue Yu, Wei Ping, Zihan Liu, Boxin Wang, Jiaxuan You, Chao Zhang, Mohammad Shoeybi, Bryan Catanzaro [Recording](https://youtu.be/tActQGL50Ts)
 
 - [19/09/2024] Inneke presents: [LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs](https://www.arxiv.org/pdf/2408.13467) by Chansung Park, Juyong Jiang, Fan Wang, Sayak Paul, Jing Tang [Recording](https://youtu.be/26XT9JtWgAk)
 
