@@ -11,7 +11,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [10/10/2024] Damian presents: [ReFT: Representation Finetuning for Language Models](https://arxiv.org/pdf/2404.03592) by Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts
 
-- [17/10/2024] Tanya presents: TBD
+- [17/10/2024] Gerard presents: TBD
 
 - [24/10/2024] IN-PERSON PAPER CLUB, PLEASE BRING A SOMETHING TO WRITE ON AND SOMETHING TO WRITE WITH Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted.
 
