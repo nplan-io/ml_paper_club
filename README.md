@@ -7,9 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [17/10/2024] Gerard presents: [Were RNNs All We Needed?](https://arxiv.org/pdf/2410.01201) by Leo Feng, Frederick Tung, Mohamed Osama Ahmed, Yoshua Bengio, Hossein Hajimirsadeghi
-
-- [24/10/2024] IN-PERSON PAPER CLUB, PLEASE BRING A SOMETHING TO WRITE ON AND SOMETHING TO WRITE WITH Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted.
+- [31/10/2024] Arvid presents: TBD but it is going to be cool
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
@@ -49,8 +47,11 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+- [24/10/2024] IN-PERSON PAPER CLUB, PLEASE BRING A SOMETHING TO WRITE ON AND SOMETHING TO WRITE WITH Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted. [RECORDING](https://youtu.be/du6tSOMumDc)
 
-- [10/10/2024] Damian presents: [ReFT: Representation Finetuning for Language Models](https://arxiv.org/pdf/2404.03592) by Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts
+- [17/10/2024] Gerard presents: [Were RNNs All We Needed?](https://arxiv.org/pdf/2410.01201) by Leo Feng, Frederick Tung, Mohamed Osama Ahmed, Yoshua Bengio, Hossein Hajimirsadeghi [RECORDING](https://youtu.be/BjjPO2aM0LU)
+
+- [10/10/2024] Damian presents: [ReFT: Representation Finetuning for Language Models](https://arxiv.org/pdf/2404.03592) by Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts [RECORDING](https://youtu.be/ZhRHc0rBd1Q)
 
 - [03/10/2024] Ben presents: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/pdf/2203.11171) by Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou [RECORDING](https://youtu.be/kp6h0iZ4rm8)
 
