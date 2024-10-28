@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [31/10/2024] Arvid presents: TBD but it is going to be cool
+- [31/10/2024] Arvid presents: [Multi-Agent Learning using a Variable Learning Rate](https://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf) by Michael Bowling and Manuela Veloso
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
