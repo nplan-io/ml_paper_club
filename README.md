@@ -7,11 +7,9 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [07/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) by Charles J. Geyer
+- [14/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 2 by Charles J. Geyer
 
-- [14/11/2024] Gerard presents: TBD
-
-- [21/11/2024] TBD presents: TBD
+- [21/11/2024] Gerard presents: TBD
 
 - [28/11/2024] Inneke presents: TBD
 
@@ -54,7 +52,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [31/10/2024] Arvid presents: [Multi-Agent Learning using a Variable Learning Rate](https://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf) by Michael Bowling and Manuela Veloso [RECORDING](https://youtu.be/2hatfeb6XSM)
+- [07/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 1 by Charles J. Geyer [RECORDING](https://youtu.be/lGtebOSzl_g)
+
+- [31/10/2024] Arvid presents: [Multi-Agent Learning using a Variable Learning Rate](https://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf) by Michael Bowling and Manuela Veloso [RECORDING](https://youtu.be/w9jzTmYpvSs)
 
 - [24/10/2024] IN-PERSON PAPER CLUB, PLEASE BRING A SOMETHING TO WRITE ON AND SOMETHING TO WRITE WITH Peter presents: A Practical Guide to the [`einsum`](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) function and [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation). WHY SHOULD YOU BE INTERESTED? The `einsum` is a function that can save a lot of memory and compute when performing the linear tensor operations necesssary for modern neural networks. It is becoming more and more prevalent in machine learning papers and could one day be widely adopted. [RECORDING](https://youtu.be/du6tSOMumDc)
 
