@@ -7,9 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [14/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 2 by Charles J. Geyer
-
-- [21/11/2024] Gerard presents: TBD
+- [21/11/2024] Gerard presents: [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/pdf/2411.07279) by Ekin Akyürek, Mehul Damani, Linlu Qiu, Han Guo, Yoon Kim, Jacob Andreas
 
 - [28/11/2024] Inneke presents: TBD
 
@@ -51,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [14/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 2 by Charles J. Geyer
 
 - [07/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 1 by Charles J. Geyer [RECORDING](https://youtu.be/lGtebOSzl_g)
 
