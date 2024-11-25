@@ -52,9 +52,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [21/11/2024] Gerard presents: [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/pdf/2411.07279) by Ekin Akyürek, Mehul Damani, Linlu Qiu, Han Guo, Yoon Kim, Jacob Andreas
+- [21/11/2024] Gerard presents: [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/pdf/2411.07279) by Ekin Akyürek, Mehul Damani, Linlu Qiu, Han Guo, Yoon Kim, Jacob Andreas [RECORDING](https://youtu.be/xRtMR-7ZQf4)
 
-- [14/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 2 by Charles J. Geyer
+- [14/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 2 by Charles J. Geyer [RECORDING](https://youtu.be/sJNwP7FcEHI)
 
 - [07/11/2024] Peter presents: [Practical Markov Chain Monte Carlo](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1177011137) Part 1 by Charles J. Geyer [RECORDING](https://youtu.be/lGtebOSzl_g)
 
