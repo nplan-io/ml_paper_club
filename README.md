@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [28/11/2024] Inneke presents: [Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/pdf/2406.04268) by Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel
-
 - [05/12/2024] Peter presents: [Binarized Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2016/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf) by Matthieu Courbariaux, Itay Hubara, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio
 
 - [12/11/2024] Ben presents: TBD
@@ -51,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [28/11/2024] Inneke presents: [Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/pdf/2406.04268) by Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel [RECORDING](https://youtu.be/HCOKoAKwTUQ)
 
 - [21/11/2024] Gerard presents: [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/pdf/2411.07279) by Ekin Akyürek, Mehul Damani, Linlu Qiu, Han Guo, Yoon Kim, Jacob Andreas [RECORDING](https://youtu.be/xRtMR-7ZQf4)
 
