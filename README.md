@@ -9,7 +9,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [12/11/2024] Ben presents: [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747) by Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matt Le
 
-- [12/18/2024] Peter presents: (NEURIPS SPOTLIGHT) [Towards Understanding Evolving Patterns in Sequential Data](https://openreview.net/pdf?id=I2gVmVRgNk) by Qiuhao Zeng, Long-Kai Huang, Qi CHEN, Charles Ling, Boyu Wang
+- [12/18/2024] Peter presents: [Towards Understanding Evolving Patterns in Sequential Data](https://openreview.net/pdf?id=I2gVmVRgNk) (ONE OF NEURIPS 2024 SPOTLIGHT PAPERS) by Qiuhao Zeng, Long-Kai Huang, Qi CHEN, Charles Ling, Boyu Wang
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
