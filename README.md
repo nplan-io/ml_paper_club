@@ -9,6 +9,10 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [12/18/2024] Peter presents: [Towards Understanding Evolving Patterns in Sequential Data](https://openreview.net/pdf?id=I2gVmVRgNk) (ONE OF NEURIPS 2024 SPOTLIGHT PAPERS) by Qiuhao Zeng, Long-Kai Huang, Qi CHEN, Charles Ling, Boyu Wang
 
+- [12/26/2024] No paper club
+
+- [02/01/2024] Ben presents: [CryoDRGN: Reconstruction of heterogeneous cryo-EM structures using neural networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC8183613/pdf/nihms-1656428.pdf) by Ellen D. Zhong, Tristan Bepler, Bonnie Berger, Joseph H. Davis
+
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
 ## Supplementary material ##
