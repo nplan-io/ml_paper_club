@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ## 
 
-- [09/01/2025] Peter presents [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) by Max Welling, Yee Whye Teh
+- [17/01/2025] Peter presents [A Stochastic Approximation Method](https://www.columbia.edu/~ww2040/8100F16/RM51.pdf) by Herbert Robbins and Sutton Monro
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
@@ -47,6 +47,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [09/01/2025] Peter presents [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) by Max Welling, Yee Whye Teh [Recording](https://youtu.be/IIYtp9HtzGw)
 
 - [02/01/2025] Ben presents: [CryoDRGN: Reconstruction of heterogeneous cryo-EM structures using neural networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC8183613/pdf/nihms-1656428.pdf) by Ellen D. Zhong, Tristan Bepler, Bonnie Berger, Joseph H. Davis [RECORDING](https://youtu.be/Ds8YWgULrjE)
 
