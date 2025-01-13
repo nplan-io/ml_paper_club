@@ -5,11 +5,13 @@ A repository of papers discussed at nPlan's Machine Learning Paper Club.
 
 Paper Club is now remote, with an in-person session approximately every 4 weeks. As always, Thursdays 12h30 London, but via webinar or in our office in Whitechapel. During the session feel free to ask and answer questions or make a comment about the paper. This is a discussion rather than a presentation. Bear in mind that these meetings may be recorded for dissemination purposes.
 
-## Next meetup's paper ## 
+## Next meetup's paper ##  
 
 - [16/01/2025] Peter presents [A Stochastic Approximation Method](https://www.columbia.edu/~ww2040/8100F16/RM51.pdf) by Herbert Robbins and Sutton Monro
 
 - [23/01/2025] Damian presents [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769) by Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian
+
+IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
