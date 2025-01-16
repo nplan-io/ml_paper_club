@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##  
 
-- [16/01/2025] Peter presents [A Stochastic Approximation Method](https://www.columbia.edu/~ww2040/8100F16/RM51.pdf) by Herbert Robbins and Sutton Monro
-
 - [23/01/2025] Damian presents [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769) by Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
@@ -51,6 +49,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [16/01/2025] Peter presents [A Stochastic Approximation Method](https://www.columbia.edu/~ww2040/8100F16/RM51.pdf) by Herbert Robbins and Sutton Monro [RECORDING](https://youtu.be/h30Q29A50PE)
 
 - [09/01/2025] Peter presents [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) by Max Welling, Yee Whye Teh [Recording](https://youtu.be/IIYtp9HtzGw)
 
