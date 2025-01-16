@@ -52,7 +52,7 @@ Past papers discussed in Paper Club meetings:
 
 - [16/01/2025] Peter presents [A Stochastic Approximation Method](https://www.columbia.edu/~ww2040/8100F16/RM51.pdf) by Herbert Robbins and Sutton Monro [RECORDING](https://youtu.be/h30Q29A50PE)
 
-- [09/01/2025] Peter presents [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) by Max Welling, Yee Whye Teh [Recording](https://youtu.be/IIYtp9HtzGw)
+- [09/01/2025] Peter presents [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) by Max Welling, Yee Whye Teh [RECORDING](https://youtu.be/IIYtp9HtzGw)
 
 - [02/01/2025] Ben presents: [CryoDRGN: Reconstruction of heterogeneous cryo-EM structures using neural networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC8183613/pdf/nihms-1656428.pdf) by Ellen D. Zhong, Tristan Bepler, Bonnie Berger, Joseph H. Davis [RECORDING](https://youtu.be/Ds8YWgULrjE)
 
