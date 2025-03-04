@@ -9,7 +9,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [03/06/2025] NO PAPER CLUB THIS WEEK
 
-- [03/13/2025] Inneke presents: TBD
+- [03/13/2025] Inneke presents: [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) by Ali Behrouz, Peilin Zhong, and Vahab Mirrokni†
 
 - [03/27/2025] Sophie presents: TBD
 
