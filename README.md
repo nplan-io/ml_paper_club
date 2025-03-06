@@ -11,6 +11,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [03/13/2025] Inneke presents: [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) by Ali Behrouz, Peilin Zhong, and Vahab Mirrokni
 
+- [03/20/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
+
 - [03/27/2025] Sophie presents: TBD
 
 - [04/03/2025] Dwane presents: [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) by Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap
