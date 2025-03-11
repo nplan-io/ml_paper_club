@@ -11,11 +11,11 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [03/20/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
-- [03/27/2025] Sophie presents: TBD
-
 - [04/03/2025] Dwane presents: [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) by Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap
 
 - [04/10/2025] Naomi presents: TBD
+
+- [04/17/2025] Sophie presents: TBD
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
