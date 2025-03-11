@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [03/06/2025] NO PAPER CLUB THIS WEEK
-
 - [03/13/2025] Inneke presents: [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) by Ali Behrouz, Peilin Zhong, and Vahab Mirrokni
 
 - [03/20/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
