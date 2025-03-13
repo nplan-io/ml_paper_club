@@ -7,9 +7,9 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [03/13/2025] Inneke presents: [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) by Ali Behrouz, Peilin Zhong, and Vahab Mirrokni
+- [03/20/2025] Peter presents: [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/pdf/2301.08243) By Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas
 
-- [03/20/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
+- [03/27/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
 - [04/03/2025] Dwane presents: [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) by Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap
 
@@ -57,6 +57,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [03/13/2025] Inneke presents: [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) by Ali Behrouz, Peilin Zhong, and Vahab Mirrokni [RECORDING](https://youtu.be/hz1YnOhs7DA)
 
 - [02/27/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) focused on Langevin Dynamics applied to Markov Chain Monte Carlo by Radford M. Neal [RECORDING](https://youtu.be/sH9OCxFdFXQ)
 
