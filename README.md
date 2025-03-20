@@ -19,6 +19,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
+We have set up a DISCORD for members, if you would like to join then use this [link](https://discord.gg/67eDD3mX). We have a strict moderation policy against sales pitches, spam messaging, trolling, and abusive text. Any members who violate this policy will be removed from the DISCORD and blocked.
+
 FOR IN-PERSON SESSIONS: IF YOU ARE ATTENDING IN PERSON PLEASE RSVP ON OUR [MEETUP PAGE](https://www.meetup.com/ML-Paper-Club/) SO WE CAN GET A HEADCOUNT FOR FOOD AND DRINKS. THE ADDRESS FOR THE EVENT WILL BE ON THE MEETUP PAGE.
 
 ## Supplementary material ##
