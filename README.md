@@ -11,7 +11,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [03/27/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
-- [04/03/2025] Dwane presents: [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) by Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap
+- [04/03/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba
 
 - [04/10/2025] Naomi presents: TBD
 
