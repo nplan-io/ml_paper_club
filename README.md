@@ -7,6 +7,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
+- [04/03/2025] NO PAPER CLUB THIS WEEK - NPLAN QUARTERLY AWAY DAY
+
 - [04/10/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba
 
 - [04/17/2025] Naomi presents: TBD
