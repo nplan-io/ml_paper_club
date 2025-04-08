@@ -11,7 +11,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 - [04/10/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba
 
-- [04/17/2025] Naomi presents: TBD
+- [04/17/2025] Naomi presents: [Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation](https://arxiv.org/pdf/2406.12114v1) by Hamidreza Rouzegar and Masoud Makrehchi
 
 - [04/24/2025] Sophie presents: TBD
 
