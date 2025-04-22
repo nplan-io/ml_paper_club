@@ -7,9 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [04/17/2025] Naomi presents: [Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation](https://arxiv.org/pdf/2406.12114v1) by Hamidreza Rouzegar and Masoud Makrehchi
-
-- [04/24/2025] Sophie presents: TBD
+- [04/24/2025] Sophie presents: [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) by Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang
 
 - [05/01/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
@@ -55,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [04/17/2025] Naomi presents: [Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation](https://arxiv.org/pdf/2406.12114v1) by Hamidreza Rouzegar and Masoud Makrehchi [RECORDING]()
 
 - [04/10/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba [RECORDING](https://youtu.be/ruwx6tQrZsU)[SLIDES](https://docs.google.com/presentation/d/18Xk3J1F-78Zm48zaejRzVbJf6O8kDH8bRKfm5xzVI_Y/edit?usp=sharing)
 
