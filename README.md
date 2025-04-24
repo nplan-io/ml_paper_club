@@ -57,7 +57,7 @@ Past papers discussed in Paper Club meetings:
 
 - [04/17/2025] Naomi presents: [Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation](https://arxiv.org/pdf/2406.12114v1) by Hamidreza Rouzegar and Masoud Makrehchi [RECORDING](https://youtu.be/SporE85d9nA)
 
-- [04/10/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba [RECORDING](https://youtu.be/ruwx6tQrZsU)[SLIDES](https://docs.google.com/presentation/d/18Xk3J1F-78Zm48zaejRzVbJf6O8kDH8bRKfm5xzVI_Y/edit?usp=sharing)
+- [04/10/2025] Dwane presents: [Mastering Atari with Discrete World Models](https://arxiv.org/pdf/2010.02193) by Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba [RECORDING](https://youtu.be/ruwx6tQrZsU), [SLIDES](https://docs.google.com/presentation/d/18Xk3J1F-78Zm48zaejRzVbJf6O8kDH8bRKfm5xzVI_Y/edit?usp=sharing)
 
 - [03/20/2025] Peter presents: [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/pdf/2301.08243) By Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas. No recording available.
 
