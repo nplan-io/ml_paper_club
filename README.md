@@ -53,7 +53,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 Past papers discussed in Paper Club meetings:
 
 
-- [04/24/2025] Sophie presents: [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) by Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang [RECORDING](https://youtu.be/nxnpxs2G7c0) [SLIDES](https://docs.google.com/presentation/d/12ZpiJq4MoFdefhZX-kM3CAEuGtSYsbwH6dbmfbqsKVQ/edit?usp=sharing)
+- [04/24/2025] Sophie presents: [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) by Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang [RECORDING](https://youtu.be/nxnpxs2G7c0), [SLIDES](https://docs.google.com/presentation/d/12ZpiJq4MoFdefhZX-kM3CAEuGtSYsbwH6dbmfbqsKVQ/edit?usp=sharing)
 
 - [04/17/2025] Naomi presents: [Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation](https://arxiv.org/pdf/2406.12114v1) by Hamidreza Rouzegar and Masoud Makrehchi [RECORDING](https://youtu.be/SporE85d9nA)
 
