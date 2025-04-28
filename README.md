@@ -7,7 +7,7 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [05/01/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
+- [05/08/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
