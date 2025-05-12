@@ -17,6 +17,8 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
   
 - [12/06/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
+- [19/06/2025] Inneke presents: TBD
+
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
 We have set up a DISCORD for members, if you would like to join then use this [LINK](https://discord.gg/a2fMv7YAfs). We have a strict moderation policy against sales pitches, and inappropriate messaging (such as unrelated spam, abusive messages, etc). Any members who violate this policy will be removed from the discord server and blocked.
