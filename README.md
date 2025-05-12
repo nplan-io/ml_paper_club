@@ -10,8 +10,12 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 - [15/05/2025] Peter presents: [Data Shapley in One Training Run](https://openreview.net/pdf?id=HD6bWcj87Y) by Jiachen T. Wang, Prateek Mittal, Dawn Song, Ruoxi Jia
 
 - [22/05/2025] NO PAPER CLUB THIS WEEK
+
+- [29/05/2025] Peter presents: [Learning Dynamics of LLM Finetuning](https://openreview.net/pdf?id=tPNHOoZFl9) by Yi Ren, Danica J. Sutherland
+
+- [05/06/2025] NO PAPER CLUB THIS WEEK
   
-- [29/05/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
+- [12/06/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
