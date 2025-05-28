@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [15/05/2025] Peter presents: [Data Shapley in One Training Run](https://openreview.net/pdf?id=HD6bWcj87Y) by Jiachen T. Wang, Prateek Mittal, Dawn Song, Ruoxi Jia
-
 - [22/05/2025] NO PAPER CLUB THIS WEEK
 
 - [29/05/2025] Peter presents: [Learning Dynamics of LLM Finetuning](https://openreview.net/pdf?id=tPNHOoZFl9) by Yi Ren, Danica J. Sutherland
@@ -65,6 +63,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [15/05/2025] Peter presents: [Data Shapley in One Training Run](https://openreview.net/pdf?id=HD6bWcj87Y) by Jiachen T. Wang, Prateek Mittal, Dawn Song, Ruoxi Jia
 
 - [05/08/2025] Peter presents: [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](https://openreview.net/pdf?id=HvSytvg3Jh) by Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Jie Shi, Xiang Wang, Xiangnan He, Tat-Seng Chua
 
