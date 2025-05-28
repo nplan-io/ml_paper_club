@@ -7,8 +7,6 @@ Paper Club is now remote, with an in-person session approximately every 4 weeks.
 
 ## Next meetup's paper ##
 
-- [22/05/2025] NO PAPER CLUB THIS WEEK
-
 - [29/05/2025] Peter presents: [Learning Dynamics of LLM Finetuning](https://openreview.net/pdf?id=tPNHOoZFl9) by Yi Ren, Danica J. Sutherland
 
 - [05/06/2025] NO PAPER CLUB THIS WEEK
