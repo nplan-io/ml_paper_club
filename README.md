@@ -9,7 +9,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [05/06/2025] NO PAPER CLUB THIS WEEK
   
-- [12/06/2025] Peter presents: [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
+- [12/06/2025] Peter presents: [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html) By Radford M. Neal focused why you would want to use Hamiltonian Dynamics for MCMC
 
 - [19/06/2025] Inneke presents: TBD
 
