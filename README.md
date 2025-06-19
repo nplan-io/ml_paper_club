@@ -9,7 +9,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [26/06/2025] NO PAPER CLUB THIS WEEK
 
-- [03/07/2025] Ben presents: TBD
+- [03/07/2025] Ben presents [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142) by Szabolcs Cséfalvay, James Imber
 
 - [10/07/2025] NO PAPER CLUB THIS WEEK
 
