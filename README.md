@@ -7,12 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [05/06/2025] NO PAPER CLUB THIS WEEK
-  
-- [12/06/2025] Peter presents: [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html) By Tor Fjelde, Emile Mathieu, Vincent Dutordoir
-
-- [19/06/2025] Inneke presents: [Transformers without Normalization](https://arxiv.org/pdf/2503.10622) by Jiachen Zhu, Xinlei Chen, Kaiming He, Yann LeCun, Zhuang Liu
-
 - [26/06/2025] NO PAPER CLUB THIS WEEK
 
 - [03/07/2025] Ben presents: TBD
@@ -71,6 +65,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [19/06/2025] Inneke presents: [Transformers without Normalization](https://arxiv.org/pdf/2503.10622) by Jiachen Zhu, Xinlei Chen, Kaiming He, Yann LeCun, Zhuang Liu
+
+- [12/06/2025] Peter presents: An Introduction to Flow Matching By Tor Fjelde, Emile Mathieu, Vincent Dutordoir
 
 - [29/05/2025] Peter presents: [Learning Dynamics of LLM Finetuning](https://openreview.net/pdf?id=tPNHOoZFl9) by Yi Ren, Danica J. Sutherland [RECORDING](https://youtu.be/SA9qMZlxtT4)
 
