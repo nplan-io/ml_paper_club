@@ -15,7 +15,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [26/06/2025] NO PAPER CLUB THIS WEEK
 
-- [03/07/2025] Sophie presents: TBD
+- [03/07/2025] Ben presents: TBD
 
 - [10/07/2025] NO PAPER CLUB THIS WEEK
 
