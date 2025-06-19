@@ -13,15 +13,17 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [10/07/2025] NO PAPER CLUB THIS WEEK
 
-- [17/07/2025] Gerard presents: TBD
+- [17/07/2025] Sophie presents: TBD
 
 - [24/07/2025] NO PAPER CLUB THIS WEEK
 
-- [31/07/2025] Naomi presents: TBD
+- [31/07/2025] Gerard presents: TBD
 
 - [06/08/2025] NO PAPER CLUB THIS WEEK
 
-- [14/08/2025] Damian presents: TBD
+- [14/08/2025] Naomi presents: TBD
+
+- [28/08/2025] Damian presents: TBD
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
