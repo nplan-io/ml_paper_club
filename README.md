@@ -7,11 +7,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [17/07/2025] NO PAPER CLUB THIS WEEK
-
-- [24/07/2025] NO PAPER CLUB THIS WEEK
-
-- [31/07/2025] Gerard presents: TBD
+- [31/07/2025] Gerard presents: [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216) by William Hamilton, Rex Ying, Jure Leskovec
 
 - [06/08/2025] NO PAPER CLUB THIS WEEK
 
