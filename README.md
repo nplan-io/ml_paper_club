@@ -7,9 +7,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [31/07/2025] Gerard presents: [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216) by William Hamilton, Rex Ying, Jure Leskovec
-
-- [06/08/2025] NO PAPER CLUB THIS WEEK
+- [07/08/2025] Tanya presents: [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509) by Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey
 
 - [14/08/2025] Naomi presents: TBD
 
@@ -63,6 +61,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [31/07/2025] Gerard presents: [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216) by William Hamilton, Rex Ying, Jure Leskovec
 
 - [03/07/2025] Ben presents [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142) by Szabolcs Cséfalvay, James Imber
 
