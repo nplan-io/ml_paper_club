@@ -7,8 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [07/08/2025] Tanya presents: [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509) by Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey
-
 - [14/08/2025] Naomi presents: [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) by Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang
 
 - [21/08/2025] NO PAPER CLUB THIS WEEK
@@ -66,6 +64,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [07/08/2025] Tanya presents: [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509) by Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey
 
 - [31/07/2025] Gerard presents: [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216) by William Hamilton, Rex Ying, Jure Leskovec
 
