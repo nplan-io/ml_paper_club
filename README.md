@@ -7,13 +7,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [21/08/2025] NO PAPER CLUB THIS WEEK
-
-- [28/08/2025] Damian presents: [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) by Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori
-
 - [04/09/2025] NO PAPER CLUB THIS WEEK
 
-- [11/09/2025] Sophie presents: TBD
+- [11/09/2025] Sophie presents [Graph Generative Pre-trained Transformer](https://arxiv.org/abs/2501.01073) by Xiaohui Chen, Yinkai Wang, Jiaxing He, Yuanqi Du, Soha Hassoun, Xiaolin Xu, Li-Ping Liu
 
 - [18/09/2025] NO PAPER CLUB THIS WEEK
 
@@ -62,6 +58,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [28/08/2025] Damian presents: [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) by Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori
 
 - [14/08/2025] Naomi presents: [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) by Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang
 
