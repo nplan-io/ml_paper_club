@@ -11,7 +11,11 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [18/09/2025] NO PAPER CLUB THIS WEEK
 
-- [25/09/2025] Inneke presents: [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://arxiv.org/pdf/2507.00191) by Eray Erturk, Fahad Kamran, Salar Abbaspourazad, Sean Jewell, Harsh Sharma, Yujie Li, Sinead Williamson, Nicholas J Foti, 2 Joseph Futoma
+- [25/09/2025] Inneke presents: [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://arxiv.org/pdf/2507.00191) by Eray Erturk, Fahad Kamran, Salar Abbaspourazad, Sean Jewell, Harsh Sharma, Yujie Li, Sinead Williamson, Nicholas J Foti, Joseph Futoma
+
+- [02/10/2025] NO PAPER CLUB THIS WEEK
+
+- [09/10/2025] Gerard presents: TBD
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
