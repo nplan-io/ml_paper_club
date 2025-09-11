@@ -13,7 +13,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [02/10/2025] NO PAPER CLUB THIS WEEK
 
-- [09/10/2025] Gerard presents: TBD
+- [09/10/2025] Arshad presents: [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547) by Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
