@@ -7,8 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [11/09/2025] Sophie presents [Graph Generative Pre-trained Transformer](https://arxiv.org/abs/2501.01073) by Xiaohui Chen, Yinkai Wang, Jiaxing He, Yuanqi Du, Soha Hassoun, Xiaolin Xu, Li-Ping Liu
-
 - [18/09/2025] NO PAPER CLUB THIS WEEK
 
 - [25/09/2025] Inneke presents: [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://arxiv.org/pdf/2507.00191) by Eray Erturk, Fahad Kamran, Salar Abbaspourazad, Sean Jewell, Harsh Sharma, Yujie Li, Sinead Williamson, Nicholas J Foti, Joseph Futoma
@@ -60,6 +58,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [11/09/2025] Sophie presents [Do Transformers Really Perform Badly for Graph Representation?](https://www.microsoft.com/en-us/research/publication/do-transformers-really-perform-badly-for-graph-representation/) by Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
 - [28/08/2025] Damian presents: [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) by Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori
 
