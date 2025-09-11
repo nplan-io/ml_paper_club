@@ -59,7 +59,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [11/09/2025] Sophie presents [Do Transformers Really Perform Badly for Graph Representation?](https://www.microsoft.com/en-us/research/publication/do-transformers-really-perform-badly-for-graph-representation/) by Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
+- [11/09/2025] Sophie presents [Do Transformers Really Perform Badly for Graph Representation?](https://www.microsoft.com/en-us/research/publication/do-transformers-really-perform-badly-for-graph-representation/) by Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu. Slides [here](https://docs.google.com/presentation/d/17Ct_s5QQ_3wX3NM-AJtuNSfK6mhteVEFe133uXWlDW0/edit?slide=id.g34e816f129e_1_42#slide=id.g34e816f129e_1_42).
 
 - [28/08/2025] Damian presents: [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) by Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori
 
