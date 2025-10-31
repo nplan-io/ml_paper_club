@@ -7,15 +7,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [09/10/2025] Arshad presents: [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547) by Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai
-
-- [16/10/2025] NO PAPER CLUB THIS WEEK
-
-- [23/10/2025] Naomi presents: [Revisiting Hierarchical Text Classification: Inference and Metrics](https://arxiv.org/pdf/2410.01305) by Roman Plaud, Matthieu Labeau, Antoine Saillenfest, Thomas Bonald
-
-- [30/10/2025] NO PAPER CLUB THIS WEEK
-
-- [06/11/2025] TBD
+- [06/11/2025] Gerard presents: TBD
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
@@ -60,6 +52,12 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [23/10/2025] Naomi presents: [Revisiting Hierarchical Text Classification: Inference and Metrics](https://arxiv.org/pdf/2410.01305) by Roman Plaud, Matthieu Labeau, Antoine Saillenfest, Thomas Bonald
+  
+- [09/10/2025] Arshad presents: [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547) by Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai
+
+- [25/09/2025] Inneke presents: [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://arxiv.org/pdf/2507.00191) by Eray Erturk, Fahad Kamran, Salar Abbaspourazad, Sean Jewell, Harsh Sharma, Yujie Li, Sinead Williamson, Nicholas J Foti, Joseph Futoma
 
 - [11/09/2025] Sophie presents [Do Transformers Really Perform Badly for Graph Representation?](https://www.microsoft.com/en-us/research/publication/do-transformers-really-perform-badly-for-graph-representation/) by Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu. Slides [here](https://docs.google.com/presentation/d/17Ct_s5QQ_3wX3NM-AJtuNSfK6mhteVEFe133uXWlDW0/edit?slide=id.g34e816f129e_1_42#slide=id.g34e816f129e_1_42).
 
