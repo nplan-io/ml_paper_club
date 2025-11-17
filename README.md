@@ -7,8 +7,8 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [13/11/2025] NO PAPER CLUB
-- [20/11/2025] Damian presents: TBD
+- [20/11/2025] Damian presents: [CACHE-TO-CACHE: DIRECT SEMANTIC COMMUNICATION BETWEEN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2510.03215) by Tianyu Fu, Zihan Min, Hanling Zhang, Jichao Yan1, Guohao Dai5, Wanli Ouyang, Yu Wang
+- [27/11/2025] NO PAPERCLUB
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
