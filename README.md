@@ -11,8 +11,8 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 - [4/12/2025] Sophie presents: TBD
 - [11/12/2025] NO PAPERCLUB
 - [18/12/2025] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
-- [25/12/2025] NO PAPERCLUB
-- [1/1/2026] NO PAPERCLUB
+- [25/12/2025] **Christmas day** - NO PAPERCLUB
+- [1/1/2026] **New Year** - NO PAPERCLUB
 - [8/1/2026] Inneke presents: TBD
 
 
