@@ -7,8 +7,13 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [20/11/2025] Damian presents: [CACHE-TO-CACHE: DIRECT SEMANTIC COMMUNICATION BETWEEN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2510.03215) by Tianyu Fu, Zihan Min, Hanling Zhang, Jichao Yan1, Guohao Dai5, Wanli Ouyang, Yu Wang
 - [27/11/2025] NO PAPERCLUB
+- [4/12/2025] Sophie presents: TBD
+- [11/12/2025] NO PAPERCLUB
+- [18/12/2025] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
+- [25/12/2025] NO PAPERCLUB
+- [1/1/2026] NO PAPERCLUB
+- [8/1/2026] Inneke presents: TBD
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
@@ -53,6 +58,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [20/11/2025] Damian presents: [CACHE-TO-CACHE: DIRECT SEMANTIC COMMUNICATION BETWEEN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2510.03215) by Tianyu Fu, Zihan Min, Hanling Zhang, Jichao Yan1, Guohao Dai5, Wanli Ouyang, Yu Wang
 
 - [06/11/2025] Gerard presents: [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234) by Haoran Wei, Yaofeng Sun, Yukun Li
   
