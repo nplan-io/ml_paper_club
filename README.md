@@ -7,7 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [4/12/2025] Sophie presents: TBD
 - [11/12/2025] NO PAPERCLUB
 - [18/12/2025] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
 - [25/12/2025] **Christmas day** - NO PAPERCLUB
@@ -57,6 +56,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [4/12/2025] Sophie presents: [Simple Mechanistic Explanations for Out-Of-Context Reasoning](https://arxiv.org/pdf/2507.08218) by Atticus Wang, Joshua Engels, Oliver Clive-Griffin, Senthooran Rajamanoharan, Neel Nanda
 
 - [20/11/2025] Damian presents: [CACHE-TO-CACHE: DIRECT SEMANTIC COMMUNICATION BETWEEN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2510.03215) by Tianyu Fu, Zihan Min, Hanling Zhang, Jichao Yan1, Guohao Dai5, Wanli Ouyang, Yu Wang
 
