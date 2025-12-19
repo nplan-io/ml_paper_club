@@ -7,10 +7,11 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [18/12/2025] CANCELLED
 - [25/12/2025] **Christmas day** - NO PAPERCLUB
 - [1/1/2026] **New Year** - NO PAPERCLUB
-- [8/1/2026] Inneke presents: TBD
+- [8/1/2026] Inneke presents: [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf) by Ali Behrouz , Meisam Razaviyayn, Peilin Zhong, and Vahab Mirrokni
+- [15/1/2026] NO PAPERCLUB
+- [22/1/2026] Naomi presents: TBD
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
