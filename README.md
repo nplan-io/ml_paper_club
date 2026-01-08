@@ -7,9 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [25/12/2025] **Christmas day** - NO PAPERCLUB
-- [1/1/2026] **New Year** - NO PAPERCLUB
-- [8/1/2026] Inneke presents: [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf) by Ali Behrouz , Meisam Razaviyayn, Peilin Zhong, and Vahab Mirrokni
 - [15/1/2026] NO PAPERCLUB
 - [22/1/2026] Naomi presents: TBD
 - [29/1/2026] NO PAPERCLUB
@@ -59,6 +56,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
+- [8/1/2026] Inneke presents: [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf) by Ali Behrouz , Meisam Razaviyayn, Peilin Zhong, and Vahab Mirrokni
+  
 - [4/12/2025] Sophie presents: [Simple Mechanistic Explanations for Out-Of-Context Reasoning](https://arxiv.org/pdf/2507.08218) by Atticus Wang, Joshua Engels, Oliver Clive-Griffin, Senthooran Rajamanoharan, Neel Nanda
 
 - [20/11/2025] Damian presents: [CACHE-TO-CACHE: DIRECT SEMANTIC COMMUNICATION BETWEEN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2510.03215) by Tianyu Fu, Zihan Min, Hanling Zhang, Jichao Yan1, Guohao Dai5, Wanli Ouyang, Yu Wang
