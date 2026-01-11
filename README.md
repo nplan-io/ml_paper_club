@@ -44,6 +44,21 @@ Transformer-related resources:
 
 - Examples of BERT: [sentiment analysis](https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb) and [feature extraction from BERT](https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b)
 
+As sometimes there is a lot of jargon in papers here are a few sets of flashcards which may help break down some barriers or serve as refreshers:
+- [Introductory video on how to use the flashcards](https://www.youtube.com/watch?v=Dji_h7PILrw)
+- AI/ML
+  - [Machine Learning](https://www.darigovresearch.com/google-machine-learning-glossary-flashcards)
+  - [Machine Vision](https://www.darigovresearch.com/wikipedia-glossary-of-machine-vision-flashcards)
+  - [AI](https://www.darigovresearch.com/wikipedia-glossary-of-artificial-intelligence-flashcards)
+  - [Beginner friendly terms](https://www.darigovresearch.com/beginner-friendly-openmined-terms-flashcards)
+- Mathematics
+  - [Areas of Mathematics](https://www.darigovresearch.com/wikipedia-glossary-of-areas-of-mathematics-flashcards)
+  - [Calculus](https://www.darigovresearch.com/wikipedia-glossary-of-calculus-flashcards)
+  - [Game Theory](https://www.darigovresearch.com/wikipedia-glossary-of-game-theory-flashcards)
+  - [Graph Theory](https://www.darigovresearch.com/wikipedia-glossary-of-graph-theory-terms-flashcards)
+  - [Category Theory](https://www.darigovresearch.com/wikipedia-glossary-of-category-theory-flashcards)
+  - [Algebraic Topology](https://www.darigovresearch.com/wikipedia-glossary-of-algebraic-topology-flashcards)
+
 The wide and deep model implementation that Carlos presented can be found here https://github.com/caledezma/wide_deep_model. Why not download it, play with it, and let us know your findings at paper club?
 
 The demo for Platt scaling in calibration can be found here https://github.com/caledezma/calibration_scaling_demo. Feel free to contribute to it, we might make a push to TensorFlow with a Platt Scaling layer!
