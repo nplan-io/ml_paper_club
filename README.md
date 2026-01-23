@@ -7,7 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [22/1/2026] Naomi presents: [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980) by Diederik P. Kingma and Jimmy Lei Ba
 - [29/1/2026] NO PAPERCLUB
 - [5/2/2026] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
 
@@ -54,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [22/1/2026] Naomi presents: [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980) by Diederik P. Kingma and Jimmy Lei Ba
 
 - [8/1/2026] Inneke presents: [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf) by Ali Behrouz , Meisam Razaviyayn, Peilin Zhong, and Vahab Mirrokni
   
