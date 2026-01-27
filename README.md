@@ -11,6 +11,8 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 - [5/2/2026] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
 - [12/2/2026] NO PAPERCLUB
 - [19/2/2026] Ilamaran presents: [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](https://arxiv.org/abs/2407.11534) by Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
+- [26/2/2026] NO PAPERCLUB
+- [5/3/2026] NO PAPERCLUB BECAUSE OF AN INTERNAL NPLAN EVENT
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
