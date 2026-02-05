@@ -56,7 +56,7 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
-- [5/2/2026] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic
+- [5/2/2026] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic. Slides [here](https://docs.google.com/presentation/d/1r3BX4EMg1lYi8DBE04Hu8Tt55utxpCxV1dYqeGYdwFk/edit?slide=id.p#slide=id.p).
 
 - [22/1/2026] Naomi presents: [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980) by Diederik P. Kingma and Jimmy Lei Ba
 
