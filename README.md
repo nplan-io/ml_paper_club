@@ -11,6 +11,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 - [19/2/2026] Ilamaran presents: [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](https://arxiv.org/abs/2407.11534) by Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
 - [26/2/2026] NO PAPERCLUB
 - [5/3/2026] NO PAPERCLUB BECAUSE OF AN INTERNAL NPLAN EVENT
+- [12/3/2026] NO PAPERCLUB
 - [19/3/2026] Sophie presents: TBD
 
 
