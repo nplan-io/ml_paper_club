@@ -7,8 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [12/2/2026] NO PAPERCLUB
-- [19/2/2026] Ilamaran presents: [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](https://arxiv.org/abs/2407.11534) by Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
 - [26/2/2026] NO PAPERCLUB
 - [5/3/2026] NO PAPERCLUB BECAUSE OF AN INTERNAL NPLAN EVENT
 - [12/3/2026] NO PAPERCLUB
@@ -57,6 +55,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [19/2/2026] Ilamaran presents: [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](https://arxiv.org/abs/2407.11534) by Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
 
 - [5/2/2026] Arshad presents: [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by Aleksa Gordic. Slides [here](https://docs.google.com/presentation/d/1r3BX4EMg1lYi8DBE04Hu8Tt55utxpCxV1dYqeGYdwFk/edit?slide=id.p#slide=id.p).
 
