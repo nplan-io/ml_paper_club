@@ -7,8 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [26/2/2026] NO PAPERCLUB
-- [5/3/2026] NO PAPERCLUB BECAUSE OF AN INTERNAL NPLAN EVENT
 - [12/3/2026] NO PAPERCLUB
 - [19/3/2026] Sophie presents: TBD
 
