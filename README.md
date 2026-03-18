@@ -7,12 +7,13 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [19/3/2026] Sophie presents: [Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/pdf/2510.04871)
- by Alexia Jolicoeur-Martineau
+- [19/3/2026] We have 2 short talks on different topics: 
+   1. Arshad — Flash Attention 4
+   2. Maran — A Python framework for agent-based modelling (ABM): Mesa and its extension Mesa-LLM (experimental) for AI-driven agents
 - [26/3/2026] NO PAPERCLUB
-- [02/04/2026] Damian presents: TBD
+- [02/04/2026] TBD
 - [09/04/2026] NO PAPERCLUB
-- [16/04/2026] Lahari presents: TBD
+- [16/04/2026] TBD
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
