@@ -8,7 +8,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 ## Next meetup's paper ##
 
 - [26/3/2026] NO PAPERCLUB
-- [02/04/2026] Sophie presents: [Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/pdf/2510.04871))
+- [02/04/2026] Sophie presents: [Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/pdf/2510.04871) by Alexia Jolicoeur-Martineau
 - [09/04/2026] NO PAPERCLUB
 - [16/04/2026] TBD
 
