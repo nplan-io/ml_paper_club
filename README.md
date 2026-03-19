@@ -7,11 +7,8 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [19/3/2026] We have 2 short talks on different topics: 
-   1. Arshad — Flash Attention 4
-   2. Maran — A Python framework for agent-based modelling (ABM): Mesa and its extension Mesa-LLM (experimental) for AI-driven agents
 - [26/3/2026] NO PAPERCLUB
-- [02/04/2026] TBD
+- [02/04/2026] Sophie presents: [Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/pdf/2510.04871))
 - [09/04/2026] NO PAPERCLUB
 - [16/04/2026] TBD
 
@@ -57,6 +54,10 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [19/3/2026] We have 2 short talks on different topics: 
+   1. Arshad — Flash Attention 4
+   2. Maran — A Python framework for agent-based modelling (ABM): Mesa and its extension Mesa-LLM (experimental) for AI-driven agents
 
 - [19/2/2026] Ilamaran presents: [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](https://arxiv.org/abs/2407.11534) by Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
 
