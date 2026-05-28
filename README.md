@@ -7,8 +7,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [21/05/2026] NO PAPERCLUB
-- [28/05/2026] Arshad presents: [YOLO26: A Comprehensive Architecture Overview and Key Improvements](https://arxiv.org/abs/2602.14582) by Priyanto Hidayatullah, Refdinal Tubagus
+- [04/06/2026] NO PAPERCLUB
+- [11/06/2026] Naomi presents: TBD
+
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
@@ -53,6 +54,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
+- [28/05/2026] Arshad presents: [YOLO26: A Comprehensive Architecture Overview and Key Improvements](https://arxiv.org/abs/2602.14582) by Priyanto Hidayatullah, Refdinal Tubagus
+  
 - [14/05/2026] Lahari presents: [Complexity-aware fine-tuning](https://aclanthology.org/2026.findings-eacl.34.pdf) by Andrey Goncharov, Daniil Vyazhev, Petr Sychev, Edvard Khalafyan, Alexey Zaytsev
 
 - [30/04/2026] Inneke presents: [LeWorldModel: Stable End-to-End Joint-Embedding
