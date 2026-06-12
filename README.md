@@ -7,8 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [11/06/2026] Naomi presents: [FALCUN: A Simple and Efficient Deep Active
-Learning Strategy](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2024/lncs14943/lncs14943421.pdf) by Sandra Gilhuber, Anna Beer, Yunpu Ma, and Thomas Seidl
 - [18/06/2026] NO PAPERCLUB
 - [25/06/2026] Ciaran presents: [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/abs/2006.10637) by Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein
 - [02/07/2026] NO PAPERCLUB
@@ -57,6 +55,9 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [11/06/2026] Naomi presents: [FALCUN: A Simple and Efficient Deep Active
+Learning Strategy](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2024/lncs14943/lncs14943421.pdf) by Sandra Gilhuber, Anna Beer, Yunpu Ma, and Thomas Seidl
 
 - [28/05/2026] Arshad presents: [YOLO26: A Comprehensive Architecture Overview and Key Improvements](https://arxiv.org/abs/2602.14582) by Priyanto Hidayatullah, Refdinal Tubagus
   
