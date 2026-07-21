@@ -7,8 +7,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [16/07/2026] NO PAPERCLUB
 - [23/07/2026] Arvid presents: [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2201.09865) by Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool
+- [30/07/2026] NO PAPERCLUB
+- [06/08/2026] Sophie presents: TBD
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
