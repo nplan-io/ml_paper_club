@@ -7,9 +7,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [30/07/2026] NO PAPERCLUB
-- [06/08/2026] Sophie presents: TBD
-
+- [06/08/2026] Sophie presents: [AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation](https://arxiv.org/abs/2506.03122) by Prashanth Vijayaraghavan, Luyao Shi, Ehsan Degan, Vandana Mukherjee, Xin Zhang
+- [13/08/2026] NO PAPERCLUB
+- [20/08/2026] Damian presents: TBD
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
