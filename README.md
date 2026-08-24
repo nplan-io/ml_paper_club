@@ -7,8 +7,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [13/08/2026] NO PAPERCLUB
-- [20/08/2026] Sophie presents: [AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation ](https://arxiv.org/abs/2506.03122) by Prashanth Vijayaraghavan, Luyao Shi, Ehsan Degan, Vandana Mukherjee, Xin Zhang
+- [27/08/2026] NO PAPERCLUB
+- [03/09/2026] Inneke presents: [veScale-FSDP: Flexible and High-Performance FSDP at Scale](https://arxiv.org/abs/2602.22437) by Zezhou Wang, Youjie Li, Zhiqi Lin, Jiacheng Yang, Cong Xie, Guanyu Feng, Zheng Zhong, Ziyue Huang, Hongyu Zhu, Zhi Zhang, Yanghua Peng, Xin Liu
+
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
@@ -52,6 +53,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [20/08/2026] Sophie presents: [AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation ](https://arxiv.org/abs/2506.03122) by Prashanth Vijayaraghavan, Luyao Shi, Ehsan Degan, Vandana Mukherjee, Xin Zhang
 
 - [06/08/2026] Damian presents: [Position: LLMs can’t jump](https://openreview.net/pdf?id=klU4737opt) by Tom Zahavy
 
