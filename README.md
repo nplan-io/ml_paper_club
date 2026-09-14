@@ -7,8 +7,12 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [10/09/2026] NO PAPERCLUB
-- [17/09/2026] Maran presents: TBD
+- [17/09/2026] Maran presents: [Deep reinforcement learning for solving resource constrained project scheduling problems with resource disruptions](https://www.sciencedirect.com/science/article/abs/pii/S0736584523001035) by Hongxia Cai, Yunqi Bian, Lilan Liu
+- [24/09/2026] NO PAPERCLUB
+- [01/10/2026] Cancelled due to an internal nPlan event
+- [08/10/2026] NO PAPERCLUB
+- [15/10/2026] Lahari presents: TBD
+- [22/10/2026] NO PAPERCLUB
 
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
