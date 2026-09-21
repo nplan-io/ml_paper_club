@@ -7,7 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [17/09/2026] Maran presents: [Deep reinforcement learning for solving resource constrained project scheduling problems with resource disruptions](https://www.sciencedirect.com/science/article/abs/pii/S0736584523001035) by Hongxia Cai, Yunqi Bian, Lilan Liu
 - [24/09/2026] NO PAPERCLUB
 - [01/10/2026] Cancelled due to an internal nPlan event
 - [08/10/2026] NO PAPERCLUB
@@ -58,6 +57,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 
 Past papers discussed in Paper Club meetings:
 
+- [17/09/2026] Maran presents: [Deep reinforcement learning for solving resource constrained project scheduling problems with resource disruptions](https://www.sciencedirect.com/science/article/abs/pii/S0736584523001035) by Hongxia Cai, Yunqi Bian, Lilan Liu
+  
 - [03/09/2026] Inneke presents: [veScale-FSDP: Flexible and High-Performance FSDP at Scale](https://arxiv.org/abs/2602.22437) by Zezhou Wang, Youjie Li, Zhiqi Lin, Jiacheng Yang, Cong Xie, Guanyu Feng, Zheng Zhong, Ziyue Huang, Hongyu Zhu, Zhi Zhang, Yanghua Peng, Xin Liu
   
 - [20/08/2026] Sophie presents: [AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation ](https://arxiv.org/abs/2506.03122) by Prashanth Vijayaraghavan, Luyao Shi, Ehsan Degan, Vandana Mukherjee, Xin Zhang
