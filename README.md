@@ -7,12 +7,11 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [24/09/2026] NO PAPERCLUB
 - [01/10/2026] Cancelled due to an internal nPlan event
 - [08/10/2026] NO PAPERCLUB
-- [15/10/2026] Lahari presents: TBD
+- [15/10/2026] Naomi presents: TBD
 - [22/10/2026] NO PAPERCLUB
-
+- [22/10/2026] Lahari presents: TBD
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
