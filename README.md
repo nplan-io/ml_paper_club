@@ -9,7 +9,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 - [01/10/2026] Cancelled due to an internal nPlan event
 - [08/10/2026] NO PAPERCLUB
-- [15/10/2026] Naomi presents: TBD
+- [15/10/2026] Naomi presents: [Unlimited OCR Works](https://arxiv.org/abs/2606.23050) by Youyang Yin, Huanhuan Liu, YY, Qunyi Xie, Chaorun Liu, Shiqi Yang, Shaohua Wang, Zhanlong Liu, Hao Zou, Jinyue Chen, Shu Wei, Jingjing Wu, Mingxin Huang, Zhen Wu, Guibin Wang, Tengyu Du, Lei Jia
 - [22/10/2026] NO PAPERCLUB
 - [22/10/2026] Lahari presents: TBD
 
