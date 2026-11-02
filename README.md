@@ -7,7 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [29/10/2026] Lahari presents: [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818v1) by Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero
 - [5/11/2026] NO PAPERCLUB
 - [12/11/2026] Maran presents: TBD
 
@@ -53,6 +52,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [29/10/2026] Lahari presents: [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818v1) by Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero
 
 - [15/10/2026] Naomi presents: [Unlimited OCR Works](https://arxiv.org/abs/2606.23050) by Youyang Yin, Huanhuan Liu, YY, Qunyi Xie, Chaorun Liu, Shiqi Yang, Shaohua Wang, Zhanlong Liu, Hao Zou, Jinyue Chen, Shu Wei, Jingjing Wu, Mingxin Huang, Zhen Wu, Guibin Wang, Tengyu Du, Lei Jia
 
