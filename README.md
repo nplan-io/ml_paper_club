@@ -7,7 +7,6 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 
 ## Next meetup's paper ##
 
-- [12/11/2026] Maran presents: [WIRELESS LINK SCHEDULING WITH GRAPH SIGNAL DIFFUSION](https://arxiv.org/pdf/2611.08274) by Teresa Shang, Romina Garcia Camargo, Yigit Berkay Uslu, Alejandro Ribeiro
 - [19/11/2026] NO PAPERCLUB
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
@@ -52,6 +51,8 @@ We regularly record the presentations made during the Meetup (subject to the pre
 ## Paper history ##
 
 Past papers discussed in Paper Club meetings:
+
+- [12/11/2026] Maran presents: [WIRELESS LINK SCHEDULING WITH GRAPH SIGNAL DIFFUSION](https://arxiv.org/pdf/2611.08274) by Teresa Shang, Romina Garcia Camargo, Yigit Berkay Uslu, Alejandro Ribeiro
 
 - [29/10/2026] Lahari presents: [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818v1) by Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero
 
