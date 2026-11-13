@@ -8,6 +8,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 ## Next meetup's paper ##
 
 - [19/11/2026] NO PAPERCLUB
+- [26/11/2026] Ciaran presents [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) by Randall Balestriero, Yann LeCun.
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
